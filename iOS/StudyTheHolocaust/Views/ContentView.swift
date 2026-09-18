@@ -30,17 +30,23 @@ struct ContentView: View {
                 }
                 .tag(3)
 
+            TimelineView()
+                .tabItem {
+                    Label("Timeline", systemImage: "timeline.vertical")
+                }
+                .tag(4)
+
             BookmarksView()
                 .tabItem {
                     Label("Marcadores", systemImage: "bookmark.fill")
                 }
-                .tag(4)
+                .tag(5)
 
             SearchView()
                 .tabItem {
                     Label("Buscar", systemImage: "magnifyingglass")
                 }
-                .tag(5)
+                .tag(6)
         }
         .environmentObject(dataManager)
     }
