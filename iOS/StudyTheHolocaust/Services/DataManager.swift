@@ -6,6 +6,7 @@ class DataManager: ObservableObject {
     @Published var perpetrators: [Perpetrator] = []
     @Published var legislation: [Legislation] = []
     @Published var articles: [Article] = []
+    @Published var locations: [HistoricalLocation] = []
     @Published var bookmarks: [Bookmark] = []
     @Published var isLoading = false
     @Published var error: String?

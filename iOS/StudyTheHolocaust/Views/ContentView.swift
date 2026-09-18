@@ -24,17 +24,23 @@ struct ContentView: View {
                 }
                 .tag(2)
 
+            MapView()
+                .tabItem {
+                    Label("Mapa", systemImage: "map.fill")
+                }
+                .tag(3)
+
             BookmarksView()
                 .tabItem {
                     Label("Marcadores", systemImage: "bookmark.fill")
                 }
-                .tag(3)
+                .tag(4)
 
             SearchView()
                 .tabItem {
                     Label("Buscar", systemImage: "magnifyingglass")
                 }
-                .tag(4)
+                .tag(5)
         }
         .environmentObject(dataManager)
     }
