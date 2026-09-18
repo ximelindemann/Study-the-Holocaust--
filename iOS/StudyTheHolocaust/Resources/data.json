@@ -1,0 +1,126 @@
+{
+  "perpetrators": [
+    {
+      "id": "hitler",
+      "name": "Adolf Hitler",
+      "birthDate": "20 de abril de 1889",
+      "deathDate": "30 de abril de 1945",
+      "birthPlace": "Linz, Austria",
+      "role": "Führer, Canciller del Reich",
+      "organization": "NSDAP",
+      "biography": "Adolf Hitler fue el dictador de la Alemania nazi y el principal arquitecto del Holocausto. Bajo su liderazgo, el régimen nazi implementó la solución final, resultando en el asesinato sistemático de aproximadamente 6 millones de judíos. Hitler también inició la Segunda Guerra Mundial en Europa.",
+      "imageURL": null,
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Genocidio",
+        "Crímenes de guerra",
+        "Conspiración contra la paz"
+      ],
+      "fate": "Suicidio en el búnker de Berlín, 30 de abril de 1945",
+      "sources": [
+        "Documentos de Núremberg",
+        "Registros históricos alemanes",
+        "Testimonios de sobrevivientes"
+      ]
+    },
+    {
+      "id": "himmler",
+      "name": "Heinrich Himmler",
+      "birthDate": "7 de octubre de 1900",
+      "deathDate": "23 de mayo de 1945",
+      "birthPlace": "Munich, Alemania",
+      "role": "Reichsführer de la SS",
+      "organization": "SS",
+      "biography": "Heinrich Himmler fue el comandante supremo de la SS y uno de los principales organizadores del Holocausto. Supervisó directamente la creación y operación de los campos de concentración y exterminio.",
+      "imageURL": null,
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Genocidio",
+        "Tortura y experimentación humana"
+      ],
+      "fate": "Suicidio tras su captura por fuerzas británicas",
+      "sources": [
+        "Registros de la SS",
+        "Testimonios de oficiales aliados",
+        "Documentos de Núremberg"
+      ]
+    },
+    {
+      "id": "goebbels",
+      "name": "Paul Joseph Goebbels",
+      "birthDate": "29 de octubre de 1897",
+      "deathDate": "1 de mayo de 1945",
+      "birthPlace": "Rheydt, Alemania",
+      "role": "Ministro de Propaganda e Ilustración Popular",
+      "organization": "NSDAP",
+      "biography": "Joseph Goebbels fue el Ministro de Propaganda Nazi. Utilizó los medios de comunicación para propagar la ideología nazi y antisemita, deshumanizando a los judíos y justificando su persecución.",
+      "imageURL": null,
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Incitación al odio y genocidio"
+      ],
+      "fate": "Suicidio con su familia en el búnker de Berlín",
+      "sources": [
+        "Diarios de Goebbels",
+        "Registros de propaganda nazi",
+        "Testimonios de testigos"
+      ]
+    }
+  ],
+  "legislation": [
+    {
+      "id": "1933_enabling_act",
+      "title": "Acta Habilitante (Ermächtigungsgesetz)",
+      "date": "23 de marzo de 1933",
+      "year": 1933,
+      "description": "Ley que otorgó a Adolf Hitler el poder de legislar sin el Parlamento. Esencialmente transformó el gobierno democrático en una dictadura total.",
+      "impact": "Eliminó la separación de poderes y permitió la implementación de políticas raciales y autoritarias sin control parlamentario.",
+      "type": "Persecución",
+      "sources": [
+        "Archivos del Reichstag",
+        "Registros legislativos alemanes"
+      ]
+    },
+    {
+      "id": "1935_nuremberg_laws",
+      "title": "Leyes de Núremberg",
+      "date": "15 de septiembre de 1935",
+      "year": 1935,
+      "description": "Leyes que oficialmente privaron a los judíos de su ciudadanía alemana y les prohibieron matrimonios con ciudadanos alemanes, estableciendo legalmente su estatus de segunda clase.",
+      "impact": "Iniciaron la progresiva deshumanización legal de los judíos, creando las bases jurídicas para una persecución sistemática.",
+      "type": "Discriminación",
+      "sources": [
+        "Gaceta oficial del Reich",
+        "Análisis histórico académico"
+      ]
+    },
+    {
+      "id": "1938_kristallnacht",
+      "title": "Kristallnacht (La Noche de los Cristales Rotos)",
+      "date": "9-10 de noviembre de 1938",
+      "year": 1938,
+      "description": "Pogrom violento coordinado contra judíos y sus propiedades. Más de 1,400 sinagogas fueron incendiadas, miles de tiendas saqueadas, y decenas de judíos fueron asesinados.",
+      "impact": "Marcó la transición de la persecución legal a la violencia física organizada, demostrando que el Estado nazi toleraría (e incluso fomentaría) actos violentos contra los judíos.",
+      "type": "Persecución",
+      "sources": [
+        "Reportes de prensa contemporánea",
+        "Testimonios de testigos",
+        "Documentos policiales nazis"
+      ]
+    },
+    {
+      "id": "1941_wannsee_conference",
+      "title": "Conferencia de Wannsee",
+      "date": "20 de enero de 1941",
+      "year": 1941,
+      "description": "Conferencia en la que altos oficiales nazis planearon la 'Solución Final' - el exterminio sistemático de los judíos europeos. Se establecieron las directivas operacionales para el genocidio.",
+      "impact": "Transformó el antisemitismo político en un programa de exterminio industrial y coordinado que resultaría en el asesinato de aproximadamente 6 millones de judíos.",
+      "type": "Exterminio",
+      "sources": [
+        "Protocolo de Wannsee",
+        "Testimonios de participantes",
+        "Documentos de Núremberg"
+      ]
+    }
+  ]
+}

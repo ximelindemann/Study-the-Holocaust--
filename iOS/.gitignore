@@ -1,0 +1,50 @@
+# Xcode
+.DS_Store
+*.pbxproj
+*.xcodeproj/
+*.xcworkspace/
+*.playground
+DerivedData/
+Build/
+
+# Swift
+.build/
+.swiftpm/
+*.swifty
+.swift-version
+
+# Pods
+Pods/
+Podfile.lock
+*.podspec.lock
+
+# CocoaPods
+.cocoapods/
+
+# Carthage
+Carthage/Build/
+.carthage/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+*.log
+
+# App-specific
+*.ipa
+*.app
+*.dSYM
+
+# Temporary
+.tmp/
+temp/
