@@ -153,66 +153,86 @@ struct QuizListView: View {
         [
             Question(
                 id: "q1",
-                text: "¿Cuál era el cargo de Adolf Hitler?",
-                options: ["Presidente", "Canciller", "General", "Senador"],
+                text: "¿Quién fue el fundador e ideólogo del Partido Nazi (NSDAP)?",
+                options: ["Hermann Göring", "Adolf Hitler", "Joseph Goebbels", "Rudolf Hess"],
                 correctAnswerIndex: 1,
-                explanation: "Adolf Hitler fue Canciller del Reich desde 1933 hasta su muerte en 1945.",
+                explanation: "Adolf Hitler fundó el NSDAP y desarrolló su ideología nacionalsocialista.",
                 difficulty: .beginner
             ),
             Question(
                 id: "q2",
-                text: "¿Quién fue el jefe de la SS?",
-                options: ["Goebbels", "Himmler", "Göring", "Heydrich"],
+                text: "¿Cuál era el rol principal de Heinrich Himmler en el régimen nazi?",
+                options: ["Comandante de la Luftwaffe", "Organizador del Holocausto y jefe de la SS", "Ministro de Economía", "Jefe del Ejército"],
                 correctAnswerIndex: 1,
-                explanation: "Heinrich Himmler fue el Reichsführer de la SS, el brazo paramilitar del Tercer Reich.",
+                explanation: "Himmler fue Reichsführer de la SS y principal organizador de la Solución Final.",
                 difficulty: .beginner
             ),
             Question(
                 id: "q3",
-                text: "¿Cuál era la responsabilidad de Goebbels?",
-                options: ["Ejército", "Policía", "Propaganda", "Finanzas"],
-                correctAnswerIndex: 2,
-                explanation: "Joseph Goebbels fue Ministro de Propaganda e Ilustración Popular.",
+                text: "¿Cuáles eran las tres esferas de poder principales que controlaban el régimen nazi?",
+                options: [
+                    "Ejército, Policía y Propaganda",
+                    "Partido Nazi, SS y Gestapo",
+                    "Hitler, Goebbels y Himmler",
+                    "Reichstag, Bundestag y Senado"
+                ],
+                correctAnswerIndex: 1,
+                explanation: "El poder se distribuyó entre el Partido Nazi (control político), la SS (militarizado) y la Gestapo (represión).",
                 difficulty: .beginner
             ),
             Question(
                 id: "q4",
-                text: "¿En qué país nació Adolf Hitler?",
-                options: ["Alemania", "Austria", "Hungría", "Polonia"],
+                text: "¿Quién fue Ernest Röhm y por qué fue significativo?",
+                options: [
+                    "General del ejército que derrotó a Hitler",
+                    "Jefe de las SA eliminado en la Noche de los Cuchillos Largos",
+                    "Diplomático que traicionó a Alemania",
+                    "Comandante de la resistencia alemana"
+                ],
                 correctAnswerIndex: 1,
-                explanation: "Hitler nació en Linz, Austria en 1889, antes de que Austria fuera anexada a Alemania.",
+                explanation: "Röhm fue líder de las SA (paramilitares) y fue asesinado en 1934 para consolidar el poder de Hitler.",
                 difficulty: .beginner
             ),
             Question(
                 id: "q5",
-                text: "¿Quién fue Hermann Göring?",
-                options: ["Comandante de la Luftwaffe", "Jefe de la Gestapo", "Viceführer", "Jefe del Ejército"],
-                correctAnswerIndex: 0,
-                explanation: "Hermann Göring fue el comandante de la Luftwaffe, la fuerza aérea nazi.",
+                text: "¿Cuál fue el apodo de la operación en la que Hitler ordenó asesinar a líderes políticos y adversarios en 1934?",
+                options: ["Operación Valkiria", "Noche de los Cuchillos Largos", "Kristallnacht", "Operación Barbarroja"],
+                correctAnswerIndex: 1,
+                explanation: "La Noche de los Cuchillos Largos (30 de junio-2 de julio de 1934) fue una purga interna que consolidó el poder de Hitler.",
                 difficulty: .beginner
             ),
             Question(
                 id: "q6",
-                text: "¿Cuándo fue nombrado Hitler Canciller de Alemania?",
-                options: ["1930", "1931", "1933", "1935"],
-                correctAnswerIndex: 2,
-                explanation: "Hitler fue nombrado Canciller de Alemania el 30 de enero de 1933.",
+                text: "¿Qué documento firmó Hitler que violó directamente el Tratado de Versalles?",
+                options: [
+                    "El Tratado de Múnich",
+                    "El Pacto de Anticomintén",
+                    "El Acta Habilitante",
+                    "El Pacto Nazi-Soviético"
+                ],
+                correctAnswerIndex: 0,
+                explanation: "El Tratado de Múnich (1938) permitió a Hitler anexar territorios checoslovacos, violando Versalles.",
                 difficulty: .beginner
             ),
             Question(
                 id: "q7",
-                text: "¿Cuál fue el destino de Adolf Hitler al final de la guerra?",
-                options: ["Capturado por aliados", "Ejecutado públicamente", "Suicidio en el búnker", "Escapó a Argentina"],
-                correctAnswerIndex: 2,
-                explanation: "Hitler se suicidó en su búnker de Berlín el 30 de abril de 1945.",
+                text: "¿Quién negó públicamente la responsabilidad personal por el Holocausto en los Juicios de Núremberg?",
+                options: ["Todos los acusados", "Solo Himmler", "Göring y Himmler", "Ninguno admitió responsabilidad completa"],
+                correctAnswerIndex: 3,
+                explanation: "Muchos nazis en Núremberg alegaron que solo 'seguían órdenes', negando responsabilidad personal.",
                 difficulty: .beginner
             ),
             Question(
                 id: "q8",
-                text: "¿Quién fue Rudolf Hess?",
-                options: ["Ministro del Interior", "Viceführer del NSDAP", "Jefe de la Propaganda", "Comandante militar"],
+                text: "¿Cuál fue la estrategia de Hitler para expandir territorio alemán llamada 'Lebensraum'?",
+                options: [
+                    "Colonización pacífica",
+                    "Espacio vital mediante conquista militar y dominación de pueblos 'inferiores'",
+                    "Negociaciones diplomáticas",
+                    "Migración voluntaria"
+                ],
                 correctAnswerIndex: 1,
-                explanation: "Rudolf Hess fue el Viceführer del NSDAP y cercano colaborador de Hitler.",
+                explanation: "Lebensraum ('espacio vital') justificaba la conquista y el genocidio como necesarios para la 'raza aria'.",
                 difficulty: .beginner
             )
         ]
@@ -222,70 +242,80 @@ struct QuizListView: View {
         [
             Question(
                 id: "lq1",
-                text: "¿En qué año se promulgaron las Leyes de Núremberg?",
-                options: ["1933", "1935", "1937", "1939"],
+                text: "¿Qué diferencia hay entre el Decreto de Protección del Pueblo y el Estado (1933) y el Acta Habilitante?",
+                options: [
+                    "No hay diferencia, son el mismo documento",
+                    "El Decreto suspendió derechos civiles; el Acta Habilitante permitió legislación dictatorial",
+                    "El Acta Habilitante fue primero",
+                    "Ambos se enfocaron en judíos específicamente"
+                ],
                 correctAnswerIndex: 1,
-                explanation: "Las Leyes de Núremberg se promulgaron el 15 de septiembre de 1935.",
+                explanation: "El Decreto suspendió libertades civiles tras el incendio del Reichstag; el Acta Habilitante (23 de marzo) permitió a Hitler legislar sin el Parlamento.",
                 difficulty: .intermediate
             ),
             Question(
                 id: "lq2",
-                text: "¿Qué hizo el Acta Habilitante de 1933?",
+                text: "¿Cuál fue el impacto legal específico de las Leyes de Núremberg de 1935?",
                 options: [
-                    "Prohibió los partidos políticos",
-                    "Otorgó poderes dictatoriales a Hitler",
-                    "Creó la Gestapo",
-                    "Declaró la guerra"
+                    "Prohibieron el trabajo judío",
+                    "Privaron de ciudadanía y prohibieron matrimonios mixtos",
+                    "Ordenaron la deportación de judíos",
+                    "Cerraron todas las sinagogas"
                 ],
                 correctAnswerIndex: 1,
-                explanation: "El Acta Habilitante transformó el gobierno democrático en una dictadura total.",
+                explanation: "Las Leyes establecieron dos disposiciones clave: pérdida de ciudadanía y prohibición de matrimonios entre judíos y arios.",
                 difficulty: .intermediate
             ),
             Question(
                 id: "lq3",
-                text: "¿Qué establecieron principalmente las Leyes de Núremberg?",
+                text: "¿Qué fueron las Leyes de Núremberg de 1935 conocidas como?",
                 options: [
-                    "La creación de campos de concentración",
-                    "La privación de ciudadanía a los judíos",
-                    "La invasión de Polonia",
-                    "La destrucción de sinagogas"
+                    "Leyes de Protección de la Raza",
+                    "Ley de Ciudadanía del Reich y Ley de Protección de la Sangre Alemana",
+                    "Ley de Purificación Racial",
+                    "Leyes de Segregación"
                 ],
                 correctAnswerIndex: 1,
-                explanation: "Las Leyes de Núremberg privaron a los judíos de su ciudadanía alemana y prohibieron matrimonios mixtos.",
+                explanation: "Las dos leyes fueron la 'Ley de Ciudadanía del Reich' y la 'Ley para la Protección de la Sangre Alemana y el Honor Alemán'.",
                 difficulty: .intermediate
             ),
             Question(
                 id: "lq4",
-                text: "¿Qué fue la Kristallnacht?",
+                text: "¿Qué fue la Kristallnacht y quién la orquestó?",
                 options: [
-                    "Una ley sobre matrimonios",
-                    "Un pogrom violento contra judíos en 1938",
-                    "Una conferencia política",
-                    "Una campaña de propaganda"
+                    "Una revuelta judía de 1938",
+                    "Un pogrom coordinado por el régimen después del asesinato de Ernst vom Rath en 1938",
+                    "Una ley antisemita de 1936",
+                    "Un atentado contra la Gestapo"
                 ],
                 correctAnswerIndex: 1,
-                explanation: "La Kristallnacht fue la Noche de los Cristales Rotos, un pogrom coordinado el 9-10 de noviembre de 1938.",
+                explanation: "El 9-10 de noviembre de 1938, tras el asesinato del diplomático alemán vom Rath por Herschel Grynszpan, se orquestó un pogrom masivo.",
                 difficulty: .intermediate
             ),
             Question(
                 id: "lq5",
-                text: "¿En qué año tuvo lugar la Conferencia de Wannsee?",
-                options: ["1939", "1940", "1941", "1942"],
-                correctAnswerIndex: 2,
-                explanation: "La Conferencia de Wannsee fue el 20 de enero de 1941, donde se planeó la Solución Final.",
+                text: "¿Cuáles fueron las consecuencias inmediatas de la Kristallnacht para los judíos alemanes?",
+                options: [
+                    "Ninguna, fue un evento aislado",
+                    "Encarcelamiento masivo, multas forzadas y exclusión aún mayor de la vida económica",
+                    "Deportación inmediata a Polonia",
+                    "Permiso para emigrar libremente"
+                ],
+                correctAnswerIndex: 1,
+                explanation: "Tras Kristallnacht, 30,000 judíos fueron arrestados, se les impusieron multas de 1,000 millones de reichsmarks, y se intensificó su exclusión económica.",
                 difficulty: .intermediate
             ),
             Question(
                 id: "lq6",
-                text: "¿Cuál era el propósito de la Conferencia de Wannsee?",
+                text: "¿Qué fue decidido en la Conferencia de Wannsee del 20 de enero de 1941?",
                 options: [
-                    "Negociar con las potencias aliadas",
-                    "Planear la Solución Final",
-                    "Organizar la invasión de Rusia",
-                    "Crear nuevos campos de concentración"
+                    "La invasión de la Unión Soviética",
+                    "La coordinación de la Solución Final: exterminio sistemático de judíos europeos",
+                    "La creación del Tercer Reich",
+                    "La alianza con Italia y Japón"
                 ],
                 correctAnswerIndex: 1,
-                explanation: "La Conferencia de Wannsee fue donde se coordinó el plan para el exterminio sistemático de los judíos europeos.",
+                explanation: "En Wannsee, altos oficiales nazis coordinaron el plan para asesinar a todos los judíos bajo control nazi mediante campos de exterminio.",
                 difficulty: .intermediate
             )
         ]
@@ -295,63 +325,80 @@ struct QuizListView: View {
         [
             Question(
                 id: "cq1",
-                text: "¿Cuál fue el campo de exterminio más grande?",
-                options: ["Treblinka", "Auschwitz", "Sobibor", "Belzec"],
+                text: "¿Cuál fue la estrategia de Auschwitz que la diferenció de otros campos de exterminio?",
+                options: [
+                    "Era solo un campo de concentración",
+                    "Combinaba exterminio masivo con trabajo forzado antes de matar",
+                    "No tenía capacidad de exterminio",
+                    "Solo mataba mediante hambre"
+                ],
                 correctAnswerIndex: 1,
-                explanation: "Auschwitz-Birkenau fue el más grande, con aproximadamente 1.1 millones de víctimas.",
+                explanation: "Auschwitz fue único: funcionaba como campo de concentración Y de exterminio, haciendo trabajar a prisioneros hasta matarlos.",
                 difficulty: .intermediate
             ),
             Question(
                 id: "cq2",
-                text: "¿En qué país estaba ubicado Auschwitz?",
-                options: ["Alemania", "Polonia", "Checoslovaquia", "Hungría"],
+                text: "¿Cuál era el propósito principal de Treblinka comparado con Auschwitz?",
+                options: [
+                    "Era un campo de trabajo",
+                    "Exterminio masivo inmediato sin trabajo forzado",
+                    "Refugio para prisioneros",
+                    "Centro de investigación médica"
+                ],
                 correctAnswerIndex: 1,
-                explanation: "Auschwitz-Birkenau estaba ubicado en Polonia, cerca de la ciudad de Oświęcim.",
+                explanation: "Treblinka estaba diseñado exclusivamente para exterminio: los trenes llegaban, mataban en las cámaras de gas y enterraban los cuerpos.",
                 difficulty: .intermediate
             ),
             Question(
                 id: "cq3",
-                text: "¿En qué año fue liberado Auschwitz?",
-                options: ["1943", "1944", "1945", "1946"],
-                correctAnswerIndex: 2,
-                explanation: "Auschwitz fue liberado por tropas soviéticas el 27 de enero de 1945.",
+                text: "¿Qué fue el 'Plan Madagascar' del régimen nazi?",
+                options: [
+                    "Un campo ubicado en Madagascar",
+                    "Un plan fallido de deportar a todos los judíos europeos a Madagascar",
+                    "Una estrategia militar",
+                    "Un tratado comercial"
+                ],
+                correctAnswerIndex: 1,
+                explanation: "Antes de la Solución Final, Hitler consideró deportar a millones de judíos a Madagascar, pero fue reemplazado por exterminio.",
                 difficulty: .intermediate
             ),
             Question(
                 id: "cq4",
-                text: "¿Cuántas víctimas aproximadamente murieron en Treblinka?",
-                options: ["300,000", "600,000", "870,000", "1,100,000"],
+                text: "¿Cuál fue el sistema utilizado para matar en los principales campos de exterminio?",
+                options: [
+                    "Disparo masivo",
+                    "Hambre únicamente",
+                    "Cámaras de gas con monóxido de carbono o Zyklon B",
+                    "Envenenamiento del agua"
+                ],
                 correctAnswerIndex: 2,
-                explanation: "Aproximadamente 870,000 personas fueron asesinadas en Treblinka.",
+                explanation: "Las cámaras de gas fueron el método principal: usaban gas de combustión o insecticida Zyklon B para matar a cientos simultáneamente.",
                 difficulty: .intermediate
             ),
             Question(
                 id: "cq5",
-                text: "¿Cuál fue el primer campo de concentración permanente nazi?",
-                options: ["Auschwitz", "Dachau", "Treblinka", "Sobibor"],
+                text: "¿Cuál fue el rol de los 'Sonderkommandos' en Auschwitz?",
+                options: [
+                    "Guardias de seguridad",
+                    "Prisioneros forzados a remover cuerpos de las cámaras de gas y quemar los restos",
+                    "Médicos del campo",
+                    "Oficiales administrativos"
+                ],
                 correctAnswerIndex: 1,
-                explanation: "Dachau fue el primer campo de concentración permanente, establecido en 1933.",
+                explanation: "Los Sonderkommandos eran prisioneros que, bajo amenaza de muerte, removían cuerpos y operaban los hornos crematorios.",
                 difficulty: .intermediate
             ),
             Question(
                 id: "cq6",
-                text: "¿Qué diferencia principal había entre campos de concentración y campos de exterminio?",
+                text: "¿Qué fue la 'selección en la rampa' en Auschwitz?",
                 options: [
-                    "Los campos de exterminio eran más pequeños",
-                    "Los campos de exterminio estaban diseñados específicamente para matar",
-                    "Los campos de concentración tenían más guardias",
-                    "No había diferencia real"
+                    "Proceso de asignación de trabajo",
+                    "Proceso médico de control de salud",
+                    "Decisión de vida o muerte: trabajar o ir directamente a las cámaras de gas",
+                    "Asignación de barracones"
                 ],
-                correctAnswerIndex: 1,
-                explanation: "Los campos de exterminio como Auschwitz-Birkenau y Treblinka estaban específicamente diseñados y equipados para el asesinato masivo sistemático.",
-                difficulty: .intermediate
-            ),
-            Question(
-                id: "cq7",
-                text: "¿Quién fue el comandante de Auschwitz?",
-                options: ["Franz Stangl", "Rudolf Höss", "Theodor Eicke", "Oswald Pohl"],
-                correctAnswerIndex: 1,
-                explanation: "Rudolf Höss fue el comandante de Auschwitz durante la mayor parte de su operación.",
+                correctAnswerIndex: 2,
+                explanation: "En la rampa de llegada, médicos nazis como Mengele decidían en segundos quién trabajaría y quién sería asesinado inmediatamente.",
                 difficulty: .intermediate
             )
         ]
@@ -361,58 +408,93 @@ struct QuizListView: View {
         [
             Question(
                 id: "tq1",
-                text: "¿Cuándo comenzó la Segunda Guerra Mundial?",
-                options: ["1937", "1938", "1939", "1940"],
-                correctAnswerIndex: 2,
-                explanation: "La Segunda Guerra Mundial comenzó el 1 de septiembre de 1939 con la invasión de Polonia.",
+                text: "¿Cuál fue el evento detonante que Hitler usó para justificar la invasión de Polonia el 1 de septiembre de 1939?",
+                options: [
+                    "Un ataque fronterizo polaco",
+                    "El incidente de Gleiwitz (simulado): falso ataque alemán culpando a Polonia",
+                    "Una protesta judía",
+                    "Un acuerdo comercial roto"
+                ],
+                correctAnswerIndex: 1,
+                explanation: "Los nazis organizaron un falso 'ataque polaco' en la emisora de Gleiwitz para justificar la invasión.",
                 difficulty: .beginner
             ),
             Question(
                 id: "tq2",
-                text: "¿Cuándo finalizó la Segunda Guerra Mundial en Europa?",
-                options: ["7 de mayo de 1945", "8 de mayo de 1945", "2 de septiembre de 1945", "14 de agosto de 1945"],
+                text: "¿Cuál fue el significado del Pacto Nazi-Soviético de agosto de 1939?",
+                options: [
+                    "Una alianza permanente",
+                    "Acuerdo de no agresión pero secretamente dividía Polonia y otros territorios entre ambas potencias",
+                    "Una promesa de paz mutua",
+                    "Un tratado comercial"
+                ],
                 correctAnswerIndex: 1,
-                explanation: "La Segunda Guerra Mundial en Europa finalizó el 8 de mayo de 1945 con la rendición incondicional de Alemania.",
+                explanation: "El Molotov-Ribbentrop incluía protocolos secretos que dividían Europa del Este entre Alemania y la URSS.",
                 difficulty: .beginner
             ),
             Question(
                 id: "tq3",
-                text: "¿Cuándo tuvo lugar el Desembarco de Normandía?",
-                options: ["6 de junio de 1944", "6 de junio de 1943", "17 de julio de 1944", "15 de agosto de 1944"],
-                correctAnswerIndex: 0,
-                explanation: "El Desembarco de Normandía tuvo lugar el 6 de junio de 1944, marcando el inicio de la liberación de Europa occidental.",
+                text: "¿Qué fue la Operación Barbarroja?",
+                options: [
+                    "La invasión de Francia",
+                    "La invasión sorpresiva de la Unión Soviética el 22 de junio de 1941, quebrando el Pacto Nazi-Soviético",
+                    "El desembarco de Normandía",
+                    "La invasión de Austria"
+                ],
+                correctAnswerIndex: 1,
+                explanation: "Barbarroja fue el ataque de Hitler a la URSS en 1941, abriendo el frente oriental y cambiando la guerra.",
                 difficulty: .beginner
             ),
             Question(
                 id: "tq4",
-                text: "¿Cuándo fue establecido el Gueto de Varsovia?",
-                options: ["1938", "1939", "1940", "1941"],
-                correctAnswerIndex: 2,
-                explanation: "El Gueto de Varsovia fue establecido en 1940 y fue el más grande de Europa.",
+                text: "¿Qué caracterizó el patrón de persecución antes del Gueto de Varsovia (1940)?",
+                options: [
+                    "Deportación inmediata a campos de exterminio",
+                    "Leyes discriminatorias, segregación gradual y confiscación de propiedad",
+                    "Ejecuciones masivas de inmediato",
+                    "Permiso para emigrar libremente"
+                ],
+                correctAnswerIndex: 1,
+                explanation: "La persecución fue gradual: Leyes de Núremberg (1935), Kristallnacht (1938), luego segregación en guetos (1940-1941).",
                 difficulty: .beginner
             ),
             Question(
                 id: "tq5",
-                text: "¿Cuándo tuvo lugar el Levantamiento del Gueto de Varsovia?",
-                options: ["Abril de 1942", "Abril de 1943", "Agosto de 1943", "Octubre de 1943"],
+                text: "¿Por qué fue significativo el Levantamiento del Gueto de Varsovia (abril-mayo de 1943)?",
+                options: [
+                    "Fue el único levantamiento durante el Holocausto",
+                    "Fue el primer levantamiento urbano organizado contra los nazis, demostrando resistencia judía",
+                    "Logró liberar a todos los prisioneros",
+                    "Marcó el fin de la guerra"
+                ],
                 correctAnswerIndex: 1,
-                explanation: "El Levantamiento del Gueto de Varsovia ocurrió del 19 de abril al 16 de mayo de 1943.",
+                explanation: "Aunque fue brutalmente sofocado, fue uno de los pocos levantamientos urbanos contra la ocupación nazi.",
                 difficulty: .beginner
             ),
             Question(
                 id: "tq6",
-                text: "¿Cuándo fueron liberados los primeros campos de concentración?",
-                options: ["Enero de 1945", "Octubre de 1944", "Marzo de 1945", "Mayo de 1945"],
-                correctAnswerIndex: 0,
-                explanation: "Auschwitz fue liberado el 27 de enero de 1945 por tropas soviéticas, siendo el primero de los campos principales.",
+                text: "¿En qué orden ocurrieron estos eventos? 1) Wannsee 2) Kristallnacht 3) Operación Barbarroja",
+                options: [
+                    "1, 2, 3",
+                    "2, 1, 3",
+                    "3, 2, 1",
+                    "2, 3, 1"
+                ],
+                correctAnswerIndex: 1,
+                explanation: "Kristallnacht (nov 1938), Wannsee (ene 1941), Barbarroja (jun 1941)—mostrando la escalada hacia exterminio.",
                 difficulty: .beginner
             ),
             Question(
                 id: "tq7",
-                text: "¿Cuándo comenzaron los Juicios de Núremberg?",
-                options: ["Octubre de 1945", "Noviembre de 1945", "Enero de 1946", "Marzo de 1946"],
+                text: "¿Cuánto tiempo después de la liberación de Auschwitz comenzaron formalmente los Juicios de Núremberg?",
+                options: [
+                    "Inmediatamente (semanas)",
+                    "Aproximadamente 10 meses (enero-noviembre de 1945)",
+                    "Años después",
+                    "Nunca se juzgó a nadie"
+                ],
                 correctAnswerIndex: 1,
-                explanation: "Los Juicios de Núremberg comenzaron el 20 de noviembre de 1945.",
+                explanation: "Auschwitz fue liberado el 27 enero 1945; Núremberg comenzó el 20 noviembre 1945, permitiendo investigación pero no venganza inmediata.",
                 difficulty: .beginner
             )
         ]
@@ -422,86 +504,106 @@ struct QuizListView: View {
         [
             Question(
                 id: "gq1",
-                text: "¿Aproximadamente cuántos judíos fueron asesinados en el Holocausto?",
-                options: ["3 millones", "6 millones", "9 millones", "12 millones"],
+                text: "¿Cuáles fueron los tres pilares ideológicos del nazismo?",
+                options: [
+                    "Socialismo, democracia, pacifismo",
+                    "Fascismo, racismo antisemita y 'Lebensraum' (espacio vital)",
+                    "Comunismo, nacionalismo y igualdad",
+                    "Monarquía, catolicismo y tradición"
+                ],
                 correctAnswerIndex: 1,
-                explanation: "Aproximadamente 6 millones de judíos europeos fueron asesinados.",
+                explanation: "El nazismo se basaba en fascismo autorititario, racismo biológico, y conquista territorial justificada como espacio necesario.",
                 difficulty: .advanced
             ),
             Question(
                 id: "gq2",
-                text: "¿Cuántos años duró la Segunda Guerra Mundial?",
-                options: ["5 años", "6 años", "7 años", "8 años"],
+                text: "¿Cuál fue la categorización racial nazi de los pueblos europeos?",
+                options: [
+                    "Todos eran iguales",
+                    "Arios superiores, razas inferiores eslavas/judías, con gitanos en el fondo",
+                    "Basada en religión, no raza",
+                    "Solo basada en nacionalidad"
+                ],
                 correctAnswerIndex: 1,
-                explanation: "La Segunda Guerra Mundial duró aproximadamente 6 años, de 1939 a 1945.",
+                explanation: "Los nazis crearon una jerarquía racial donde los 'arios' germánicos eran superiores y otros pueblos eran 'inferiores' o destinados a esclavitud.",
                 difficulty: .advanced
             ),
             Question(
                 id: "gq3",
-                text: "¿Cuántas víctimas totales causó la Segunda Guerra Mundial?",
-                options: ["30 millones", "50 millones", "70 millones", "100 millones"],
-                correctAnswerIndex: 2,
-                explanation: "Aproximadamente 70-85 millones de personas murieron durante la Segunda Guerra Mundial.",
+                text: "¿Qué fue el programa de eutanasia nazi T-4?",
+                options: [
+                    "Un programa de salud pública",
+                    "Asesinato sistemático de personas con discapacidades mentales y físicas consideradas 'vidas indignas de vivir'",
+                    "Un programa de educación",
+                    "Una iniciativa de bienestar social"
+                ],
+                correctAnswerIndex: 1,
+                explanation: "El Programa T-4 asesinó a aproximadamente 250,000 personas discapacitadas, siendo un precursor de los métodos utilizados en el Holocausto.",
                 difficulty: .advanced
             ),
             Question(
                 id: "gq4",
-                text: "¿Cuál fue la ideología política del partido nazi?",
+                text: "¿Cuál fue el rol de la propaganda en el Holocausto?",
                 options: [
-                    "Comunismo",
-                    "Fascismo y racismo",
-                    "Socialismo democrático",
-                    "Liberalismo"
+                    "No jugó un rol importante",
+                    "Deshumanizó a las víctimas, normalizó la violencia y movilizó apoyo popular para las políticas nazis",
+                    "Solo fue propaganda de guerra",
+                    "Fue accidental"
                 ],
                 correctAnswerIndex: 1,
-                explanation: "El nacionalsocialismo (nazismo) fue una ideología fascista basada en el racismo y el autoritarismo extremo.",
+                explanation: "Goebbels y su ministerio satanizaron constantemente a judíos y otros grupos, preparando a la población para aceptar o ignorar su persecución.",
                 difficulty: .advanced
             ),
             Question(
                 id: "gq5",
-                text: "¿Quién fue la mujer más importante en el régimen nazi además de Hitler?",
+                text: "¿Qué fue la 'Resistencia Blanca Rosa' (Weiße Rose) en Alemania?",
                 options: [
-                    "Eva Braun",
-                    "Magda Goebbels",
-                    "No hubo una mujer clave importante",
-                    "Unity Mitford"
+                    "Un movimiento nazi",
+                    "Grupo de resistencia no violenta de estudiantes alemanes contra el régimen nazi",
+                    "Una organización de espías aliados",
+                    "Un partido político legal"
                 ],
-                correctAnswerIndex: 2,
-                explanation: "No hubo una mujer que jugara un papel político significativo en el régimen nazi. Las mujeres nazis estaban relegadas al hogar.",
+                correctAnswerIndex: 1,
+                explanation: "La Rosa Blanca fue un grupo de estudiantes universitarios que distribuyó panfletos contra Hitler; sus líderes fueron ejecutados en 1943.",
                 difficulty: .advanced
             ),
             Question(
                 id: "gq6",
-                text: "¿Cuál fue el objetivo final del plan llamado 'Solución Final'?",
+                text: "¿Cuál fue el alcance geográfico del Holocausto?",
                 options: [
-                    "Deportar a todos los judíos a Madagascar",
-                    "Crear un gueto mundial judío",
-                    "El exterminio total de los judíos europeos",
-                    "Convertir a los judíos al cristianismo"
+                    "Solo Alemania",
+                    "Alemania y Polonia",
+                    "Toda Europa conquistada: desde Francia hasta la Unión Soviética",
+                    "Solo Europa del Este"
                 ],
                 correctAnswerIndex: 2,
-                explanation: "La Solución Final fue el plan para el exterminio sistemático y total de todos los judíos bajo control nazi.",
+                explanation: "El Holocausto abarcó toda Europa bajo control nazi: Francia, Países Bajos, Bélgica, Polonia, Unión Soviética ocupada, Grecia, Yugoslavia, Hungría, etc.",
                 difficulty: .advanced
             ),
             Question(
                 id: "gq7",
-                text: "¿Qué grupos fueron perseguidos además de los judíos durante el Holocausto?",
+                text: "¿Cómo escaparon algunos judíos del Holocausto?",
                 options: [
-                    "Solo judíos",
-                    "Judíos y gitanos",
-                    "Judíos, gitanos, homosexuales, discapacitados, prisioneros políticos y otros",
-                    "Judíos y comunistas"
+                    "Ninguno escapó",
+                    "Por suerte solamente",
+                    "Por ayuda de no-judíos, documentos falsos, ocultándose, o países que se negaron a deportarlos como Dinamarca",
+                    "No hay registros de escapadas"
                 ],
                 correctAnswerIndex: 2,
-                explanation: "El régimen nazi persiguió y asesinó a judíos, gitanos, homosexuales, personas con discapacidades, prisioneros políticos, Testigos de Jehová y otros grupos considerados 'indeseables'.",
+                explanation: "Algunos judíos escaparon gracias a rescatistas no-judíos (Justos entre las Naciones), documentos falsificados, y algunos gobiernos que resistieron presión nazi.",
                 difficulty: .advanced
             ),
             Question(
                 id: "gq8",
-                text: "¿Cuántas potencias Aliadas principales participaron en la Segunda Guerra Mundial?",
-                options: ["Dos", "Tres", "Cuatro", "Cinco"],
-                correctAnswerIndex: 1,
-                explanation: "Las tres potencias Aliadas principales fueron: Unión Soviética, Reino Unido y Estados Unidos.",
+                text: "¿Cuál fue el legado legal del Holocausto después de la guerra?",
+                options: [
+                    "Ninguno, fue olvidado rápidamente",
+                    "Solo procedimientos penales sin cambios legales",
+                    "Creación de leyes internacionales de derechos humanos y la Convención sobre el Genocidio",
+                    "Las cosas continuaron como antes"
+                ],
+                correctAnswerIndex: 2,
+                explanation: "El Holocausto llevó a la Declaración Universal de Derechos Humanos (1948) y la Convención sobre el Genocidio, definiendo crímenes de guerra internacionalmente.",
                 difficulty: .advanced
             )
         ]
