@@ -19,6 +19,9 @@ struct LocationDetailView: View {
     var body: some View {
         ScrollView {
             VStack(alignment: .leading, spacing: 16) {
+                // Image
+                RemoteImage(urlString: location.imageURL, height: 250)
+
                 // Mini map
                 Map(position: .constant(.region(region)))
                     .frame(height: 200)

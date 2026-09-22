@@ -9,7 +9,7 @@
       "role": "Führer, Canciller del Reich",
       "organization": "NSDAP",
       "biography": "Adolf Hitler fue el dictador de la Alemania nazi y el principal arquitecto del Holocausto. Bajo su liderazgo, el régimen nazi implementó la solución final, resultando en el asesinato sistemático de aproximadamente 6 millones de judíos. Hitler también inició la Segunda Guerra Mundial en Europa.",
-      "imageURL": null,
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hitler%2C_Adolf_-_postcard.jpg/440px-Hitler%2C_Adolf_-_postcard.jpg",
       "charges": [
         "Crímenes contra la humanidad",
         "Genocidio",
@@ -32,7 +32,7 @@
       "role": "Reichsführer de la SS",
       "organization": "SS",
       "biography": "Heinrich Himmler fue el comandante supremo de la SS y uno de los principales organizadores del Holocausto. Supervisó directamente la creación y operación de los campos de concentración y exterminio.",
-      "imageURL": null,
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bundesarchiv_Bild_183-S72382%2C_Heinrich_Himmler.jpg/440px-Bundesarchiv_Bild_183-S72382%2C_Heinrich_Himmler.jpg",
       "charges": [
         "Crímenes contra la humanidad",
         "Genocidio",
@@ -54,7 +54,7 @@
       "role": "Ministro de Propaganda e Ilustración Popular",
       "organization": "NSDAP",
       "biography": "Joseph Goebbels fue el Ministro de Propaganda Nazi. Utilizó los medios de comunicación para propagar la ideología nazi y antisemita, deshumanizando a los judíos y justificando su persecución.",
-      "imageURL": null,
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Goebbels.jpg/440px-Goebbels.jpg",
       "charges": [
         "Crímenes contra la humanidad",
         "Incitación al odio y genocidio"
@@ -138,7 +138,7 @@
       "operators": ["Comandante: Rudolf Höss"],
       "currentStatus": "Sitio Patrimonio de la UNESCO",
       "historicalSignificance": "Símbolo del Holocausto",
-      "imageURL": null,
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Auschwitz_birkenau_barrack.jpg/640px-Auschwitz_birkenau_barrack.jpg",
       "sources": ["Archivos de Auschwitz", "Testimonios de sobrevivientes"]
     },
     {
@@ -155,7 +155,7 @@
       "operators": ["Comandante: Franz Stangl"],
       "currentStatus": "Memorial",
       "historicalSignificance": "Centro de la Solución Final",
-      "imageURL": null,
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Treblinka_monument.jpg/640px-Treblinka_monument.jpg",
       "sources": ["Testimonios de Jankiel Wiernik", "Registros de la SS"]
     },
     {
@@ -172,7 +172,7 @@
       "operators": ["Gobernador: Hans Frank"],
       "currentStatus": "Monumento",
       "historicalSignificance": "Sitio del Levantamiento del Gueto (1943)",
-      "imageURL": null,
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Warsaw_Ghetto_Uprising_Photo_by_Juergen_Stroop_14.jpg/640px-Warsaw_Ghetto_Uprising_Photo_by_Juergen_Stroop_14.jpg",
       "sources": ["Diarios del Gueto de Varsovia", "Testimonios de Jan Karski"]
     },
     {
@@ -189,7 +189,7 @@
       "operators": ["Comandante: Theodor Eicke"],
       "currentStatus": "Museo Memorial",
       "historicalSignificance": "Prototipo del sistema de campos nazis",
-      "imageURL": null,
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Dachau_Concentration_Camp.jpg/640px-Dachau_Concentration_Camp.jpg",
       "sources": ["Archivos de Dachau", "Testimonios de sobrevivientes"]
     },
     {
@@ -206,7 +206,7 @@
       "operators": ["Arquitecto: Peter Eisenman"],
       "currentStatus": "Sitio Patrimonio de la UNESCO",
       "historicalSignificance": "Recordatorio permanente del Holocausto",
-      "imageURL": null,
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Berlin_Holocaust_Memorial_01.jpg/640px-Berlin_Holocaust_Memorial_01.jpg",
       "sources": ["Fundación de la Memoria del Holocausto"]
     }
   ],

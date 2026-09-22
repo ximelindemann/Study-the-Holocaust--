@@ -9,6 +9,9 @@ struct PerpetratorsDetailView: View {
     var body: some View {
         ScrollView {
             VStack(alignment: .leading, spacing: 16) {
+                // Image
+                RemoteImage(urlString: perpetrator.imageURL, height: 250)
+
                 // Header
                 VStack(alignment: .leading, spacing: 8) {
                     Text(perpetrator.name)
