@@ -2,6 +2,7 @@ import SwiftUI
 
 struct ContentView: View {
     @StateObject private var dataManager = DataManager.shared
+    @StateObject private var quizViewModel = QuizViewModel()
     @State private var selectedTab = 0
 
     var body: some View {
@@ -36,19 +37,26 @@ struct ContentView: View {
                 }
                 .tag(4)
 
+            QuizListView()
+                .tabItem {
+                    Label("Quiz", systemImage: "brain.head.profile")
+                }
+                .tag(5)
+
             BookmarksView()
                 .tabItem {
                     Label("Marcadores", systemImage: "bookmark.fill")
                 }
-                .tag(5)
+                .tag(6)
 
             SearchView()
                 .tabItem {
                     Label("Buscar", systemImage: "magnifyingglass")
                 }
-                .tag(6)
+                .tag(7)
         }
         .environmentObject(dataManager)
+        .environmentObject(quizViewModel)
     }
 }
 
