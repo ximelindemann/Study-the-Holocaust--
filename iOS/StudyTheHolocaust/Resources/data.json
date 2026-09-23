@@ -709,6 +709,217 @@
         "Testimonios de Ravensbrück",
         "Juicios de post-guerra"
       ]
+    },
+    {
+      "id": "kurt_gerstein",
+      "name": "Kurt Gerstein",
+      "birthDate": "11 de agosto de 1905",
+      "deathDate": "25 de julio de 1945",
+      "birthPlace": "Münster, Alemania",
+      "role": "Oficial de SS - Suministros de gas",
+      "organization": "SS",
+      "biography": "Kurt Gerstein fue el oficial responsable del suministro de gas Zyklon B a los campos de exterminio. Fue testigo de masacres en Treblinka y sus testimonio fue crucial en los juicios post-guerra.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Capturado por franceses, murió en prisión en 1945",
+      "sources": [
+        "Testimonios de Gerstein",
+        "Archivos de Treblinka",
+        "Juicios de post-guerra"
+      ]
+    },
+    {
+      "id": "franz_hössler",
+      "name": "Franz Hössler",
+      "birthDate": "1906",
+      "deathDate": "1947",
+      "birthPlace": "Alemania",
+      "role": "Kapo de Auschwitz",
+      "organization": "SS",
+      "biography": "Franz Hössler fue un kapo (prisionero supervisor) de Auschwitz conocido por su brutalidad. Como prisionero privilegiado, facilitó el proceso de selección para las cámaras de gas.",
+      "charges": [
+        "Genocidio",
+        "Asesinato",
+        "Colaboración"
+      ],
+      "fate": "Juzgado, ejecutado en 1947",
+      "sources": [
+        "Testimonios de Auschwitz",
+        "Archivos de campos"
+      ]
+    },
+    {
+      "id": "karl_fritzsch",
+      "name": "Karl Fritzsch",
+      "birthDate": "1909",
+      "deathDate": "1988",
+      "birthPlace": "Alemania",
+      "role": "Oficial de selección de Auschwitz",
+      "organization": "SS",
+      "biography": "Karl Fritzsch fue un oficial de Auschwitz responsable de las selecciones para la cámara de gas. Fue uno de los administradores directos del genocidio.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Capturado por soviéticos, sobrevivió la guerra",
+      "sources": [
+        "Testimonios de Auschwitz",
+        "Investigaciones post-guerra"
+      ]
+    },
+    {
+      "id": "johann_kremer",
+      "name": "Johann Paul Kremer",
+      "birthDate": "10 de diciembre de 1894",
+      "deathDate": "1965",
+      "birthPlace": "Alemania",
+      "role": "Doctor de Auschwitz",
+      "organization": "SS",
+      "biography": "Johann Kremer fue doctor en Auschwitz que participó en selecciones para la cámara de gas. Su diario documenta la realidad cotidiana del genocidio.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Capturado, condenado a 25 años, liberado",
+      "sources": [
+        "Diario de Kremer",
+        "Testimonios de Auschwitz"
+      ]
+    },
+    {
+      "id": "wilhelm_boger",
+      "name": "Wilhelm Boger",
+      "birthDate": "1906",
+      "deathDate": "1952",
+      "birthPlace": "Alemania",
+      "role": "Oficial de Gestapo en Auschwitz",
+      "organization": "Gestapo",
+      "biography": "Wilhelm Boger fue un infame torturador de Auschwitz conocido por inventar el 'columpio de Boger', un instrumento de tortura extrema que se balanceaba sobre una cuerda.",
+      "charges": [
+        "Tortura",
+        "Asesinato",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Condenado a muerte, ejecutado en 1952",
+      "sources": [
+        "Testimonios de Auschwitz",
+        "Juicios de post-guerra"
+      ]
+    },
+    {
+      "id": "artur_nebe",
+      "name": "Artur Nebe",
+      "birthDate": "13 de noviembre de 1895",
+      "deathDate": "21 de marzo de 1945",
+      "birthPlace": "Berlín, Alemania",
+      "role": "General de Policía Criminal",
+      "organization": "Gestapo/Policía",
+      "biography": "Artur Nebe fue general de policía que supervisó operaciones criminales incluyendo experimentos de asesinato con bombas de gas móviles. Después se convirtió en resistente.",
+      "charges": [
+        "Genocidio",
+        "Crímenes de guerra"
+      ],
+      "fate": "Ejecutado por los nazis en 1945 por actividad de resistencia",
+      "sources": [
+        "Documentos de policía",
+        "Investigaciones de post-guerra"
+      ]
+    },
+    {
+      "id": "josef_altstoetter",
+      "name": "Josef Altstoetter",
+      "birthDate": "1898",
+      "deathDate": "1952",
+      "birthPlace": "Alemania",
+      "role": "Juez nazi - Ministerio de Justicia",
+      "organization": "NSDAP",
+      "biography": "Josef Altstoetter fue juez que confirmó sentencias de muerte contra judíos y prisioneros políticos. Su caso demostró que abogados y jueces fueron cómplices del genocidio.",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Perversión de justicia"
+      ],
+      "fate": "Juzgado en Núremberg, condenado a 20 años",
+      "sources": [
+        "Juicios de Abogados de Núremberg"
+      ]
+    },
+    {
+      "id": "karl_wolff",
+      "name": "Karl Wolff",
+      "birthDate": "13 de mayo de 1906",
+      "deathDate": "17 de julio de 1984",
+      "birthPlace": "Darmstadt, Alemania",
+      "role": "General de SS - Administrador",
+      "organization": "SS",
+      "biography": "Karl Wolff fue general de SS responsable de coordinación administrativa de campos de concentración. Fue intermediario entre Hitler y operaciones de genocidio.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Capturado, condenado a 15 años, liberado",
+      "sources": [
+        "Archivos de SS",
+        "Juicios de Núremberg"
+      ]
+    },
+    {
+      "id": "hans_eisele",
+      "name": "Hans Eisele",
+      "birthDate": "1915",
+      "deathDate": "1952",
+      "birthPlace": "Alemania",
+      "role": "Doctor de Buchenwald",
+      "organization": "SS",
+      "biography": "Hans Eisele fue doctor en Buchenwald que realizó experimentos médicos brutales. Inyectaba enfermedades a prisioneros para estudiar infecciones.",
+      "charges": [
+        "Experimentación médica",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Capturado, juzgado, condenado a muerte, ejecutado",
+      "sources": [
+        "Testimonios de Buchenwald",
+        "Juicios de Médicos"
+      ]
+    },
+    {
+      "id": "ivan_demjanjuk",
+      "name": "Ivan Demjanjuk",
+      "birthDate": "3 de abril de 1920",
+      "deathDate": "25 de marzo de 2002",
+      "birthPlace": "Ucrania",
+      "role": "Guardia de Treblinka (Trawniki)",
+      "organization": "Trawniki",
+      "biography": "Ivan Demjanjuk fue guardia ucraniano en Treblinka. Su caso fue controversial - fue identificado como 'Ivan el Terrible', torturador de Treblinka.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Juzgado en Israel e Alemania, condenado, murió en cautiverio",
+      "sources": [
+        "Juicios de Demjanjuk",
+        "Investigaciones de Simon Wiesenthal"
+      ]
+    },
+    {
+      "id": "gerhard_klopfer",
+      "name": "Gerhard Klopfer",
+      "birthDate": "1905",
+      "deathDate": "1971",
+      "birthPlace": "Alemania",
+      "role": "Oficial de Chancillería Nazi",
+      "organization": "NSDAP",
+      "biography": "Gerhard Klopfer fue oficial que asistió a la Conferencia de Wannsee. Sus notas de la conferencia fueron documentación crucial del plan de exterminio.",
+      "charges": [
+        "Genocidio",
+        "Complicidad"
+      ],
+      "fate": "Capturado, encarcelado, liberado",
+      "sources": [
+        "Protocolo de Wannsee",
+        "Notas de Klopfer"
+      ]
     }
   ],
   "legislation": [
