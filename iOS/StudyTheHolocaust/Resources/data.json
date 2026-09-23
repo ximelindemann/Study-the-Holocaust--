@@ -582,18 +582,6 @@
       "availability": "PBS, Amazon Prime Video"
     },
     {
-      "id": "the_boy_in_striped_pajamas",
-      "title": "El Niño del Pijama de Rayas",
-      "type": "Película",
-      "duration": 94,
-      "releaseYear": 2008,
-      "director": "Mark Herman",
-      "description": "Drama ficticio que narra la amistad improbable entre el hijo de un comandante nazi y un niño judío en un campo de concentración, todo desde la perspectiva infantil.",
-      "educationalValue": "A pesar de ser ficción, proporciona una representación poderosa de la inocencia perdida y la brecha entre conocimiento y acción.",
-      "language": "Inglés, alemán, polaco",
-      "availability": "DVD, Blu-ray, streaming"
-    },
-    {
       "id": "ghetto",
       "title": "Ghetto",
       "type": "Documental",
