@@ -55,29 +55,35 @@ struct ContentView: View {
                 }
                 .tag(7)
 
+            CampsView()
+                .tabItem {
+                    Label("Campos", systemImage: "building.2.fill")
+                }
+                .tag(8)
+
             QuizListView()
                 .tabItem {
                     Label("Quiz", systemImage: "brain.head.profile")
                 }
-                .tag(8)
+                .tag(9)
 
             StatisticsView()
                 .tabItem {
                     Label("Estadísticas", systemImage: "chart.bar.fill")
                 }
-                .tag(9)
+                .tag(10)
 
             BookmarksView()
                 .tabItem {
                     Label("Marcadores", systemImage: "bookmark.fill")
                 }
-                .tag(10)
+                .tag(11)
 
             SearchView()
                 .tabItem {
                     Label("Buscar", systemImage: "magnifyingglass")
                 }
-                .tag(11)
+                .tag(12)
         }
         .environmentObject(dataManager)
         .environmentObject(quizViewModel)
