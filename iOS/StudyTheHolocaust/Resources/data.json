@@ -435,6 +435,280 @@
         "Documentos de la Hitler Youth",
         "Testimonios de jóvenes alemanes"
       ]
+    },
+    {
+      "id": "karl_koch",
+      "name": "Karl Otto Koch",
+      "birthDate": "2 de agosto de 1897",
+      "deathDate": "5 de abril de 1945",
+      "birthPlace": "Dachau, Alemania",
+      "role": "Comandante de Buchenwald",
+      "organization": "SS",
+      "biography": "Karl Otto Koch fue el comandante de Buchenwald. Supervisó el asesinato de miles de prisioneros. Sus prácticas corruptas (tráfico de bienes de prisioneros) llevaron a su investigación por la propia SS.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Capturado por estadounidenses, ejecutado en 1945",
+      "sources": [
+        "Testimonios de Buchenwald",
+        "Archivos de campos",
+        "Investigaciones de la SS"
+      ]
+    },
+    {
+      "id": "martin_sommer",
+      "name": "Martin Sommer",
+      "birthDate": "1915",
+      "deathDate": "1945",
+      "birthPlace": "Alemania",
+      "role": "Kapo torturador de Buchenwald",
+      "organization": "SS",
+      "biography": "Martin Sommer fue conocido como el torturador más brutal de Buchenwald. Fue responsable de la muerte de cientos de prisioneros mediante torturas extremas.",
+      "charges": [
+        "Tortura",
+        "Asesinato",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Desaparecido al final de la guerra",
+      "sources": [
+        "Testimonios de sobrevivientes de Buchenwald",
+        "Investigaciones de la SS"
+      ]
+    },
+    {
+      "id": "erich_von_bach_zelewski",
+      "name": "Erich von dem Bach-Zelewski",
+      "birthDate": "1 de marzo de 1899",
+      "deathDate": "8 de marzo de 1952",
+      "birthPlace": "Lauenburg, Alemania",
+      "role": "Comandante de Einsatzgruppe Nord",
+      "organization": "SS",
+      "biography": "Erich von dem Bach-Zelewski comandó un escuadrón de exterminio en el territorio soviético. Fue responsable de la masacre de cientos de miles de judíos y civiles soviéticos.",
+      "charges": [
+        "Genocidio",
+        "Crímenes de guerra"
+      ],
+      "fate": "Condenado en Alemania Occidental, murió en prisión en 1952",
+      "sources": [
+        "Juicios post-guerra",
+        "Testimonios de ejecutores",
+        "Documentos de Einsatzgruppen"
+      ]
+    },
+    {
+      "id": "otto_rasch",
+      "name": "Otto Rasch",
+      "birthDate": "1891",
+      "deathDate": "1948",
+      "birthPlace": "Alemania",
+      "role": "Comandante de Einsatzgruppe C",
+      "organization": "SS",
+      "biography": "Otto Rasch comandó un escuadrón de exterminio en Ucrania. Su grupo fue responsable de masacres en Kiev, Jarkov y otras ciudades soviéticas, matando a más de 60,000 judíos.",
+      "charges": [
+        "Genocidio",
+        "Crímenes de guerra"
+      ],
+      "fate": "Capturado por soviéticos, murió en cautiverio",
+      "sources": [
+        "Documentos de Einsatzgruppen",
+        "Testimonios de testigos",
+        "Investigaciones post-guerra"
+      ]
+    },
+    {
+      "id": "josef_bloesche",
+      "name": "Josef Bloesche",
+      "birthDate": "1912",
+      "deathDate": "1952",
+      "birthPlace": "Alemania",
+      "role": "Oficial de la Gestapo, gueto de Varsovia",
+      "organization": "Gestapo",
+      "biography": "Josef Bloesche fue un oficial de la Gestapo notoriamente brutal en el gueto de Varsovia. Fue fotografiado apuntando con una metralleta a judíos durante las redadas.",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Asesinato"
+      ],
+      "fate": "Capturado, juzgado en Polonia, ejecutado por ahorcamiento",
+      "sources": [
+        "Fotografías del gueto de Varsovia",
+        "Testimonios de sobrevivientes",
+        "Juicios de post-guerra"
+      ]
+    },
+    {
+      "id": "horst_kopkow",
+      "name": "Horst Kopkow",
+      "birthDate": "1910",
+      "deathDate": "1971",
+      "birthPlace": "Alemania",
+      "role": "Jefe de IV E 1 (Gestapo contra judíos)",
+      "organization": "Gestapo",
+      "biography": "Horst Kopkow fue jefe de la sección de la Gestapo responsable de la persecución de judíos. Trabajó bajo Eichmann organizando deportaciones.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Capturado por británicos, murió en prisión sin ser juzgado formalmente",
+      "sources": [
+        "Archivos de Gestapo",
+        "Investigaciones aliadas"
+      ]
+    },
+    {
+      "id": "theodor_eicke",
+      "name": "Theodor Eicke",
+      "birthDate": "17 de octubre de 1892",
+      "deathDate": "26 de febrero de 1943",
+      "birthPlace": "Damstadt, Alemania",
+      "role": "Creador del sistema de campos de concentración",
+      "organization": "SS",
+      "biography": "Theodor Eicke fue el inventor del sistema de campos de concentración nazis. Diseñó la estructura, reglas y métodos que se replicaron en todos los campos. Su sistema fue la base para la posterior industrialización del genocidio.",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Creación de sistema genocida"
+      ],
+      "fate": "Murió en combate en 1943 sin ser juzgado",
+      "sources": [
+        "Análisis histórico de campos",
+        "Documentos de la SS",
+        "Investigaciones de Yad Vashem"
+      ]
+    },
+    {
+      "id": "horst_schumann",
+      "name": "Horst Schumann",
+      "birthDate": "1 de enero de 1906",
+      "deathDate": "1983",
+      "birthPlace": "Freyburg, Alemania",
+      "role": "Doctor Nazi - Eutanasia y Auschwitz",
+      "organization": "SS",
+      "biography": "Horst Schumann fue un doctor que primero participó en el programa de eutanasia, luego fue transferido a Auschwitz donde condujo experimentos médicos brutales con rayos X.",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Experimentación médica ilegal"
+      ],
+      "fate": "Capturado, escapó, vivió bajo identidad falsa hasta 1983",
+      "sources": [
+        "Testimonios de sobrevivientes",
+        "Archivos médicos nazis",
+        "Investigaciones de cazadores de nazis"
+      ]
+    },
+    {
+      "id": "eduard_wirths",
+      "name": "Eduard Wirths",
+      "birthDate": "4 de octubre de 1909",
+      "deathDate": "8 de abril de 1945",
+      "birthPlace": "Gernsbach, Alemania",
+      "role": "Médico jefe de Auschwitz",
+      "organization": "SS",
+      "biography": "Eduard Wirths fue el médico jefe de Auschwitz. Supervisó los experimentos médicos, las selecciones para la cámara de gas y el funcionamiento médico del campo.",
+      "charges": [
+        "Genocidio",
+        "Experimentación médica"
+      ],
+      "fate": "Capturado, se suicidó antes de ser juzgado",
+      "sources": [
+        "Testimonios de médicos de Auschwitz",
+        "Archivos de Auschwitz"
+      ]
+    },
+    {
+      "id": "karl_brandt",
+      "name": "Karl Brandt",
+      "birthDate": "8 de enero de 1904",
+      "deathDate": "2 de junio de 1948",
+      "birthPlace": "Mulheim an der Ruhr, Alemania",
+      "role": "Doctor personal de Hitler - Programa de Eutanasia",
+      "organization": "NSDAP",
+      "biography": "Karl Brandt fue el médico personal de Hitler y jefe del programa de eutanasia nazi. Bajo su dirección, aproximadamente 250,000 personas 'indeseables' fueron asesinadas.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Juzgado en Núremberg, condenado a muerte, ejecutado en 1948",
+      "sources": [
+        "Juicios de Médicos de Núremberg",
+        "Documentos del programa de eutanasia"
+      ]
+    },
+    {
+      "id": "herta_oberheuser",
+      "name": "Herta Oberheuser",
+      "birthDate": "15 de mayo de 1911",
+      "deathDate": "24 de enero de 1978",
+      "birthPlace": "Hohenstein, Alemania",
+      "role": "Doctora en Ravensbrück",
+      "organization": "SS",
+      "biography": "Herta Oberheuser fue doctora en el campo de concentración de Ravensbrück. Realizó experimentos médicos en prisioneras, particularmente inyecciones de bacterias en heridas abiertas.",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Experimentación médica"
+      ],
+      "fate": "Juzgada en Núremberg, condenada a 20 años, liberada en 1952",
+      "sources": [
+        "Juicios de Médicos de Núremberg",
+        "Testimonios de Ravensbrück"
+      ]
+    },
+    {
+      "id": "philipp_blum",
+      "name": "Philipp Blum",
+      "birthDate": "1910",
+      "deathDate": "1945",
+      "birthPlace": "Alemania",
+      "role": "Oficial de Dachau",
+      "organization": "SS",
+      "biography": "Philipp Blum fue un oficial SS conocido por su sadismo extremo en Dachau, donde participó activamente en torturas y asesinatos.",
+      "charges": [
+        "Tortura",
+        "Asesinato",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Desaparecido al final de la guerra",
+      "sources": [
+        "Testimonios de Dachau"
+      ]
+    },
+    {
+      "id": "friedrich_panzinger",
+      "name": "Friedrich Panzinger",
+      "birthDate": "26 de febrero de 1902",
+      "deathDate": "1951",
+      "birthPlace": "Alemania",
+      "role": "Oficial de Gestapo - Represión política",
+      "organization": "Gestapo",
+      "biography": "Friedrich Panzinger fue un oficial de Gestapo responsable de torturas y represión política. Fue torturador de la resistencia y políticos prisioneros.",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Tortura"
+      ],
+      "fate": "Capturado por soviéticos, murió en cautiverio",
+      "sources": [
+        "Archivos de Gestapo",
+        "Investigaciones post-guerra"
+      ]
+    },
+    {
+      "id": "johann_schwarzhuber",
+      "name": "Johann Schwarzhuber",
+      "birthDate": "1904",
+      "deathDate": "1947",
+      "birthPlace": "Alemania",
+      "role": "Oficial de Ravensbrück",
+      "organization": "SS",
+      "biography": "Johann Schwarzhuber fue un oficial de Ravensbrück conocido por su brutalidad extrema contra las prisioneras. Fue uno de los torturadores más infames del campo.",
+      "charges": [
+        "Tortura",
+        "Asesinato",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Capturado, juzgado en Ravensbrück, ejecutado en 1947",
+      "sources": [
+        "Testimonios de Ravensbrück",
+        "Juicios de post-guerra"
+      ]
     }
   ],
   "legislation": [
