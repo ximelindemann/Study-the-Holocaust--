@@ -518,5 +518,103 @@
       ],
       "relatedTopics": ["memoria", "educación", "preservación histórica", "voces de sobrevivientes"]
     }
+  ],
+  "documentaries": [
+    {
+      "id": "shoah_lanzmann",
+      "title": "Shoah",
+      "type": "Documental",
+      "duration": 570,
+      "releaseYear": 1985,
+      "director": "Claude Lanzmann",
+      "description": "Monumental documental de 9.5 horas que consiste enteramente en entrevistas. Lanzmann entrevista a sobrevivientes, perpetradores y testigos. No contiene metraje de archivo ni fotografías del Holocausto, solo las historias orales crudas.",
+      "educationalValue": "Considerado una de las obras más importantes sobre el Holocausto. Proporciona testimonios prolongados e íntimos que permiten una comprensión profunda de la experiencia humana.",
+      "language": "Francés con subtítulos",
+      "availability": "Disponible en DVD, Blu-ray y plataformas de streaming especializadas",
+      "sources": ["Instituto de Cine Británico", "Criterion Collection"]
+    },
+    {
+      "id": "night_fog_alain_resnais",
+      "title": "Noche y Niebla (Nuit et Brouillard)",
+      "type": "Documental",
+      "duration": 32,
+      "releaseYear": 1956,
+      "director": "Alain Resnais",
+      "description": "Cortometraje seminal que contrasta el presente (Auschwitz en 1955) con metraje de archivo de la época nazi. Combina imágenes en color del campo abandonado con testimonios de sobrevivientes.",
+      "educationalValue": "Obra maestra en cómo el cine puede documentar el Holocausto. Influencia en innumerables documentales posteriores. Impactante contraste entre la belleza tranquila del sitio en 1955 y el horror de su historia.",
+      "language": "Francés con subtítulos en múltiples idiomas",
+      "availability": "Disponible en YouTube y plataformas de streaming educativo"
+    },
+    {
+      "id": "schindlers_list_spielberg",
+      "title": "La Lista de Schindler",
+      "type": "Película",
+      "duration": 195,
+      "releaseYear": 1993,
+      "director": "Steven Spielberg",
+      "description": "Dramatización de la verdadera historia de Oskar Schindler, un empresario alemán que salvó a más de 1,000 judíos polacos durante el Holocausto contratándolos como trabajadores 'esenciales' en su fábrica.",
+      "educationalValue": "Ganadora del Óscar, proporciona una narrativa accesible del Holocausto. Muestra la participación de ciudadanos ordinarios en la resistencia y rescate.",
+      "language": "Inglés, alemán, polaco",
+      "availability": "DVD, Blu-ray, plataformas de streaming principales"
+    },
+    {
+      "id": "diario_ana_frank",
+      "title": "El Diario de Ana Frank",
+      "type": "Película",
+      "duration": 180,
+      "releaseYear": 2016,
+      "director": "Hans Steinbichler",
+      "description": "Adaptación cinematográfica del famoso diario de Ana Frank, que documenta 25 meses escondidos en un apartamento secreto en Ámsterdam durante la ocupación nazi.",
+      "educationalValue": "Humaniza las historias del Holocausto a través de la perspectiva de una adolescente. Muestra la vida diaria, esperanzas y miedos de quienes se escondieron.",
+      "language": "Inglés, alemán, holandés",
+      "availability": "Netflix, DVD, Blu-ray"
+    },
+    {
+      "id": "the_last_survivors",
+      "title": "The Last Survivors",
+      "type": "Serie",
+      "duration": 45,
+      "releaseYear": 2020,
+      "director": "Various",
+      "description": "Serie de documentales de 5 partes que presenta entrevistas en profundidad con supervivientes del Holocausto de edades avanzadas. Captura sus historias mientras aún viven para preservar los testimonios.",
+      "educationalValue": "Proporciona testimonios de primera mano de sobrevivientes variados con diferentes experiencias (ghettos, campos, escondites, resistencia).",
+      "language": "Inglés, múltiples idiomas de supervivientes",
+      "availability": "PBS, Amazon Prime Video"
+    },
+    {
+      "id": "the_boy_in_striped_pajamas",
+      "title": "El Niño del Pijama de Rayas",
+      "type": "Película",
+      "duration": 94,
+      "releaseYear": 2008,
+      "director": "Mark Herman",
+      "description": "Drama ficticio que narra la amistad improbable entre el hijo de un comandante nazi y un niño judío en un campo de concentración, todo desde la perspectiva infantil.",
+      "educationalValue": "A pesar de ser ficción, proporciona una representación poderosa de la inocencia perdida y la brecha entre conocimiento y acción.",
+      "language": "Inglés, alemán, polaco",
+      "availability": "DVD, Blu-ray, streaming"
+    },
+    {
+      "id": "ghetto",
+      "title": "Ghetto",
+      "type": "Documental",
+      "duration": 85,
+      "releaseYear": 2006,
+      "director": "Yael Hersonski",
+      "description": "Uso innovador de metraje filmado por judíos en el Gueto de Lodz durante el Holocausto. El documental examina lo que significaba que esta película fuera hecha bajo la vigilancia nazi.",
+      "educationalValue": "Proporciona acceso a metraje raro del vida cotidiana en un gueto. Plantea preguntas importantes sobre la representación, la resistencia cultural y la supervivencia.",
+      "language": "Polaco, yiddish, inglés",
+      "availability": "Distribuidoras de cine educativo, archivos"
+    },
+    {
+      "id": "son_of_saul",
+      "title": "El Hijo de Saúl",
+      "type": "Película",
+      "duration": 107,
+      "releaseYear": 2015,
+      "director": "László Nemes",
+      "description": "Drama húngaro aclamado que sigue a un prisionero judío en Auschwitz-Birkenau quien trabaja como Sonderkommando (prisionero forzado a manejar cuerpos). Se enfoca en su búsqueda para dar un entierro apropiado a lo que cree es su hijo.",
+      "educationalValue": "Retrato íntimo de la resistencia espiritual en circunstancias impensables. Ganador del Premio de la Academia a Mejor Película de Habla No Inglesa.",
+      "language": "Húngaro con subtítulos"
+    }
   ]
 }
