@@ -230,6 +230,211 @@
         "Testimonios de ejecutores",
         "Documentos de la SS"
       ]
+    },
+    {
+      "id": "amon_goeth",
+      "name": "Amon Goeth",
+      "birthDate": "11 de diciembre de 1908",
+      "deathDate": "13 de septiembre de 1946",
+      "birthPlace": "Viena, Austria",
+      "role": "Comandante del gueto de Plaszow",
+      "organization": "SS",
+      "biography": "Amon Goeth fue el infame comandante del campo de concentración de Plaszow cerca de Cracovia. Era conocido por su sadismo extremo, disparando arbitrariamente a prisioneros desde su balcón. Fue el antagonista principal en 'La Lista de Schindler'.",
+      "charges": [
+        "Genocidio",
+        "Crímenes de guerra",
+        "Asesinato"
+      ],
+      "fate": "Capturado por aliados, juzgado en Polonia, ejecutado por ahorcamiento",
+      "sources": [
+        "Testimonios de sobrevivientes",
+        "Archivos de Plaszow",
+        "La Lista de Schindler"
+      ]
+    },
+    {
+      "id": "ernst_kaltenbrunner",
+      "name": "Ernst Kaltenbrunner",
+      "birthDate": "15 de octubre de 1903",
+      "deathDate": "16 de octubre de 1946",
+      "birthPlace": "Ried im Innkreis, Austria",
+      "role": "Sucesor de Heydrich en RSHA",
+      "organization": "SS",
+      "biography": "Ernst Kaltenbrunner fue el jefe de la RSHA (Oficina Central de Seguridad del Reich) después de la muerte de Heydrich. Supervisó la Gestapo, la policía criminal y los escuadrones de exterminio durante los años cruciales de 1943-1945.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad",
+        "Represión política"
+      ],
+      "fate": "Juzgado en Núremberg, condenado a muerte, ejecutado en 1946",
+      "sources": [
+        "Juicios de Núremberg",
+        "Archivos de la RSHA",
+        "Testimonios de testigos"
+      ]
+    },
+    {
+      "id": "hans_frank",
+      "name": "Hans Frank",
+      "birthDate": "23 de mayo de 1900",
+      "deathDate": "16 de octubre de 1946",
+      "birthPlace": "Karlsruhe, Alemania",
+      "role": "Gobernador General de Polonia",
+      "organization": "NSDAP",
+      "biography": "Hans Frank fue el Gobernador General de Polonia ocupada (Gobierno General). Bajo su administración, millones de judíos fueron confinados en guetos y deportados a campos de exterminio. Sus diarios revelan su conocimiento total del genocidio.",
+      "charges": [
+        "Genocidio",
+        "Crímenes de guerra",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Juzgado en Núremberg, condenado a muerte, ejecutado en 1946",
+      "sources": [
+        "Diarios de Hans Frank",
+        "Juicios de Núremberg",
+        "Archivos del Gobierno General"
+      ]
+    },
+    {
+      "id": "oswald_pohl",
+      "name": "Oswald Pohl",
+      "birthDate": "30 de junio de 1905",
+      "deathDate": "7 de junio de 1951",
+      "birthPlace": "Lübeck, Alemania",
+      "role": "Director del WVHA (administración de campos)",
+      "organization": "SS",
+      "biography": "Oswald Pohl fue el administrador general de los campos de concentración y exterminio. Supervisaba la logística operativa de toda la red de campos, incluyendo suministros, trabajo esclavo y cremación de cuerpos.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad",
+        "Esclavitud"
+      ],
+      "fate": "Juzgado en Núremberg, condenado a muerte, ejecutado en 1951",
+      "sources": [
+        "Juicios de Núremberg",
+        "Archivos de la SS",
+        "Documentos administrativos nazis"
+      ]
+    },
+    {
+      "id": "globocnik",
+      "name": "Odilo Globocnik",
+      "birthDate": "21 de abril de 1903",
+      "deathDate": "1945",
+      "birthPlace": "Trieste, Italia",
+      "role": "Organizador de la Operación Reinhardt",
+      "organization": "SS",
+      "biography": "Odilo Globocnik fue el organizador de la Operación Reinhardt, el plan sistemático de exterminio de judíos en el Gobierno General. Supervisó la construcción y operación de Belzec, Sobibor y Treblinka.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Capturado por británicos, se suicidó en 1945",
+      "sources": [
+        "Documentos de la Operación Reinhardt",
+        "Testimonios de sobrevivientes",
+        "Archivos de la SS"
+      ]
+    },
+    {
+      "id": "klaus_barbie",
+      "name": "Klaus Barbie",
+      "birthDate": "25 de octubre de 1913",
+      "deathDate": "25 de septiembre de 1991",
+      "birthPlace": "Godesberg, Alemania",
+      "role": "Gestapo de Lyon",
+      "organization": "Gestapo",
+      "biography": "Klaus Barbie fue el jefe de la Gestapo en Lyon, Francia. Fue responsable de la tortura y ejecución de miembros de la resistencia francesa y judíos. Es conocido como 'El Carnicero de Lyon'.",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Tortura",
+        "Asesinato"
+      ],
+      "fate": "Escapó a Bolivia, capturado en 1983, juzgado en Francia, condenado a cadena perpetua",
+      "sources": [
+        "Juicio de Klaus Barbie en Lyon",
+        "Testimonios de resistencia francesa",
+        "Investigaciones de Simon Wiesenthal"
+      ]
+    },
+    {
+      "id": "ernst_kahl",
+      "name": "Ernst Kahl",
+      "birthDate": "1910",
+      "deathDate": "1945",
+      "birthPlace": "Alemania",
+      "role": "Comandante de Belzec",
+      "organization": "SS",
+      "biography": "Ernst Kahl fue uno de los comandantes del campo de exterminio de Belzec. Bajo su supervisión, aproximadamente 500,000 judíos fueron asesinados en las cámaras de gas.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Desaparecido al final de la guerra, presuntamente muerto en combate",
+      "sources": [
+        "Testimonios de sobrevivientes",
+        "Archivos de Belzec",
+        "Investigaciones post-guerra"
+      ]
+    },
+    {
+      "id": "anton_kaindl",
+      "name": "Anton Kaindl",
+      "birthDate": "18 de octubre de 1909",
+      "deathDate": "26 de abril de 1945",
+      "birthPlace": "Reit im Winkl, Alemania",
+      "role": "Comandante de Gusen (subcampo de Mauthausen)",
+      "organization": "SS",
+      "biography": "Anton Kaindl fue el comandante del campo de concentración de Gusen. Es responsable de la muerte de miles de prisioneros por hambre, enfermedad y ejecuión.",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Asesinato"
+      ],
+      "fate": "Capturado por estadounidenses, murió en cautiverio en 1945",
+      "sources": [
+        "Testimonios de Mauthausen",
+        "Archivos de campos",
+        "Investigaciones aliadas"
+      ]
+    },
+    {
+      "id": "rudolf_hoess",
+      "name": "Rudolf Höss",
+      "birthDate": "25 de noviembre de 1900",
+      "deathDate": "16 de abril de 1947",
+      "birthPlace": "Baden-Baden, Alemania",
+      "role": "Comandante de Auschwitz-Birkenau",
+      "organization": "SS",
+      "biography": "Rudolf Höss fue el comandante de Auschwitz-Birkenau durante sus años más mortíferos. Fue responsable de la ejecución de aproximadamente 1.1 millones de personas. Sus memorias revelan el funcionamiento administrativo del genocidio.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Juzgado en Núremberg, extraditado a Polonia, ejecutado por ahorcamiento",
+      "sources": [
+        "Memorias de Rudolf Höss",
+        "Juicios de Núremberg",
+        "Archivos de Auschwitz"
+      ]
+    },
+    {
+      "id": "baldur_von_schirach",
+      "name": "Baldur von Schirach",
+      "birthDate": "9 de septiembre de 1907",
+      "deathDate": "8 de agosto de 1974",
+      "birthPlace": "Berlín, Alemania",
+      "role": "Líder de la Juventud Hitleriana",
+      "organization": "Hitler Youth",
+      "biography": "Baldur von Schirach fue el líder de la Juventud Hitleriana (Hitler Youth). Fue responsable de indoctrinar a millones de jóvenes alemanes en la ideología nazi y de militarizarlos. También fue Gauleiter de Viena durante la guerra.",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Indoctrinación de menores"
+      ],
+      "fate": "Juzgado en Núremberg, condenado a 20 años, liberado en 1966",
+      "sources": [
+        "Juicios de Núremberg",
+        "Documentos de la Hitler Youth",
+        "Testimonios de jóvenes alemanes"
+      ]
     }
   ],
   "legislation": [
