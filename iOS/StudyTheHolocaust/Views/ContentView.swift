@@ -43,17 +43,23 @@ struct ContentView: View {
                 }
                 .tag(5)
 
+            StatisticsView()
+                .tabItem {
+                    Label("Estadísticas", systemImage: "chart.bar.fill")
+                }
+                .tag(6)
+
             BookmarksView()
                 .tabItem {
                     Label("Marcadores", systemImage: "bookmark.fill")
                 }
-                .tag(6)
+                .tag(7)
 
             SearchView()
                 .tabItem {
                     Label("Buscar", systemImage: "magnifyingglass")
                 }
-                .tag(7)
+                .tag(8)
         }
         .environmentObject(dataManager)
         .environmentObject(quizViewModel)
