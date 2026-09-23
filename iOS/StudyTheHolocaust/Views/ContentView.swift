@@ -25,53 +25,59 @@ struct ContentView: View {
                 }
                 .tag(2)
 
+            ProfilesView()
+                .tabItem {
+                    Label("Perfiles", systemImage: "person.badge.fill")
+                }
+                .tag(3)
+
             PerpetratorsListView()
                 .tabItem {
                     Label("Perpetradores", systemImage: "person.fill")
                 }
-                .tag(3)
+                .tag(4)
 
             LegislationView()
                 .tabItem {
                     Label("Legislación", systemImage: "doc.text.fill")
                 }
-                .tag(4)
+                .tag(5)
 
             MapView()
                 .tabItem {
                     Label("Mapa", systemImage: "map.fill")
                 }
-                .tag(5)
+                .tag(6)
 
             TimelineView()
                 .tabItem {
                     Label("Timeline", systemImage: "timeline.vertical")
                 }
-                .tag(6)
+                .tag(7)
 
             QuizListView()
                 .tabItem {
                     Label("Quiz", systemImage: "brain.head.profile")
                 }
-                .tag(7)
+                .tag(8)
 
             StatisticsView()
                 .tabItem {
                     Label("Estadísticas", systemImage: "chart.bar.fill")
                 }
-                .tag(8)
+                .tag(9)
 
             BookmarksView()
                 .tabItem {
                     Label("Marcadores", systemImage: "bookmark.fill")
                 }
-                .tag(9)
+                .tag(10)
 
             SearchView()
                 .tabItem {
                     Label("Buscar", systemImage: "magnifyingglass")
                 }
-                .tag(10)
+                .tag(11)
         }
         .environmentObject(dataManager)
         .environmentObject(quizViewModel)

@@ -614,7 +614,123 @@
       "director": "László Nemes",
       "description": "Drama húngaro aclamado que sigue a un prisionero judío en Auschwitz-Birkenau quien trabaja como Sonderkommando (prisionero forzado a manejar cuerpos). Se enfoca en su búsqueda para dar un entierro apropiado a lo que cree es su hijo.",
       "educationalValue": "Retrato íntimo de la resistencia espiritual en circunstancias impensables. Ganador del Premio de la Academia a Mejor Película de Habla No Inglesa.",
-      "language": "Húngaro con subtítulos"
+      "language": "Húngaro con subtítulos",
+      "availability": "Distribuidoras de cine especializado",
+      "sources": []
+    }
+  ],
+  "profiles": [
+    {
+      "id": "anne_frank",
+      "name": "Ana Frank",
+      "profileType": "Sobreviviente",
+      "birthDate": "12 de junio de 1929",
+      "deathDate": "Marzo de 1945",
+      "birthPlace": "Fráncfort del Meno, Alemania",
+      "biography": "Ana Frank fue una adolescente judía que se escondió con su familia durante la ocupación nazi de Ámsterdam. Durante 25 meses en un apartamento secreto, escribió un diario que se ha convertido en el testimonial más famoso del Holocausto. Fue descubierta en 1944 y murió en el campo de concentración de Bergen-Belsen poco después de la liberación.",
+      "significance": "Su diario humaniza la experiencia del Holocausto desde la perspectiva de una adolescente, mostrando esperanzas, miedos y la normalidad de la vida cotidiana bajo persecución. El Diario de Ana Frank ha sido leído por millones y es fundamental en la educación sobre el Holocausto.",
+      "imageURL": null,
+      "sources": [
+        "El Diario de Ana Frank",
+        "Casa Ana Frank, Ámsterdam",
+        "Memoriales del Holocausto"
+      ]
+    },
+    {
+      "id": "oskar_schindler",
+      "name": "Oskar Schindler",
+      "profileType": "Rescatador",
+      "birthDate": "28 de abril de 1908",
+      "deathDate": "9 de octubre de 1974",
+      "birthPlace": "Svitavy, Checoslovaquia",
+      "biography": "Empresario alemán que utilizó su fábrica como refugio para aproximadamente 1,200 judíos polacos durante el Holocausto. Sobornó a funcionarios nazis, proporcionó manutención y protección, permitiendo que sus trabajadores 'esenciales' evitaran la deportación a campos de exterminio. Fue reconocido como Justo entre las Naciones.",
+      "significance": "Demostró que los individuos ordinarios podían salvar vidas bajo el régimen nazi. Su historia inspira esperanza sobre la capacidad humana para hacer bien incluso en circunstancias extremas. La película 'La Lista de Schindler' popularizó su legado.",
+      "imageURL": null,
+      "sources": [
+        "La Lista de Schindler",
+        "Yad Vashem",
+        "Testimonios de sobrevivientes"
+      ]
+    },
+    {
+      "id": "fredy_hirsch",
+      "name": "Fredy Hirsch",
+      "profileType": "Sobreviviente",
+      "birthDate": "11 de abril de 1916",
+      "deathDate": "Diciembre de 1944",
+      "birthPlace": "Arendal, Noruega",
+      "biography": "Educador y líder deportivo judío que sobrevivió internamiento en campos nazis. En Auschwitz-Birkenau, organizó clandestinamente educación y actividades deportivas para niños judíos a pesar del terror y el hambre. Sus esfuerzos les dieron dignidad y esperanza en circunstancias desgarradoras.",
+      "significance": "Su resistencia espiritual y compromiso con la preservación de la humanidad en los campos demuestran que la resistencia toma muchas formas. Fue un símbolo de la capacidad para mantener la moralidad y la dignidad bajo opresión total.",
+      "imageURL": null,
+      "sources": [
+        "Testimonios de sobrevivientes",
+        "Archivos de Auschwitz",
+        "Yad Vashem"
+      ]
+    },
+    {
+      "id": "raoul_wallenberg",
+      "name": "Raoul Wallenberg",
+      "profileType": "Rescatador",
+      "birthDate": "4 de agosto de 1912",
+      "deathDate": "Desaparecido, presumiblemente 1947",
+      "birthPlace": "Estocolmo, Suecia",
+      "biography": "Diplomático sueco que salvó la vida de aproximadamente 100,000 judíos húngaros durante el Holocausto. Utilizó su posición como diplomático para emitir pasaportes de protección sueca, compró casas de seguridad, y directamente intervino para detener deportaciones. Fue capturado por las tropas soviéticas y desapareció.",
+      "significance": "Su acción rápida y decisiva durante los últimos meses del Holocausto salvó decenas de miles de vidas. Su desaparición en manos soviéticas añade tragedia a su legado heroico.",
+      "imageURL": null,
+      "sources": [
+        "Yad Vashem",
+        "Instituto Wallenberg",
+        "Memoriales del Holocausto"
+      ]
+    },
+    {
+      "id": "primo_levi",
+      "name": "Primo Levi",
+      "profileType": "Sobreviviente",
+      "birthDate": "31 de julio de 1919",
+      "deathDate": "11 de abril de 1987",
+      "birthPlace": "Turín, Italia",
+      "biography": "Químico italiano y sobreviviente de Auschwitz. Después de la guerra, escribió 'Si esto es un hombre', considerado uno de los testimonios más profundos del Holocausto. Sus escritos combinan precisión científica con reflexión ética profunda sobre la deshumanización en los campos.",
+      "significance": "Su obra es fundamental para entender la experiencia del Holocausto desde la perspectiva de un hombre educado que analizaba racionalmente su propia degradación. Fue una voz moral en la posguerra.",
+      "imageURL": null,
+      "sources": [
+        "Si esto es un hombre - Primo Levi",
+        "Testimonios en video",
+        "Archivos de Auschwitz"
+      ]
+    },
+    {
+      "id": "rudolf_hoss",
+      "name": "Rudolf Höss",
+      "profileType": "Perpetrador",
+      "birthDate": "25 de noviembre de 1900",
+      "deathDate": "16 de abril de 1947",
+      "birthPlace": "Baden-Baden, Alemania",
+      "biography": "Comandante de Auschwitz-Birkenau bajo el régimen nazi. Fue responsable de la operación del campo más grande de exterminio, donde aproximadamente 1.1 millones de personas fueron asesinadas. Supervisó directamente la construcción de cámaras de gas y la operación de crematorios.",
+      "significance": "Su testimonio en los Juicios de Núremberg proporciona una visión de la mentalidad de los perpetradores de alto nivel. Su caso demuestra la responsabilidad individual incluso en un sistema criminal totalitario.",
+      "imageURL": null,
+      "sources": [
+        "Testimonios de Núremberg",
+        "Memorias de Rudolf Höss",
+        "Archivos de Auschwitz"
+      ]
+    },
+    {
+      "id": "elie_wiesel",
+      "name": "Elie Wiesel",
+      "profileType": "Sobreviviente",
+      "birthDate": "30 de septiembre de 1928",
+      "deathDate": "2 de julio de 2016",
+      "birthPlace": "Sighet, Rumania",
+      "biography": "Sobreviviente de Auschwitz y Buchenwald quien se convirtió en autor, profesor y activista de derechos humanos. Escribió 'La Noche', un testamento poderoso sobre sus experiencias en los campos. Fue premio Nobel de la Paz en 1986.",
+      "significance": "Wiesel fue una voz moral global en la posguerra, advirtiendo sobre el antisemitismo y la indiferencia. Su legado demuestra cómo los sobrevivientes pueden convertir su trauma en advocacy para justicia y paz.",
+      "imageURL": null,
+      "sources": [
+        "La Noche - Elie Wiesel",
+        "Premio Nobel de la Paz 1986",
+        "Fundación Elie Wiesel"
+      ]
     }
   ]
 }
