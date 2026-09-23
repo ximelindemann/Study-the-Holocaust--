@@ -65,6 +65,171 @@
         "Registros de propaganda nazi",
         "Testimonios de testigos"
       ]
+    },
+    {
+      "id": "reinhard_heydrich",
+      "name": "Reinhard Heydrich",
+      "birthDate": "7 de marzo de 1904",
+      "deathDate": "4 de junio de 1942",
+      "birthPlace": "Halle an der Saale, Alemania",
+      "role": "Jefe de la Oficina Central de Seguridad del Reich (RSHA)",
+      "organization": "SS",
+      "biography": "Reinhard Heydrich fue uno de los principales arquitectos del Holocausto. Dirigía la Gestapo y la Policía Criminal, y fue el principal planificador de la Conferencia de Wannsee donde se decidió la 'Solución Final'.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad",
+        "Terrorismo de Estado"
+      ],
+      "fate": "Asesinado por resistentes checoslovacos en Praga",
+      "sources": [
+        "Documentos de Núremberg",
+        "Protocolo de Wannsee",
+        "Testimonios de la Gestapo"
+      ]
+    },
+    {
+      "id": "josef_mengele",
+      "name": "Josef Mengele",
+      "birthDate": "16 de marzo de 1911",
+      "deathDate": "7 de febrero de 1979",
+      "birthPlace": "Günzburg, Alemania",
+      "role": "Doctor del Campo de Auschwitz",
+      "organization": "SS",
+      "biography": "Josef Mengele fue el médico infame de Auschwitz conocido como 'El Ángel de la Muerte'. Realizó experimentos médicos brutales y sin anestesia en prisioneros, particularmente gemelos y niños, enviando a miles directamente a las cámaras de gas.",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Experimentación médica ilegal",
+        "Genocidio"
+      ],
+      "fate": "Escapó a Sudamérica, se ahogó en 1979 bajo identidad falsa",
+      "sources": [
+        "Testimonios de sobrevivientes de Auschwitz",
+        "Archivos médicos nazis",
+        "Investigaciones de cazadores de nazis"
+      ]
+    },
+    {
+      "id": "adolf_eichmann",
+      "name": "Adolf Eichmann",
+      "birthDate": "19 de marzo de 1906",
+      "deathDate": "31 de mayo de 1962",
+      "birthPlace": "Solingen, Alemania",
+      "role": "Jefe de la Sección de Asuntos Judíos (Gestapo)",
+      "organization": "SS",
+      "biography": "Adolf Eichmann fue el principal ejecutor de la Solución Final. Organizó el transporte de millones de judíos a los campos de exterminio y fue responsable de la logística del genocidio. Escapó después de la guerra pero fue capturado en Argentina.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad",
+        "Crímenes de guerra"
+      ],
+      "fate": "Capturado en Argentina en 1960, juzgado en Jerusalén, ejecutado en 1962",
+      "sources": [
+        "Juicio de Eichmann en Jerusalén",
+        "Archivos de la Gestapo",
+        "Testimonios de sobrevivientes"
+      ]
+    },
+    {
+      "id": "franz_stangl",
+      "name": "Franz Stangl",
+      "birthDate": "13 de marzo de 1908",
+      "deathDate": "28 de junio de 1971",
+      "birthPlace": "Altmünster, Austria",
+      "role": "Comandante de Treblinka",
+      "organization": "SS",
+      "biography": "Franz Stangl fue el comandante del campo de exterminio de Treblinka donde aproximadamente 870,000 judíos fueron asesinados. Supervisó directamente la operación de las cámaras de gas y la cremación de cuerpos.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Capturado en Brasil en 1967, condenado a cadena perpetua, murió en prisión",
+      "sources": [
+        "Juicio de Treblinka",
+        "Testimonios de Jankiel Wiernik",
+        "Archivos de la SS"
+      ]
+    },
+    {
+      "id": "christoph_gley",
+      "name": "Christoph Gley",
+      "birthDate": "15 de julio de 1910",
+      "deathDate": "11 de abril de 1987",
+      "birthPlace": "Wilnsdorf, Alemania",
+      "role": "Comandante de Sobibor",
+      "organization": "SS",
+      "biography": "Christoph Gley fue el comandante del campo de exterminio de Sobibor. Bajo su mando, 250,000 judíos fueron asesinados en las cámaras de gas. Fue responsable de la represión brutal de la revuelta de Sobibor en 1943.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Condenado en Alemania Occidental, cumplió sentencia en prisión",
+      "sources": [
+        "Juicios de Sobibor",
+        "Testimonios de escapados",
+        "Archivos de la SS"
+      ]
+    },
+    {
+      "id": "christian_wirth",
+      "name": "Christian Wirth",
+      "birthDate": "13 de noviembre de 1910",
+      "deathDate": "26 de mayo de 1944",
+      "birthPlace": "Bernstadt, Alemania",
+      "role": "Inspector de Campos de Exterminio",
+      "organization": "SS",
+      "biography": "Christian Wirth fue el inspector de los campos de exterminio del Este (Belzec, Sobibor, Treblinka). Fue responsable de mejorar la 'eficiencia' de las cámaras de gas y fue conocido por su brutalidad extrema.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Asesinado por partisanos en Yugoslavia en 1944",
+      "sources": [
+        "Testimonios de sobrevivientes",
+        "Documentos de la SS",
+        "Análisis histórico del Holocausto"
+      ]
+    },
+    {
+      "id": "gestapo_mueller",
+      "name": "Heinrich Müller",
+      "birthDate": "28 de abril de 1900",
+      "deathDate": "Desaparecido, presumiblemente 1945",
+      "birthPlace": "Munich, Alemania",
+      "role": "Gestapo Jefe",
+      "organization": "Gestapo",
+      "biography": "Heinrich Müller fue el Jefe de la Gestapo bajo Heydrich. Supervisó la represión política y la persecución de judíos. Desapareció al final de la guerra, posiblemente capturado por los soviéticos.",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Represión política",
+        "Genocidio"
+      ],
+      "fate": "Desaparecido tras el fin de la guerra",
+      "sources": [
+        "Registros de Núremberg",
+        "Archivos de la Gestapo",
+        "Investigaciones post-guerra"
+      ]
+    },
+    {
+      "id": "otto_ohlendorf",
+      "name": "Otto Ohlendorf",
+      "birthDate": "4 de febrero de 1907",
+      "deathDate": "7 de junio de 1951",
+      "birthPlace": "Hoheneggelsen, Alemania",
+      "role": "Comandante de Einsatzgruppe D",
+      "organization": "SS",
+      "biography": "Otto Ohlendorf comandó un escuadrón de exterminio (Einsatzgruppe) responsable de masacres en masa de judíos en la URSS. Bajo su comando, se ejecutaron más de 90,000 personas.",
+      "charges": [
+        "Genocidio",
+        "Crímenes de guerra",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Juzgado en Núremberg, condenado a muerte, ejecutado en 1951",
+      "sources": [
+        "Juicios de Núremberg",
+        "Testimonios de ejecutores",
+        "Documentos de la SS"
+      ]
     }
   ],
   "legislation": [
