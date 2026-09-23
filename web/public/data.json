@@ -1,0 +1,1911 @@
+{
+  "perpetrators": [
+    {
+      "id": "hitler",
+      "name": "Adolf Hitler",
+      "birthDate": "20 de abril de 1889",
+      "deathDate": "30 de abril de 1945",
+      "birthPlace": "Linz, Austria",
+      "role": "Führer, Canciller del Reich",
+      "organization": "NSDAP",
+      "biography": "Adolf Hitler fue el dictador de la Alemania nazi y el principal arquitecto del Holocausto. Bajo su liderazgo, el régimen nazi implementó la solución final, resultando en el asesinato sistemático de aproximadamente 6 millones de judíos. Hitler también inició la Segunda Guerra Mundial en Europa.",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hitler%2C_Adolf_-_postcard.jpg/440px-Hitler%2C_Adolf_-_postcard.jpg",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Genocidio",
+        "Crímenes de guerra",
+        "Conspiración contra la paz"
+      ],
+      "fate": "Suicidio en el búnker de Berlín, 30 de abril de 1945",
+      "sources": [
+        "Documentos de Núremberg",
+        "Registros históricos alemanes",
+        "Testimonios de sobrevivientes"
+      ]
+    },
+    {
+      "id": "himmler",
+      "name": "Heinrich Himmler",
+      "birthDate": "7 de octubre de 1900",
+      "deathDate": "23 de mayo de 1945",
+      "birthPlace": "Munich, Alemania",
+      "role": "Reichsführer de la SS",
+      "organization": "SS",
+      "biography": "Heinrich Himmler fue el comandante supremo de la SS y uno de los principales organizadores del Holocausto. Supervisó directamente la creación y operación de los campos de concentración y exterminio.",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bundesarchiv_Bild_183-S72382%2C_Heinrich_Himmler.jpg/440px-Bundesarchiv_Bild_183-S72382%2C_Heinrich_Himmler.jpg",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Genocidio",
+        "Tortura y experimentación humana"
+      ],
+      "fate": "Suicidio tras su captura por fuerzas británicas",
+      "sources": [
+        "Registros de la SS",
+        "Testimonios de oficiales aliados",
+        "Documentos de Núremberg"
+      ]
+    },
+    {
+      "id": "goebbels",
+      "name": "Paul Joseph Goebbels",
+      "birthDate": "29 de octubre de 1897",
+      "deathDate": "1 de mayo de 1945",
+      "birthPlace": "Rheydt, Alemania",
+      "role": "Ministro de Propaganda e Ilustración Popular",
+      "organization": "NSDAP",
+      "biography": "Joseph Goebbels fue el Ministro de Propaganda Nazi. Utilizó los medios de comunicación para propagar la ideología nazi y antisemita, deshumanizando a los judíos y justificando su persecución.",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Goebbels.jpg/440px-Goebbels.jpg",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Incitación al odio y genocidio"
+      ],
+      "fate": "Suicidio con su familia en el búnker de Berlín",
+      "sources": [
+        "Diarios de Goebbels",
+        "Registros de propaganda nazi",
+        "Testimonios de testigos"
+      ]
+    },
+    {
+      "id": "reinhard_heydrich",
+      "name": "Reinhard Heydrich",
+      "birthDate": "7 de marzo de 1904",
+      "deathDate": "4 de junio de 1942",
+      "birthPlace": "Halle an der Saale, Alemania",
+      "role": "Jefe de la Oficina Central de Seguridad del Reich (RSHA)",
+      "organization": "SS",
+      "biography": "Reinhard Heydrich fue uno de los principales arquitectos del Holocausto. Dirigía la Gestapo y la Policía Criminal, y fue el principal planificador de la Conferencia de Wannsee donde se decidió la 'Solución Final'.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad",
+        "Terrorismo de Estado"
+      ],
+      "fate": "Asesinado por resistentes checoslovacos en Praga",
+      "sources": [
+        "Documentos de Núremberg",
+        "Protocolo de Wannsee",
+        "Testimonios de la Gestapo"
+      ]
+    },
+    {
+      "id": "josef_mengele",
+      "name": "Josef Mengele",
+      "birthDate": "16 de marzo de 1911",
+      "deathDate": "7 de febrero de 1979",
+      "birthPlace": "Günzburg, Alemania",
+      "role": "Doctor del Campo de Auschwitz",
+      "organization": "SS",
+      "biography": "Josef Mengele fue el médico infame de Auschwitz conocido como 'El Ángel de la Muerte'. Realizó experimentos médicos brutales y sin anestesia en prisioneros, particularmente gemelos y niños, enviando a miles directamente a las cámaras de gas.",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Experimentación médica ilegal",
+        "Genocidio"
+      ],
+      "fate": "Escapó a Sudamérica, se ahogó en 1979 bajo identidad falsa",
+      "sources": [
+        "Testimonios de sobrevivientes de Auschwitz",
+        "Archivos médicos nazis",
+        "Investigaciones de cazadores de nazis"
+      ]
+    },
+    {
+      "id": "adolf_eichmann",
+      "name": "Adolf Eichmann",
+      "birthDate": "19 de marzo de 1906",
+      "deathDate": "31 de mayo de 1962",
+      "birthPlace": "Solingen, Alemania",
+      "role": "Jefe de la Sección de Asuntos Judíos (Gestapo)",
+      "organization": "SS",
+      "biography": "Adolf Eichmann fue el principal ejecutor de la Solución Final. Organizó el transporte de millones de judíos a los campos de exterminio y fue responsable de la logística del genocidio. Escapó después de la guerra pero fue capturado en Argentina.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad",
+        "Crímenes de guerra"
+      ],
+      "fate": "Capturado en Argentina en 1960, juzgado en Jerusalén, ejecutado en 1962",
+      "sources": [
+        "Juicio de Eichmann en Jerusalén",
+        "Archivos de la Gestapo",
+        "Testimonios de sobrevivientes"
+      ]
+    },
+    {
+      "id": "franz_stangl",
+      "name": "Franz Stangl",
+      "birthDate": "13 de marzo de 1908",
+      "deathDate": "28 de junio de 1971",
+      "birthPlace": "Altmünster, Austria",
+      "role": "Comandante de Treblinka",
+      "organization": "SS",
+      "biography": "Franz Stangl fue el comandante del campo de exterminio de Treblinka donde aproximadamente 870,000 judíos fueron asesinados. Supervisó directamente la operación de las cámaras de gas y la cremación de cuerpos.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Capturado en Brasil en 1967, condenado a cadena perpetua, murió en prisión",
+      "sources": [
+        "Juicio de Treblinka",
+        "Testimonios de Jankiel Wiernik",
+        "Archivos de la SS"
+      ]
+    },
+    {
+      "id": "christoph_gley",
+      "name": "Christoph Gley",
+      "birthDate": "15 de julio de 1910",
+      "deathDate": "11 de abril de 1987",
+      "birthPlace": "Wilnsdorf, Alemania",
+      "role": "Comandante de Sobibor",
+      "organization": "SS",
+      "biography": "Christoph Gley fue el comandante del campo de exterminio de Sobibor. Bajo su mando, 250,000 judíos fueron asesinados en las cámaras de gas. Fue responsable de la represión brutal de la revuelta de Sobibor en 1943.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Condenado en Alemania Occidental, cumplió sentencia en prisión",
+      "sources": [
+        "Juicios de Sobibor",
+        "Testimonios de escapados",
+        "Archivos de la SS"
+      ]
+    },
+    {
+      "id": "christian_wirth",
+      "name": "Christian Wirth",
+      "birthDate": "13 de noviembre de 1910",
+      "deathDate": "26 de mayo de 1944",
+      "birthPlace": "Bernstadt, Alemania",
+      "role": "Inspector de Campos de Exterminio",
+      "organization": "SS",
+      "biography": "Christian Wirth fue el inspector de los campos de exterminio del Este (Belzec, Sobibor, Treblinka). Fue responsable de mejorar la 'eficiencia' de las cámaras de gas y fue conocido por su brutalidad extrema.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Asesinado por partisanos en Yugoslavia en 1944",
+      "sources": [
+        "Testimonios de sobrevivientes",
+        "Documentos de la SS",
+        "Análisis histórico del Holocausto"
+      ]
+    },
+    {
+      "id": "gestapo_mueller",
+      "name": "Heinrich Müller",
+      "birthDate": "28 de abril de 1900",
+      "deathDate": "Desaparecido, presumiblemente 1945",
+      "birthPlace": "Munich, Alemania",
+      "role": "Gestapo Jefe",
+      "organization": "Gestapo",
+      "biography": "Heinrich Müller fue el Jefe de la Gestapo bajo Heydrich. Supervisó la represión política y la persecución de judíos. Desapareció al final de la guerra, posiblemente capturado por los soviéticos.",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Represión política",
+        "Genocidio"
+      ],
+      "fate": "Desaparecido tras el fin de la guerra",
+      "sources": [
+        "Registros de Núremberg",
+        "Archivos de la Gestapo",
+        "Investigaciones post-guerra"
+      ]
+    },
+    {
+      "id": "otto_ohlendorf",
+      "name": "Otto Ohlendorf",
+      "birthDate": "4 de febrero de 1907",
+      "deathDate": "7 de junio de 1951",
+      "birthPlace": "Hoheneggelsen, Alemania",
+      "role": "Comandante de Einsatzgruppe D",
+      "organization": "SS",
+      "biography": "Otto Ohlendorf comandó un escuadrón de exterminio (Einsatzgruppe) responsable de masacres en masa de judíos en la URSS. Bajo su comando, se ejecutaron más de 90,000 personas.",
+      "charges": [
+        "Genocidio",
+        "Crímenes de guerra",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Juzgado en Núremberg, condenado a muerte, ejecutado en 1951",
+      "sources": [
+        "Juicios de Núremberg",
+        "Testimonios de ejecutores",
+        "Documentos de la SS"
+      ]
+    },
+    {
+      "id": "amon_goeth",
+      "name": "Amon Goeth",
+      "birthDate": "11 de diciembre de 1908",
+      "deathDate": "13 de septiembre de 1946",
+      "birthPlace": "Viena, Austria",
+      "role": "Comandante del gueto de Plaszow",
+      "organization": "SS",
+      "biography": "Amon Goeth fue el infame comandante del campo de concentración de Plaszow cerca de Cracovia. Era conocido por su sadismo extremo, disparando arbitrariamente a prisioneros desde su balcón. Fue el antagonista principal en 'La Lista de Schindler'.",
+      "charges": [
+        "Genocidio",
+        "Crímenes de guerra",
+        "Asesinato"
+      ],
+      "fate": "Capturado por aliados, juzgado en Polonia, ejecutado por ahorcamiento",
+      "sources": [
+        "Testimonios de sobrevivientes",
+        "Archivos de Plaszow",
+        "La Lista de Schindler"
+      ]
+    },
+    {
+      "id": "ernst_kaltenbrunner",
+      "name": "Ernst Kaltenbrunner",
+      "birthDate": "15 de octubre de 1903",
+      "deathDate": "16 de octubre de 1946",
+      "birthPlace": "Ried im Innkreis, Austria",
+      "role": "Sucesor de Heydrich en RSHA",
+      "organization": "SS",
+      "biography": "Ernst Kaltenbrunner fue el jefe de la RSHA (Oficina Central de Seguridad del Reich) después de la muerte de Heydrich. Supervisó la Gestapo, la policía criminal y los escuadrones de exterminio durante los años cruciales de 1943-1945.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad",
+        "Represión política"
+      ],
+      "fate": "Juzgado en Núremberg, condenado a muerte, ejecutado en 1946",
+      "sources": [
+        "Juicios de Núremberg",
+        "Archivos de la RSHA",
+        "Testimonios de testigos"
+      ]
+    },
+    {
+      "id": "hans_frank",
+      "name": "Hans Frank",
+      "birthDate": "23 de mayo de 1900",
+      "deathDate": "16 de octubre de 1946",
+      "birthPlace": "Karlsruhe, Alemania",
+      "role": "Gobernador General de Polonia",
+      "organization": "NSDAP",
+      "biography": "Hans Frank fue el Gobernador General de Polonia ocupada (Gobierno General). Bajo su administración, millones de judíos fueron confinados en guetos y deportados a campos de exterminio. Sus diarios revelan su conocimiento total del genocidio.",
+      "charges": [
+        "Genocidio",
+        "Crímenes de guerra",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Juzgado en Núremberg, condenado a muerte, ejecutado en 1946",
+      "sources": [
+        "Diarios de Hans Frank",
+        "Juicios de Núremberg",
+        "Archivos del Gobierno General"
+      ]
+    },
+    {
+      "id": "oswald_pohl",
+      "name": "Oswald Pohl",
+      "birthDate": "30 de junio de 1905",
+      "deathDate": "7 de junio de 1951",
+      "birthPlace": "Lübeck, Alemania",
+      "role": "Director del WVHA (administración de campos)",
+      "organization": "SS",
+      "biography": "Oswald Pohl fue el administrador general de los campos de concentración y exterminio. Supervisaba la logística operativa de toda la red de campos, incluyendo suministros, trabajo esclavo y cremación de cuerpos.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad",
+        "Esclavitud"
+      ],
+      "fate": "Juzgado en Núremberg, condenado a muerte, ejecutado en 1951",
+      "sources": [
+        "Juicios de Núremberg",
+        "Archivos de la SS",
+        "Documentos administrativos nazis"
+      ]
+    },
+    {
+      "id": "globocnik",
+      "name": "Odilo Globocnik",
+      "birthDate": "21 de abril de 1903",
+      "deathDate": "1945",
+      "birthPlace": "Trieste, Italia",
+      "role": "Organizador de la Operación Reinhardt",
+      "organization": "SS",
+      "biography": "Odilo Globocnik fue el organizador de la Operación Reinhardt, el plan sistemático de exterminio de judíos en el Gobierno General. Supervisó la construcción y operación de Belzec, Sobibor y Treblinka.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Capturado por británicos, se suicidó en 1945",
+      "sources": [
+        "Documentos de la Operación Reinhardt",
+        "Testimonios de sobrevivientes",
+        "Archivos de la SS"
+      ]
+    },
+    {
+      "id": "klaus_barbie",
+      "name": "Klaus Barbie",
+      "birthDate": "25 de octubre de 1913",
+      "deathDate": "25 de septiembre de 1991",
+      "birthPlace": "Godesberg, Alemania",
+      "role": "Gestapo de Lyon",
+      "organization": "Gestapo",
+      "biography": "Klaus Barbie fue el jefe de la Gestapo en Lyon, Francia. Fue responsable de la tortura y ejecución de miembros de la resistencia francesa y judíos. Es conocido como 'El Carnicero de Lyon'.",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Tortura",
+        "Asesinato"
+      ],
+      "fate": "Escapó a Bolivia, capturado en 1983, juzgado en Francia, condenado a cadena perpetua",
+      "sources": [
+        "Juicio de Klaus Barbie en Lyon",
+        "Testimonios de resistencia francesa",
+        "Investigaciones de Simon Wiesenthal"
+      ]
+    },
+    {
+      "id": "ernst_kahl",
+      "name": "Ernst Kahl",
+      "birthDate": "1910",
+      "deathDate": "1945",
+      "birthPlace": "Alemania",
+      "role": "Comandante de Belzec",
+      "organization": "SS",
+      "biography": "Ernst Kahl fue uno de los comandantes del campo de exterminio de Belzec. Bajo su supervisión, aproximadamente 500,000 judíos fueron asesinados en las cámaras de gas.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Desaparecido al final de la guerra, presuntamente muerto en combate",
+      "sources": [
+        "Testimonios de sobrevivientes",
+        "Archivos de Belzec",
+        "Investigaciones post-guerra"
+      ]
+    },
+    {
+      "id": "anton_kaindl",
+      "name": "Anton Kaindl",
+      "birthDate": "18 de octubre de 1909",
+      "deathDate": "26 de abril de 1945",
+      "birthPlace": "Reit im Winkl, Alemania",
+      "role": "Comandante de Gusen (subcampo de Mauthausen)",
+      "organization": "SS",
+      "biography": "Anton Kaindl fue el comandante del campo de concentración de Gusen. Es responsable de la muerte de miles de prisioneros por hambre, enfermedad y ejecuión.",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Asesinato"
+      ],
+      "fate": "Capturado por estadounidenses, murió en cautiverio en 1945",
+      "sources": [
+        "Testimonios de Mauthausen",
+        "Archivos de campos",
+        "Investigaciones aliadas"
+      ]
+    },
+    {
+      "id": "rudolf_hoess",
+      "name": "Rudolf Höss",
+      "birthDate": "25 de noviembre de 1900",
+      "deathDate": "16 de abril de 1947",
+      "birthPlace": "Baden-Baden, Alemania",
+      "role": "Comandante de Auschwitz-Birkenau",
+      "organization": "SS",
+      "biography": "Rudolf Höss fue el comandante de Auschwitz-Birkenau durante sus años más mortíferos. Fue responsable de la ejecución de aproximadamente 1.1 millones de personas. Sus memorias revelan el funcionamiento administrativo del genocidio.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Juzgado en Núremberg, extraditado a Polonia, ejecutado por ahorcamiento",
+      "sources": [
+        "Memorias de Rudolf Höss",
+        "Juicios de Núremberg",
+        "Archivos de Auschwitz"
+      ]
+    },
+    {
+      "id": "baldur_von_schirach",
+      "name": "Baldur von Schirach",
+      "birthDate": "9 de septiembre de 1907",
+      "deathDate": "8 de agosto de 1974",
+      "birthPlace": "Berlín, Alemania",
+      "role": "Líder de la Juventud Hitleriana",
+      "organization": "Hitler Youth",
+      "biography": "Baldur von Schirach fue el líder de la Juventud Hitleriana (Hitler Youth). Fue responsable de indoctrinar a millones de jóvenes alemanes en la ideología nazi y de militarizarlos. También fue Gauleiter de Viena durante la guerra.",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Indoctrinación de menores"
+      ],
+      "fate": "Juzgado en Núremberg, condenado a 20 años, liberado en 1966",
+      "sources": [
+        "Juicios de Núremberg",
+        "Documentos de la Hitler Youth",
+        "Testimonios de jóvenes alemanes"
+      ]
+    },
+    {
+      "id": "karl_koch",
+      "name": "Karl Otto Koch",
+      "birthDate": "2 de agosto de 1897",
+      "deathDate": "5 de abril de 1945",
+      "birthPlace": "Dachau, Alemania",
+      "role": "Comandante de Buchenwald",
+      "organization": "SS",
+      "biography": "Karl Otto Koch fue el comandante de Buchenwald. Supervisó el asesinato de miles de prisioneros. Sus prácticas corruptas (tráfico de bienes de prisioneros) llevaron a su investigación por la propia SS.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Capturado por estadounidenses, ejecutado en 1945",
+      "sources": [
+        "Testimonios de Buchenwald",
+        "Archivos de campos",
+        "Investigaciones de la SS"
+      ]
+    },
+    {
+      "id": "martin_sommer",
+      "name": "Martin Sommer",
+      "birthDate": "1915",
+      "deathDate": "1945",
+      "birthPlace": "Alemania",
+      "role": "Kapo torturador de Buchenwald",
+      "organization": "SS",
+      "biography": "Martin Sommer fue conocido como el torturador más brutal de Buchenwald. Fue responsable de la muerte de cientos de prisioneros mediante torturas extremas.",
+      "charges": [
+        "Tortura",
+        "Asesinato",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Desaparecido al final de la guerra",
+      "sources": [
+        "Testimonios de sobrevivientes de Buchenwald",
+        "Investigaciones de la SS"
+      ]
+    },
+    {
+      "id": "erich_von_bach_zelewski",
+      "name": "Erich von dem Bach-Zelewski",
+      "birthDate": "1 de marzo de 1899",
+      "deathDate": "8 de marzo de 1952",
+      "birthPlace": "Lauenburg, Alemania",
+      "role": "Comandante de Einsatzgruppe Nord",
+      "organization": "SS",
+      "biography": "Erich von dem Bach-Zelewski comandó un escuadrón de exterminio en el territorio soviético. Fue responsable de la masacre de cientos de miles de judíos y civiles soviéticos.",
+      "charges": [
+        "Genocidio",
+        "Crímenes de guerra"
+      ],
+      "fate": "Condenado en Alemania Occidental, murió en prisión en 1952",
+      "sources": [
+        "Juicios post-guerra",
+        "Testimonios de ejecutores",
+        "Documentos de Einsatzgruppen"
+      ]
+    },
+    {
+      "id": "otto_rasch",
+      "name": "Otto Rasch",
+      "birthDate": "1891",
+      "deathDate": "1948",
+      "birthPlace": "Alemania",
+      "role": "Comandante de Einsatzgruppe C",
+      "organization": "SS",
+      "biography": "Otto Rasch comandó un escuadrón de exterminio en Ucrania. Su grupo fue responsable de masacres en Kiev, Jarkov y otras ciudades soviéticas, matando a más de 60,000 judíos.",
+      "charges": [
+        "Genocidio",
+        "Crímenes de guerra"
+      ],
+      "fate": "Capturado por soviéticos, murió en cautiverio",
+      "sources": [
+        "Documentos de Einsatzgruppen",
+        "Testimonios de testigos",
+        "Investigaciones post-guerra"
+      ]
+    },
+    {
+      "id": "josef_bloesche",
+      "name": "Josef Bloesche",
+      "birthDate": "1912",
+      "deathDate": "1952",
+      "birthPlace": "Alemania",
+      "role": "Oficial de la Gestapo, gueto de Varsovia",
+      "organization": "Gestapo",
+      "biography": "Josef Bloesche fue un oficial de la Gestapo notoriamente brutal en el gueto de Varsovia. Fue fotografiado apuntando con una metralleta a judíos durante las redadas.",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Asesinato"
+      ],
+      "fate": "Capturado, juzgado en Polonia, ejecutado por ahorcamiento",
+      "sources": [
+        "Fotografías del gueto de Varsovia",
+        "Testimonios de sobrevivientes",
+        "Juicios de post-guerra"
+      ]
+    },
+    {
+      "id": "horst_kopkow",
+      "name": "Horst Kopkow",
+      "birthDate": "1910",
+      "deathDate": "1971",
+      "birthPlace": "Alemania",
+      "role": "Jefe de IV E 1 (Gestapo contra judíos)",
+      "organization": "Gestapo",
+      "biography": "Horst Kopkow fue jefe de la sección de la Gestapo responsable de la persecución de judíos. Trabajó bajo Eichmann organizando deportaciones.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Capturado por británicos, murió en prisión sin ser juzgado formalmente",
+      "sources": [
+        "Archivos de Gestapo",
+        "Investigaciones aliadas"
+      ]
+    },
+    {
+      "id": "theodor_eicke",
+      "name": "Theodor Eicke",
+      "birthDate": "17 de octubre de 1892",
+      "deathDate": "26 de febrero de 1943",
+      "birthPlace": "Damstadt, Alemania",
+      "role": "Creador del sistema de campos de concentración",
+      "organization": "SS",
+      "biography": "Theodor Eicke fue el inventor del sistema de campos de concentración nazis. Diseñó la estructura, reglas y métodos que se replicaron en todos los campos. Su sistema fue la base para la posterior industrialización del genocidio.",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Creación de sistema genocida"
+      ],
+      "fate": "Murió en combate en 1943 sin ser juzgado",
+      "sources": [
+        "Análisis histórico de campos",
+        "Documentos de la SS",
+        "Investigaciones de Yad Vashem"
+      ]
+    },
+    {
+      "id": "horst_schumann",
+      "name": "Horst Schumann",
+      "birthDate": "1 de enero de 1906",
+      "deathDate": "1983",
+      "birthPlace": "Freyburg, Alemania",
+      "role": "Doctor Nazi - Eutanasia y Auschwitz",
+      "organization": "SS",
+      "biography": "Horst Schumann fue un doctor que primero participó en el programa de eutanasia, luego fue transferido a Auschwitz donde condujo experimentos médicos brutales con rayos X.",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Experimentación médica ilegal"
+      ],
+      "fate": "Capturado, escapó, vivió bajo identidad falsa hasta 1983",
+      "sources": [
+        "Testimonios de sobrevivientes",
+        "Archivos médicos nazis",
+        "Investigaciones de cazadores de nazis"
+      ]
+    },
+    {
+      "id": "eduard_wirths",
+      "name": "Eduard Wirths",
+      "birthDate": "4 de octubre de 1909",
+      "deathDate": "8 de abril de 1945",
+      "birthPlace": "Gernsbach, Alemania",
+      "role": "Médico jefe de Auschwitz",
+      "organization": "SS",
+      "biography": "Eduard Wirths fue el médico jefe de Auschwitz. Supervisó los experimentos médicos, las selecciones para la cámara de gas y el funcionamiento médico del campo.",
+      "charges": [
+        "Genocidio",
+        "Experimentación médica"
+      ],
+      "fate": "Capturado, se suicidó antes de ser juzgado",
+      "sources": [
+        "Testimonios de médicos de Auschwitz",
+        "Archivos de Auschwitz"
+      ]
+    },
+    {
+      "id": "karl_brandt",
+      "name": "Karl Brandt",
+      "birthDate": "8 de enero de 1904",
+      "deathDate": "2 de junio de 1948",
+      "birthPlace": "Mulheim an der Ruhr, Alemania",
+      "role": "Doctor personal de Hitler - Programa de Eutanasia",
+      "organization": "NSDAP",
+      "biography": "Karl Brandt fue el médico personal de Hitler y jefe del programa de eutanasia nazi. Bajo su dirección, aproximadamente 250,000 personas 'indeseables' fueron asesinadas.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Juzgado en Núremberg, condenado a muerte, ejecutado en 1948",
+      "sources": [
+        "Juicios de Médicos de Núremberg",
+        "Documentos del programa de eutanasia"
+      ]
+    },
+    {
+      "id": "herta_oberheuser",
+      "name": "Herta Oberheuser",
+      "birthDate": "15 de mayo de 1911",
+      "deathDate": "24 de enero de 1978",
+      "birthPlace": "Hohenstein, Alemania",
+      "role": "Doctora en Ravensbrück",
+      "organization": "SS",
+      "biography": "Herta Oberheuser fue doctora en el campo de concentración de Ravensbrück. Realizó experimentos médicos en prisioneras, particularmente inyecciones de bacterias en heridas abiertas.",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Experimentación médica"
+      ],
+      "fate": "Juzgada en Núremberg, condenada a 20 años, liberada en 1952",
+      "sources": [
+        "Juicios de Médicos de Núremberg",
+        "Testimonios de Ravensbrück"
+      ]
+    },
+    {
+      "id": "philipp_blum",
+      "name": "Philipp Blum",
+      "birthDate": "1910",
+      "deathDate": "1945",
+      "birthPlace": "Alemania",
+      "role": "Oficial de Dachau",
+      "organization": "SS",
+      "biography": "Philipp Blum fue un oficial SS conocido por su sadismo extremo en Dachau, donde participó activamente en torturas y asesinatos.",
+      "charges": [
+        "Tortura",
+        "Asesinato",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Desaparecido al final de la guerra",
+      "sources": [
+        "Testimonios de Dachau"
+      ]
+    },
+    {
+      "id": "friedrich_panzinger",
+      "name": "Friedrich Panzinger",
+      "birthDate": "26 de febrero de 1902",
+      "deathDate": "1951",
+      "birthPlace": "Alemania",
+      "role": "Oficial de Gestapo - Represión política",
+      "organization": "Gestapo",
+      "biography": "Friedrich Panzinger fue un oficial de Gestapo responsable de torturas y represión política. Fue torturador de la resistencia y políticos prisioneros.",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Tortura"
+      ],
+      "fate": "Capturado por soviéticos, murió en cautiverio",
+      "sources": [
+        "Archivos de Gestapo",
+        "Investigaciones post-guerra"
+      ]
+    },
+    {
+      "id": "johann_schwarzhuber",
+      "name": "Johann Schwarzhuber",
+      "birthDate": "1904",
+      "deathDate": "1947",
+      "birthPlace": "Alemania",
+      "role": "Oficial de Ravensbrück",
+      "organization": "SS",
+      "biography": "Johann Schwarzhuber fue un oficial de Ravensbrück conocido por su brutalidad extrema contra las prisioneras. Fue uno de los torturadores más infames del campo.",
+      "charges": [
+        "Tortura",
+        "Asesinato",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Capturado, juzgado en Ravensbrück, ejecutado en 1947",
+      "sources": [
+        "Testimonios de Ravensbrück",
+        "Juicios de post-guerra"
+      ]
+    },
+    {
+      "id": "kurt_gerstein",
+      "name": "Kurt Gerstein",
+      "birthDate": "11 de agosto de 1905",
+      "deathDate": "25 de julio de 1945",
+      "birthPlace": "Münster, Alemania",
+      "role": "Oficial de SS - Suministros de gas",
+      "organization": "SS",
+      "biography": "Kurt Gerstein fue el oficial responsable del suministro de gas Zyklon B a los campos de exterminio. Fue testigo de masacres en Treblinka y sus testimonio fue crucial en los juicios post-guerra.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Capturado por franceses, murió en prisión en 1945",
+      "sources": [
+        "Testimonios de Gerstein",
+        "Archivos de Treblinka",
+        "Juicios de post-guerra"
+      ]
+    },
+    {
+      "id": "franz_hössler",
+      "name": "Franz Hössler",
+      "birthDate": "1906",
+      "deathDate": "1947",
+      "birthPlace": "Alemania",
+      "role": "Kapo de Auschwitz",
+      "organization": "SS",
+      "biography": "Franz Hössler fue un kapo (prisionero supervisor) de Auschwitz conocido por su brutalidad. Como prisionero privilegiado, facilitó el proceso de selección para las cámaras de gas.",
+      "charges": [
+        "Genocidio",
+        "Asesinato",
+        "Colaboración"
+      ],
+      "fate": "Juzgado, ejecutado en 1947",
+      "sources": [
+        "Testimonios de Auschwitz",
+        "Archivos de campos"
+      ]
+    },
+    {
+      "id": "karl_fritzsch",
+      "name": "Karl Fritzsch",
+      "birthDate": "1909",
+      "deathDate": "1988",
+      "birthPlace": "Alemania",
+      "role": "Oficial de selección de Auschwitz",
+      "organization": "SS",
+      "biography": "Karl Fritzsch fue un oficial de Auschwitz responsable de las selecciones para la cámara de gas. Fue uno de los administradores directos del genocidio.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Capturado por soviéticos, sobrevivió la guerra",
+      "sources": [
+        "Testimonios de Auschwitz",
+        "Investigaciones post-guerra"
+      ]
+    },
+    {
+      "id": "johann_kremer",
+      "name": "Johann Paul Kremer",
+      "birthDate": "10 de diciembre de 1894",
+      "deathDate": "1965",
+      "birthPlace": "Alemania",
+      "role": "Doctor de Auschwitz",
+      "organization": "SS",
+      "biography": "Johann Kremer fue doctor en Auschwitz que participó en selecciones para la cámara de gas. Su diario documenta la realidad cotidiana del genocidio.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Capturado, condenado a 25 años, liberado",
+      "sources": [
+        "Diario de Kremer",
+        "Testimonios de Auschwitz"
+      ]
+    },
+    {
+      "id": "wilhelm_boger",
+      "name": "Wilhelm Boger",
+      "birthDate": "1906",
+      "deathDate": "1952",
+      "birthPlace": "Alemania",
+      "role": "Oficial de Gestapo en Auschwitz",
+      "organization": "Gestapo",
+      "biography": "Wilhelm Boger fue un infame torturador de Auschwitz conocido por inventar el 'columpio de Boger', un instrumento de tortura extrema que se balanceaba sobre una cuerda.",
+      "charges": [
+        "Tortura",
+        "Asesinato",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Condenado a muerte, ejecutado en 1952",
+      "sources": [
+        "Testimonios de Auschwitz",
+        "Juicios de post-guerra"
+      ]
+    },
+    {
+      "id": "artur_nebe",
+      "name": "Artur Nebe",
+      "birthDate": "13 de noviembre de 1895",
+      "deathDate": "21 de marzo de 1945",
+      "birthPlace": "Berlín, Alemania",
+      "role": "General de Policía Criminal",
+      "organization": "Gestapo/Policía",
+      "biography": "Artur Nebe fue general de policía que supervisó operaciones criminales incluyendo experimentos de asesinato con bombas de gas móviles. Después se convirtió en resistente.",
+      "charges": [
+        "Genocidio",
+        "Crímenes de guerra"
+      ],
+      "fate": "Ejecutado por los nazis en 1945 por actividad de resistencia",
+      "sources": [
+        "Documentos de policía",
+        "Investigaciones de post-guerra"
+      ]
+    },
+    {
+      "id": "josef_altstoetter",
+      "name": "Josef Altstoetter",
+      "birthDate": "1898",
+      "deathDate": "1952",
+      "birthPlace": "Alemania",
+      "role": "Juez nazi - Ministerio de Justicia",
+      "organization": "NSDAP",
+      "biography": "Josef Altstoetter fue juez que confirmó sentencias de muerte contra judíos y prisioneros políticos. Su caso demostró que abogados y jueces fueron cómplices del genocidio.",
+      "charges": [
+        "Crímenes contra la humanidad",
+        "Perversión de justicia"
+      ],
+      "fate": "Juzgado en Núremberg, condenado a 20 años",
+      "sources": [
+        "Juicios de Abogados de Núremberg"
+      ]
+    },
+    {
+      "id": "karl_wolff",
+      "name": "Karl Wolff",
+      "birthDate": "13 de mayo de 1906",
+      "deathDate": "17 de julio de 1984",
+      "birthPlace": "Darmstadt, Alemania",
+      "role": "General de SS - Administrador",
+      "organization": "SS",
+      "biography": "Karl Wolff fue general de SS responsable de coordinación administrativa de campos de concentración. Fue intermediario entre Hitler y operaciones de genocidio.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Capturado, condenado a 15 años, liberado",
+      "sources": [
+        "Archivos de SS",
+        "Juicios de Núremberg"
+      ]
+    },
+    {
+      "id": "hans_eisele",
+      "name": "Hans Eisele",
+      "birthDate": "1915",
+      "deathDate": "1952",
+      "birthPlace": "Alemania",
+      "role": "Doctor de Buchenwald",
+      "organization": "SS",
+      "biography": "Hans Eisele fue doctor en Buchenwald que realizó experimentos médicos brutales. Inyectaba enfermedades a prisioneros para estudiar infecciones.",
+      "charges": [
+        "Experimentación médica",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Capturado, juzgado, condenado a muerte, ejecutado",
+      "sources": [
+        "Testimonios de Buchenwald",
+        "Juicios de Médicos"
+      ]
+    },
+    {
+      "id": "ivan_demjanjuk",
+      "name": "Ivan Demjanjuk",
+      "birthDate": "3 de abril de 1920",
+      "deathDate": "25 de marzo de 2002",
+      "birthPlace": "Ucrania",
+      "role": "Guardia de Treblinka (Trawniki)",
+      "organization": "Trawniki",
+      "biography": "Ivan Demjanjuk fue guardia ucraniano en Treblinka. Su caso fue controversial - fue identificado como 'Ivan el Terrible', torturador de Treblinka.",
+      "charges": [
+        "Genocidio",
+        "Crímenes contra la humanidad"
+      ],
+      "fate": "Juzgado en Israel e Alemania, condenado, murió en cautiverio",
+      "sources": [
+        "Juicios de Demjanjuk",
+        "Investigaciones de Simon Wiesenthal"
+      ]
+    },
+    {
+      "id": "gerhard_klopfer",
+      "name": "Gerhard Klopfer",
+      "birthDate": "1905",
+      "deathDate": "1971",
+      "birthPlace": "Alemania",
+      "role": "Oficial de Chancillería Nazi",
+      "organization": "NSDAP",
+      "biography": "Gerhard Klopfer fue oficial que asistió a la Conferencia de Wannsee. Sus notas de la conferencia fueron documentación crucial del plan de exterminio.",
+      "charges": [
+        "Genocidio",
+        "Complicidad"
+      ],
+      "fate": "Capturado, encarcelado, liberado",
+      "sources": [
+        "Protocolo de Wannsee",
+        "Notas de Klopfer"
+      ]
+    }
+  ],
+  "legislation": [
+    {
+      "id": "1933_enabling_act",
+      "title": "Acta Habilitante (Ermächtigungsgesetz)",
+      "date": "23 de marzo de 1933",
+      "year": 1933,
+      "description": "Ley que otorgó a Adolf Hitler el poder de legislar sin el Parlamento. Esencialmente transformó el gobierno democrático en una dictadura total.",
+      "impact": "Eliminó la separación de poderes y permitió la implementación de políticas raciales y autoritarias sin control parlamentario.",
+      "type": "Persecución",
+      "sources": [
+        "Archivos del Reichstag",
+        "Registros legislativos alemanes"
+      ]
+    },
+    {
+      "id": "1935_nuremberg_laws",
+      "title": "Leyes de Núremberg",
+      "date": "15 de septiembre de 1935",
+      "year": 1935,
+      "description": "Leyes que oficialmente privaron a los judíos de su ciudadanía alemana y les prohibieron matrimonios con ciudadanos alemanes, estableciendo legalmente su estatus de segunda clase.",
+      "impact": "Iniciaron la progresiva deshumanización legal de los judíos, creando las bases jurídicas para una persecución sistemática.",
+      "type": "Discriminación",
+      "sources": [
+        "Gaceta oficial del Reich",
+        "Análisis histórico académico"
+      ]
+    },
+    {
+      "id": "1938_kristallnacht",
+      "title": "Kristallnacht (La Noche de los Cristales Rotos)",
+      "date": "9-10 de noviembre de 1938",
+      "year": 1938,
+      "description": "Pogrom violento coordinado contra judíos y sus propiedades. Más de 1,400 sinagogas fueron incendiadas, miles de tiendas saqueadas, y decenas de judíos fueron asesinados.",
+      "impact": "Marcó la transición de la persecución legal a la violencia física organizada, demostrando que el Estado nazi toleraría (e incluso fomentaría) actos violentos contra los judíos.",
+      "type": "Persecución",
+      "sources": [
+        "Reportes de prensa contemporánea",
+        "Testimonios de testigos",
+        "Documentos policiales nazis"
+      ]
+    },
+    {
+      "id": "1941_wannsee_conference",
+      "title": "Conferencia de Wannsee",
+      "date": "20 de enero de 1941",
+      "year": 1941,
+      "description": "Conferencia en la que altos oficiales nazis planearon la 'Solución Final' - el exterminio sistemático de los judíos europeos. Se establecieron las directivas operacionales para el genocidio.",
+      "impact": "Transformó el antisemitismo político en un programa de exterminio industrial y coordinado que resultaría en el asesinato de aproximadamente 6 millones de judíos.",
+      "type": "Exterminio",
+      "sources": [
+        "Protocolo de Wannsee",
+        "Testimonios de participantes",
+        "Documentos de Núremberg"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "id": "auschwitz",
+      "name": "Auschwitz-Birkenau",
+      "type": "Campo de Exterminio",
+      "latitude": 50.0305,
+      "longitude": 19.1736,
+      "country": "Polonia",
+      "establishedYear": 1940,
+      "liberatedYear": 1945,
+      "description": "El mayor campo de exterminio nazi. Más de 1.1 millones de personas fueron asesinadas aquí, principalmente judíos.",
+      "casualties": 1100000,
+      "operators": ["Comandante: Rudolf Höss"],
+      "currentStatus": "Sitio Patrimonio de la UNESCO",
+      "historicalSignificance": "Símbolo del Holocausto",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Auschwitz_birkenau_barrack.jpg/640px-Auschwitz_birkenau_barrack.jpg",
+      "sources": ["Archivos de Auschwitz", "Testimonios de sobrevivientes"]
+    },
+    {
+      "id": "treblinka",
+      "name": "Treblinka",
+      "type": "Campo de Exterminio",
+      "latitude": 52.6197,
+      "longitude": 22.0217,
+      "country": "Polonia",
+      "establishedYear": 1942,
+      "liberatedYear": 1943,
+      "description": "Campo de exterminio dedicado exclusivamente al asesinato. Aproximadamente 870,000 personas fueron asesinadas aquí.",
+      "casualties": 870000,
+      "operators": ["Comandante: Franz Stangl"],
+      "currentStatus": "Memorial",
+      "historicalSignificance": "Centro de la Solución Final",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Treblinka_monument.jpg/640px-Treblinka_monument.jpg",
+      "sources": ["Testimonios de Jankiel Wiernik", "Registros de la SS"]
+    },
+    {
+      "id": "warsaw_ghetto",
+      "name": "Gueto de Varsovia",
+      "type": "Gueto",
+      "latitude": 52.2496,
+      "longitude": 21.0087,
+      "country": "Polonia",
+      "establishedYear": 1940,
+      "liberatedYear": 1945,
+      "description": "El gueto más grande de Europa. Confinaba a más de 400,000 judíos en un área de apenas 1.3 millas cuadradas.",
+      "casualties": 300000,
+      "operators": ["Gobernador: Hans Frank"],
+      "currentStatus": "Monumento",
+      "historicalSignificance": "Sitio del Levantamiento del Gueto (1943)",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Warsaw_Ghetto_Uprising_Photo_by_Juergen_Stroop_14.jpg/640px-Warsaw_Ghetto_Uprising_Photo_by_Juergen_Stroop_14.jpg",
+      "sources": ["Diarios del Gueto de Varsovia", "Testimonios de Jan Karski"]
+    },
+    {
+      "id": "dachau",
+      "name": "Dachau",
+      "type": "Campo de Concentración",
+      "latitude": 48.2699,
+      "longitude": 11.4958,
+      "country": "Alemania",
+      "establishedYear": 1933,
+      "liberatedYear": 1945,
+      "description": "Primer campo de concentración permanente. Sirvió como modelo para otros campos.",
+      "casualties": 32000,
+      "operators": ["Comandante: Theodor Eicke"],
+      "currentStatus": "Museo Memorial",
+      "historicalSignificance": "Prototipo del sistema de campos nazis",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Dachau_Concentration_Camp.jpg/640px-Dachau_Concentration_Camp.jpg",
+      "sources": ["Archivos de Dachau", "Testimonios de sobrevivientes"]
+    },
+    {
+      "id": "berlin_memorial",
+      "name": "Memorial del Holocausto de Berlín",
+      "type": "Memorial",
+      "latitude": 52.5139,
+      "longitude": 13.3915,
+      "country": "Alemania",
+      "establishedYear": 2005,
+      "liberatedYear": null,
+      "description": "Memorial dedicado a los judíos asesinados de Europa. Consiste en 2,711 losas de concreto.",
+      "casualties": null,
+      "operators": ["Arquitecto: Peter Eisenman"],
+      "currentStatus": "Sitio Patrimonio de la UNESCO",
+      "historicalSignificance": "Recordatorio permanente del Holocausto",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Berlin_Holocaust_Memorial_01.jpg/640px-Berlin_Holocaust_Memorial_01.jpg",
+      "sources": ["Fundación de la Memoria del Holocausto"]
+    }
+  ],
+  "events": [
+    {
+      "id": "1933_enabling_act",
+      "title": "Acta Habilitante",
+      "date": "23 de marzo de 1933",
+      "day": 23,
+      "month": 3,
+      "year": 1933,
+      "description": "El Reichstag aprueba el Acta Habilitante, otorgando poderes dictatoriales a Hitler.",
+      "category": "Legislación",
+      "significance": "Transformación de gobierno democrático a totalitario",
+      "consequences": "Eliminación de separación de poderes",
+      "imageURL": null,
+      "relatedLocations": [],
+      "relatedPerpetrators": ["hitler", "goebbels"],
+      "sources": ["Archivos del Reichstag"]
+    },
+    {
+      "id": "1935_nuremberg_laws",
+      "title": "Leyes de Núremberg",
+      "date": "15 de septiembre de 1935",
+      "day": 15,
+      "month": 9,
+      "year": 1935,
+      "description": "Se promulgan las Leyes de Núremberg, privando a los judíos de ciudadanía.",
+      "category": "Legislación",
+      "significance": "Base legal para persecución sistemática",
+      "consequences": "Estatus legal de segunda clase para judíos",
+      "imageURL": null,
+      "relatedLocations": [],
+      "relatedPerpetrators": ["hitler"],
+      "sources": ["Gaceta oficial del Reich"]
+    },
+    {
+      "id": "1938_kristallnacht",
+      "title": "Kristallnacht",
+      "date": "9-10 de noviembre de 1938",
+      "day": 9,
+      "month": 11,
+      "year": 1938,
+      "description": "Pogrom violento coordinado contra judíos y sus propiedades en toda Alemania.",
+      "category": "Violencia de masas",
+      "significance": "Transición de persecución legal a violencia física",
+      "consequences": "Encarcelamiento de 30,000 judíos",
+      "imageURL": null,
+      "relatedLocations": [],
+      "relatedPerpetrators": ["goebbels"],
+      "sources": ["Reportes de prensa", "Testimonios"]
+    },
+    {
+      "id": "1939_invasion_poland",
+      "title": "Invasión de Polonia",
+      "date": "1 de septiembre de 1939",
+      "day": 1,
+      "month": 9,
+      "year": 1939,
+      "description": "Alemania invade Polonia, iniciando la Segunda Guerra Mundial.",
+      "category": "Militar",
+      "significance": "Inicio de la Segunda Guerra Mundial",
+      "consequences": "Ocupación de territorios judíos europeos",
+      "imageURL": null,
+      "relatedLocations": ["warsaw_ghetto"],
+      "relatedPerpetrators": ["hitler"],
+      "sources": ["Registros militares"]
+    },
+    {
+      "id": "1941_wannsee",
+      "title": "Conferencia de Wannsee",
+      "date": "20 de enero de 1941",
+      "day": 20,
+      "month": 1,
+      "year": 1941,
+      "description": "Altos oficiales nazis planifican la 'Solución Final'.",
+      "category": "Violencia de masas",
+      "significance": "Decisión de genocidio sistemático",
+      "consequences": "Implementación de campos de exterminio",
+      "imageURL": null,
+      "relatedLocations": ["auschwitz", "treblinka"],
+      "relatedPerpetrators": ["himmler"],
+      "sources": ["Protocolo de Wannsee"]
+    },
+    {
+      "id": "1942_treblinka",
+      "title": "Operación de Treblinka",
+      "date": "23 de julio de 1942",
+      "day": 23,
+      "month": 7,
+      "year": 1942,
+      "description": "Comienza el transporte masivo desde el Gueto de Varsovia a Treblinka.",
+      "category": "Violencia de masas",
+      "significance": "Inicio de exterminio masivo en Treblinka",
+      "consequences": "300,000 judíos de Varsovia asesinados",
+      "imageURL": null,
+      "relatedLocations": ["warsaw_ghetto", "treblinka"],
+      "relatedPerpetrators": [],
+      "sources": ["Testimonios de Jankiel Wiernik"]
+    },
+    {
+      "id": "1943_warsaw_uprising",
+      "title": "Levantamiento del Gueto de Varsovia",
+      "date": "19 de abril - 16 de mayo de 1943",
+      "day": 19,
+      "month": 4,
+      "year": 1943,
+      "description": "Resistencia judía organizada contra la evacuación del gueto.",
+      "category": "Resistencia",
+      "significance": "Primer levantamiento urbano contra nazis",
+      "consequences": "13,000 judíos asesinados, gueto destruido",
+      "imageURL": null,
+      "relatedLocations": ["warsaw_ghetto"],
+      "relatedPerpetrators": [],
+      "sources": ["Testimonios de sobrevivientes"]
+    },
+    {
+      "id": "1944_d_day",
+      "title": "Desembarco de Normandía",
+      "date": "6 de junio de 1944",
+      "day": 6,
+      "month": 6,
+      "year": 1944,
+      "description": "Operación Overlord: invasión aliada de Francia",
+      "category": "Militar",
+      "significance": "Inicio de liberación de Europa Occidental",
+      "consequences": "Inicio del fin del Tercer Reich",
+      "imageURL": null,
+      "relatedLocations": [],
+      "relatedPerpetrators": [],
+      "sources": ["Registros militares aliados"]
+    },
+    {
+      "id": "1945_liberation_auschwitz",
+      "title": "Liberación de Auschwitz",
+      "date": "27 de enero de 1945",
+      "day": 27,
+      "month": 1,
+      "year": 1945,
+      "description": "Tropas soviéticas liberan Auschwitz",
+      "category": "Liberación",
+      "significance": "Descubrimiento del alcance del Holocausto",
+      "consequences": "Revelación de la verdad sobre el genocidio",
+      "imageURL": null,
+      "relatedLocations": ["auschwitz"],
+      "relatedPerpetrators": [],
+      "sources": ["Testimonios de Primo Levi"]
+    },
+    {
+      "id": "1945_liberation_germany",
+      "title": "Liberación de Alemania",
+      "date": "8 de mayo de 1945",
+      "day": 8,
+      "month": 5,
+      "year": 1945,
+      "description": "Rendición incondicional de Alemania",
+      "category": "Militar",
+      "significance": "Fin de la Segunda Guerra Mundial en Europa",
+      "consequences": "Fin del Tercer Reich",
+      "imageURL": null,
+      "relatedLocations": [],
+      "relatedPerpetrators": ["hitler"],
+      "sources": ["Documentos militares"]
+    },
+    {
+      "id": "1945_nuremberg_trials",
+      "title": "Juicios de Núremberg",
+      "date": "20 de noviembre de 1945",
+      "day": 20,
+      "month": 11,
+      "year": 1945,
+      "description": "Comienzan los juicios de los principales criminales de guerra nazis",
+      "category": "Juicios",
+      "significance": "Primer tribunal internacional de crímenes de guerra",
+      "consequences": "Establecimiento de precedente legal internacional",
+      "imageURL": null,
+      "relatedLocations": [],
+      "relatedPerpetrators": [],
+      "sources": ["Actas de Núremberg"]
+    }
+  ],
+  "articles": [
+    {
+      "id": "understanding_holocaust_basics",
+      "title": "Fundamentos del Holocausto",
+      "category": "Entender el Holocausto",
+      "date": "2024-01-15",
+      "author": "Equipo Editorial",
+      "summary": "Introducción a los conceptos clave del Holocausto: qué fue, cómo sucedió y por qué es importante recordarlo.",
+      "content": "El Holocausto fue el exterminio sistemático de aproximadamente 6 millones de judíos europeos por el régimen nazi de Adolf Hitler entre 1933 y 1945. Fue el genocidio más industrializado de la historia, caracterizado por la burocratización del asesinato y la participación de múltiples niveles de la sociedad alemana.\n\nEl término 'Holocausto' proviene del griego 'holos' (todo) y 'kaustos' (quemado). Los nazis lo llamaban la 'Solución Final a la Cuestión Judía', un eufemismo para el plan de exterminio total.\n\nNo fue un acto espontáneo de violencia, sino un proceso planeado que evolucionó desde la persecución legal (1933-1939) a través de la segregación en guetos (1939-1941) hasta el exterminio industrial en campos especializados (1941-1945).\n\nEs crucial entender que el Holocausto fue posible porque muchas personas comunes permitieron, participaron o facilitaron su ejecución. Desde funcionarios burocráticos que clasificaban a las víctimas hasta guardias de campos y colaboradores locales, millones fueron cómplices.",
+      "imageURL": null,
+      "sources": [
+        "Yad Vashem - Autoridad Conmemorativa del Holocausto",
+        "Memorial del Holocausto de Estados Unidos",
+        "Archivos de Auschwitz"
+      ],
+      "relatedTopics": ["perpetradores", "solución final", "guetos", "campos de concentración"]
+    },
+    {
+      "id": "nazi_ideology_propaganda",
+      "title": "Ideología Nazi y Propaganda",
+      "category": "Los Perpetradores",
+      "date": "2024-01-20",
+      "author": "Equipo Editorial",
+      "summary": "Cómo el nazismo utilizó la propaganda y la pseudociencia para justificar el genocidio.",
+      "content": "La ideología nazi se basaba en conceptos pseudocientíficos de 'pureza racial' y una jerarquía racial que colocaba a los 'arios' en la cúspide y a los judíos como enemigos existenciales de la raza alemana.\n\nLa propaganda nazi, bajo la dirección de Joseph Goebbels, fue extraordinariamente efectiva. Utilizó medios modernos como el cine, la radio y carteles para:\n- Deshumanizar a los judíos con caricaturas y estereotipos\n- Presentar el antisemitismo como una posición científica racional\n- Crear un sentido de urgencia sobre la 'amenaza judía'\n- Normalizar la discriminación y la violencia\n\nUna técnica clave fue repetir constantemente los mismos mensajes hasta que se convirtieron en verdad aceptada. Los nazis también utilizaron el terror para silenciar a los críticos.\n\nEs importante reconocer que la propaganda nazi no fue simplemente 'lavado de cerebro'. Funcionó porque aprovechó prejuicios existentes, especialmente el antisemitismo histórico profundamente arraigado en la cultura europea.",
+      "imageURL": null,
+      "sources": [
+        "Registros del Ministerio de Propaganda Nazi",
+        "Análisis de David Welch sobre propaganda nazi",
+        "Archivos del Instituto de Historia Contemporánea"
+      ],
+      "relatedTopics": ["antisemitismo", "Joseph Goebbels", "deshumanización", "control de medios"]
+    },
+    {
+      "id": "resistance_heroism",
+      "title": "Resistencia y Heroísmo",
+      "category": "Resistencia y Heroísmo",
+      "date": "2024-02-01",
+      "author": "Equipo Editorial",
+      "summary": "Historias de aquellos que resistieron al Holocausto, desde revueltas armadas hasta rescates clandestinos.",
+      "content": "Aunque el Holocausto fue un evento de opresión casi total, hubo actos notables de resistencia y heroísmo.\n\nLA RESISTENCIA JUDÍA:\n- El Levantamiento del Gueto de Varsovia (abril-mayo 1943) fue la primera revuelta urbana contra los nazis\n- Levantamientos en campos como Treblinka (agosto 1943) y Sobibor (octubre 1943)\n- Guerrilleros judíos que lucharon en los bosques de Europa Oriental\n- Organizaciones clandestinas que forjaban documentos y ayudaban a escapar\n\nLOS JUSTOS ENTRE LAS NACIONES:\n- Aproximadamente 100,000 no judíos arriesgaron sus vidas para rescatar judíos\n- Ejemplos notables incluyen a Oskar Schindler, Raoul Wallenberg y la familia Chambon\n- Personas ordinarias que escondieron a judíos, les proporcionaron alimento y refugio\n\nRESISTENCIA ESPIRITUAL:\n- Mantener la dignidad humana en los campos más inhumanos\n- Grupos clandestinos que educaban a los niños y enseñaban religión\n- Actos de compasión y solidaridad entre prisioneros\n\nEsta resistencia demuestra que incluso en las circunstancias más oscuras, la resistencia humana es posible.",
+      "imageURL": null,
+      "sources": [
+        "Yad Vashem - Base de datos de Justos",
+        "Testimonios de sobrevivientes",
+        "Archivos del Museo del Holocausto de EE.UU."
+      ],
+      "relatedTopics": ["levantamientos", "Justos entre las Naciones", "rescates", "guerrilleros"]
+    },
+    {
+      "id": "wannsee_conference_final_solution",
+      "title": "La Conferencia de Wannsee y la Solución Final",
+      "category": "Los Perpetradores",
+      "date": "2024-02-10",
+      "author": "Equipo Editorial",
+      "summary": "El evento clave donde los nazis decidieron implementar el genocidio sistemático.",
+      "content": "El 20 de enero de 1941, quince altos funcionarios nazis se reunieron en una casa de lujo en el suburbio de Wannsee en Berlín para coordinar los detalles de la 'Solución Final a la Cuestión Judía'.\n\nASISTENTES CLAVE:\nLa conferencia fue dirigida por Reinhard Heydrich, lugarteniente de Himmler en el Reich Security Main Office. Adolf Eichmann, jefe de la Sección de Asuntos Judíos, fue el principal planificador ejecutivo.\n\nLO QUE SUCEDIÓ:\nAntes de Wannsee, la política nazi hacia los judíos había incluido expulsión y relocación forzada. En Wannsee, la decisión fue clara: exterminio total.\n\nPLANES ESPECÍFICOS:\n- Deportación de judíos desde toda Europa a campos en el Este (principalmente en Polonia)\n- Construcción de centros especializados de exterminio con cámaras de gas\n- Implementación de métodos industriales de asesinato\n- Destrucción de evidencia\n\nLEGACY DEL PROTOCOLO:\nLa única documentación sobreviviente es el 'Protocolo de Wannsee', que proporciona evidencia clara de la planificación burocrática del genocidio. Este documento es crucial para entender que el Holocausto no fue una serie de actos aislados de violencia, sino un programa coordinado a nivel de Estado.",
+      "imageURL": null,
+      "sources": [
+        "Protocolo de Wannsee (documento original)",
+        "Testimonios de Adolf Eichmann",
+        "Análisis del Museo Conmemorativo del Holocausto de EE.UU."
+      ],
+      "relatedTopics": ["Solución Final", "exterminio", "campos de gas", "Reinhard Heydrich"]
+    },
+    {
+      "id": "justice_nuremberg_trials",
+      "title": "Justicia: Los Juicios de Núremberg",
+      "category": "Justicia y Juicios",
+      "date": "2024-02-15",
+      "author": "Equipo Editorial",
+      "summary": "El primer tribunal internacional para juzgar crímenes de guerra y crímenes contra la humanidad.",
+      "content": "Después de la rendición de Alemania en 1945, la pregunta era: ¿cómo se podría juzgar a los criminales de guerra nazis?\n\nLOS JUICIOS DE NÚREMBERG (1945-1946):\nLa solución fue crear un tribunal internacional sin precedentes. Por primera vez en la historia, los líderes de una nación fueron juzgados por sus acciones contra sus propios ciudadanos y otros.\n\nFIGURAS PRINCIPALES JUZGADAS:\n- Hermann Göring - Comandante supremo de la Luftwaffe\n- Rudolf Hess - Viceführer\n- Joachim von Ribbentrop - Ministro de Relaciones Exteriores\n- Wilhelm Keitel - Jefe de personal militar\n- Otros 20 líderes nazis de alto rango\n\nCARGOS:\n- Crímenes contra la paz\n- Crímenes de guerra\n- Crímenes contra la humanidad\n\nSENTENCIAS:\n- 12 fueron condenados a muerte\n- 7 recibieron sentencias de prisión\n- 3 fueron absueltos\n\nIMPACTO LEGADO:\nLos Juicios de Núremberg establecieron precedentes legales internacionales que siguen siendo aplicados hoy:\n- El concepto de 'crímenes contra la humanidad'\n- La responsabilidad individual por actos de Estado\n- El principio de que 'solo cumplía órdenes' no es una defensa válida\n\nEste tribunal demostró que incluso los más poderosos pueden ser responsables ante la ley.",
+      "imageURL": null,
+      "sources": [
+        "Actas oficiales de los Juicios de Núremberg",
+        "Documentos del Tribunal Militar Internacional",
+        "Análisis del Centro del Holocausto de Yad Vashem"
+      ],
+      "relatedTopics": ["crímenes de guerra", "responsabilidad individual", "precedente legal"]
+    },
+    {
+      "id": "ghettos_history",
+      "title": "Los Guetos: Espacios de Confinamiento",
+      "category": "Entender el Holocausto",
+      "date": "2024-02-20",
+      "author": "Equipo Editorial",
+      "summary": "Cómo los nazis usaron los guetos como paso intermedio hacia el exterminio total.",
+      "content": "A medida que Alemania conquistaba territorios en Europa Oriental, los nazis se enfrentaron con el problema de cómo controlar las grandes poblaciones judías. Su solución fue confinar a los judíos en áreas específicas llamadas guetos.\n\nQUÉ ERAN LOS GUETOS:\nLos guetos eran zonas urbanas amuralladas donde se forzaba a los judíos a vivir separados del resto de la población. Se caracterizaban por:\n- Aislamiento completo del mundo exterior\n- Sobrepoblación extrema (hasta 500,000 personas en áreas de pocas millas cuadradas)\n- Racionamiento severo de alimentos\n- Falta de servicios médicos adecuados\n- Trabajo forzado\n\nEL GUETO DE VARSOVIA:\nEl más grande de todos los guetos fue el de Varsovia (1940-1943), que confinaba a más de 400,000 judíos. Sus condiciones eran horrendas:\n- Dieta de 184 calorías por día (una tercera parte de lo necesario para sobrevivir)\n- Tasa de mortalidad de 4,000-5,000 personas por mes\n- Epidemias de tifus y tuberculosis\n- Hambre generalizada\n\nFUNCIÓN DE LOS GUETOS:\nLos guetos sirvieron múltiples propósitos en la maquinaria nazi:\n1. Control administrativo y vigilancia de la población judía\n2. Fuerza de trabajo esclava\n3. Paso intermedio hacia la exterminio en campos de concentración\n4. Centro de esperimento para políticas genocidas\n\nRESISTENCIA EN LOS GUETOS:\nA pesar de las condiciones de horror, hubo resistencia notables. Organizaciones clandestinas operaban escuelas, ayuda mutual y grupos de resistencia armada. El Levantamiento del Gueto de Varsovia (1943) fue un acto definitivo de resistencia contra los nazis.",
+      "imageURL": null,
+      "sources": [
+        "Diarios del Gueto de Varsovia",
+        "Testimonios de Emanuel Ringelblum",
+        "Yad Vashem Archives"
+      ],
+      "relatedTopics": ["confinamiento", "Varsovia", "condiciones", "resistencia"]
+    },
+    {
+      "id": "methods_extermination",
+      "title": "Métodos de Exterminio: De la Represalia al Asesinato Industrial",
+      "category": "Entender el Holocausto",
+      "date": "2024-02-25",
+      "author": "Equipo Editorial",
+      "summary": "Cómo evolucionaron los métodos nazis de asesinato durante el Holocausto.",
+      "content": "El Holocausto no comenzó con campos de gas. Los métodos de exterminio evolucionaron a través de fases distintas:\n\nFASE 1: PERSECUCIÓN LEGAL (1933-1939)\n- Leyes de Núremberg que privaban a los judíos de derechos\n- Confiscación de propiedad\n- Prohibición de profesiones\n- Creciente aislamiento social\n\nFASE 2: REPRESALIAS VIOLENTAS (1938-1941)\n- Kristallnacht (Noche de los Cristales Rotos) en 1938\n- Kristallnacht mostró que la violencia estatal contra judíos era tolerada\n- Pogroms coordinados en territorios ocupados\n- Masacres de judíos por Einsatzgruppen (escuadrones de ejecución) durante la invasión de la URSS\n\nFASE 3: GUETOS Y TRABAJO FORZADO (1939-1941)\n- Confinamiento en espacios abarrotados\n- Trabajo esclavo\n- Hambre sistemática\n- Enfermedad deliberada\n\nFASE 4: ASESINATO INDUSTRIAL (1941-1945)\nDespués de la Conferencia de Wannsee, los nazis construyeron campos especializados en exterminio:\n\nCÁMAARAS DE GAS:\n- Monóxido de carbono o Zyklon B (gas cianuro)\n- Capacidad de matar miles por día\n- Se presentaba como duchas para engañar a las víctimas\n\nCREMATORIOS:\n- Destrucción sistemática de evidencia\n- Operados continuamente para procesar los cuerpos\n- Algunos campos tenían múltiples hornos funcionando 24/7\n\nCAMPOS DE EXTERMINIO:\n- Treblinka, Sobibor, Belzec, Chelmno, Auschwitz-Birkenau\n- Operaban como máquinas de muerte: pasillo directo desde el tren a la cámara de gas\n\nESCALA DEL ASESINATO:\n- 6 millones de judíos asesinados\n- 2,700 judíos muertos por día en el pico (Auschwitz)\n- Aproximadamente 17 millones de personas muertas en total bajo el régimen nazi",
+      "imageURL": null,
+      "sources": [
+        "Archivos de Auschwitz",
+        "Testimonios de sobrevivientes",
+        "Análisis de Raul Hilberg sobre la Destrucción de los Judíos Europeos"
+      ],
+      "relatedTopics": ["campos de gas", "crematorios", "Einsatzgruppen", "industrialización del asesinato"]
+    },
+    {
+      "id": "survivors_testimony",
+      "title": "Testimonios de Supervivientes: Voces de la Historia",
+      "category": "Testimonios",
+      "date": "2024-03-05",
+      "author": "Equipo Editorial",
+      "summary": "La importancia de los testimonios de supervivientes en la preservación de la memoria histórica.",
+      "content": "Los testimonios de supervivientes del Holocausto son documentos históricos invaluables que proporcionan evidencia de primera mano de los crímenes nazis. Estas voces nos permiten entender la experiencia humana detrás de los números.\n\nPOR QUÉ SON IMPORTANTES:\nLos testimonios deshumaniza a las víctimas como estádísticas en números. Hacen que el Holocausto sea una serie de historias humanas reales - historias de:\n- Familias separadas\n- Niños asesinados en cámaras de gas\n- Actos de compasión en circunstancias inhumanas\n- Resiliencia y supervivencia contra las probabilidades\n- Culpa de los supervivientes\n\nTESTIMONIOS FAMOSOS:\n\nPrimo Levi - 'Si esto es un hombre':\nSobreviviente de Auschwitz que escribió sobre la deshumanización en los campos.\n\nAne Frank - 'El Diario de Ana Frank':\nJoven judía que se escondió durante la ocupación nazi de Ámsterdam, documenta la esperanza y el miedo diarios.\n\nElie Wiesel - 'La Noche':\nSobreviviente de Auschwitz y Buchenwald que se convirtió en testigo moral del Holocausto.\n\nJankiel Wiernik - 'Un Año en Treblinka':\nTesgo del único campo cuyo único propósito era la exterminio, describe el horror sistemático.\n\nVIVA COLLECTIONS:\nDespués de los años 80, se intensificó la recopilación sistemática de testimonios:\n- Museo del Holocausto de EE.UU.: 120,000+ testimonios en video\n- Yad Vashem: Base de datos de 4 millones de testimonio\n- Instituto Fortunoff: Proyecto de Televisión de Testimonio\n\nSIGNIFICADO FUTURO:\nA medida que los supervivientes envejecen, estos testimonios se vuelven cada vez más valiosos. Preservarlos es un acto de:\n- Honra a los muertos\n- Educación de futuras generaciones\n- Defensa contra la negación del Holocausto\n- Advertencia sobre los peligros del antisemitismo y la intolerancia",
+      "imageURL": null,
+      "sources": [
+        "Museo Conmemorativo del Holocausto de los EE.UU.",
+        "Yad Vashem",
+        "Testimonio de Primo Levi",
+        "Diario de Ana Frank"
+      ],
+      "relatedTopics": ["memoria", "educación", "preservación histórica", "voces de sobrevivientes"]
+    }
+  ],
+  "documentaries": [
+    {
+      "id": "shoah_lanzmann",
+      "title": "Shoah",
+      "type": "Documental",
+      "duration": 570,
+      "releaseYear": 1985,
+      "director": "Claude Lanzmann",
+      "description": "Monumental documental de 9.5 horas que consiste enteramente en entrevistas. Lanzmann entrevista a sobrevivientes, perpetradores y testigos. No contiene metraje de archivo ni fotografías del Holocausto, solo las historias orales crudas.",
+      "educationalValue": "Considerado una de las obras más importantes sobre el Holocausto. Proporciona testimonios prolongados e íntimos que permiten una comprensión profunda de la experiencia humana.",
+      "language": "Francés con subtítulos",
+      "availability": "Disponible en DVD, Blu-ray y plataformas de streaming especializadas",
+      "sources": ["Instituto de Cine Británico", "Criterion Collection"]
+    },
+    {
+      "id": "night_fog_alain_resnais",
+      "title": "Noche y Niebla (Nuit et Brouillard)",
+      "type": "Documental",
+      "duration": 32,
+      "releaseYear": 1956,
+      "director": "Alain Resnais",
+      "description": "Cortometraje seminal que contrasta el presente (Auschwitz en 1955) con metraje de archivo de la época nazi. Combina imágenes en color del campo abandonado con testimonios de sobrevivientes.",
+      "educationalValue": "Obra maestra en cómo el cine puede documentar el Holocausto. Influencia en innumerables documentales posteriores. Impactante contraste entre la belleza tranquila del sitio en 1955 y el horror de su historia.",
+      "language": "Francés con subtítulos en múltiples idiomas",
+      "availability": "Disponible en YouTube y plataformas de streaming educativo"
+    },
+    {
+      "id": "schindlers_list_spielberg",
+      "title": "La Lista de Schindler",
+      "type": "Película",
+      "duration": 195,
+      "releaseYear": 1993,
+      "director": "Steven Spielberg",
+      "description": "Dramatización de la verdadera historia de Oskar Schindler, un empresario alemán que salvó a más de 1,000 judíos polacos durante el Holocausto contratándolos como trabajadores 'esenciales' en su fábrica.",
+      "educationalValue": "Ganadora del Óscar, proporciona una narrativa accesible del Holocausto. Muestra la participación de ciudadanos ordinarios en la resistencia y rescate.",
+      "language": "Inglés, alemán, polaco",
+      "availability": "DVD, Blu-ray, plataformas de streaming principales"
+    },
+    {
+      "id": "diario_ana_frank",
+      "title": "El Diario de Ana Frank",
+      "type": "Película",
+      "duration": 180,
+      "releaseYear": 2016,
+      "director": "Hans Steinbichler",
+      "description": "Adaptación cinematográfica del famoso diario de Ana Frank, que documenta 25 meses escondidos en un apartamento secreto en Ámsterdam durante la ocupación nazi.",
+      "educationalValue": "Humaniza las historias del Holocausto a través de la perspectiva de una adolescente. Muestra la vida diaria, esperanzas y miedos de quienes se escondieron.",
+      "language": "Inglés, alemán, holandés",
+      "availability": "Netflix, DVD, Blu-ray"
+    },
+    {
+      "id": "the_last_survivors",
+      "title": "The Last Survivors",
+      "type": "Serie",
+      "duration": 45,
+      "releaseYear": 2020,
+      "director": "Various",
+      "description": "Serie de documentales de 5 partes que presenta entrevistas en profundidad con supervivientes del Holocausto de edades avanzadas. Captura sus historias mientras aún viven para preservar los testimonios.",
+      "educationalValue": "Proporciona testimonios de primera mano de sobrevivientes variados con diferentes experiencias (ghettos, campos, escondites, resistencia).",
+      "language": "Inglés, múltiples idiomas de supervivientes",
+      "availability": "PBS, Amazon Prime Video"
+    },
+    {
+      "id": "ghetto",
+      "title": "Ghetto",
+      "type": "Documental",
+      "duration": 85,
+      "releaseYear": 2006,
+      "director": "Yael Hersonski",
+      "description": "Uso innovador de metraje filmado por judíos en el Gueto de Lodz durante el Holocausto. El documental examina lo que significaba que esta película fuera hecha bajo la vigilancia nazi.",
+      "educationalValue": "Proporciona acceso a metraje raro del vida cotidiana en un gueto. Plantea preguntas importantes sobre la representación, la resistencia cultural y la supervivencia.",
+      "language": "Polaco, yiddish, inglés",
+      "availability": "Distribuidoras de cine educativo, archivos"
+    },
+    {
+      "id": "son_of_saul",
+      "title": "El Hijo de Saúl",
+      "type": "Película",
+      "duration": 107,
+      "releaseYear": 2015,
+      "director": "László Nemes",
+      "description": "Drama húngaro aclamado que sigue a un prisionero judío en Auschwitz-Birkenau quien trabaja como Sonderkommando (prisionero forzado a manejar cuerpos). Se enfoca en su búsqueda para dar un entierro apropiado a lo que cree es su hijo.",
+      "educationalValue": "Retrato íntimo de la resistencia espiritual en circunstancias impensables. Ganador del Premio de la Academia a Mejor Película de Habla No Inglesa.",
+      "language": "Húngaro con subtítulos",
+      "availability": "Distribuidoras de cine especializado",
+      "sources": []
+    }
+  ],
+  "profiles": [
+    {
+      "id": "anne_frank",
+      "name": "Ana Frank",
+      "profileType": "Sobreviviente",
+      "birthDate": "12 de junio de 1929",
+      "deathDate": "Marzo de 1945",
+      "birthPlace": "Fráncfort del Meno, Alemania",
+      "biography": "Ana Frank fue una adolescente judía que se escondió con su familia durante la ocupación nazi de Ámsterdam. Durante 25 meses en un apartamento secreto, escribió un diario que se ha convertido en el testimonial más famoso del Holocausto. Fue descubierta en 1944 y murió en el campo de concentración de Bergen-Belsen poco después de la liberación.",
+      "significance": "Su diario humaniza la experiencia del Holocausto desde la perspectiva de una adolescente, mostrando esperanzas, miedos y la normalidad de la vida cotidiana bajo persecución. El Diario de Ana Frank ha sido leído por millones y es fundamental en la educación sobre el Holocausto.",
+      "imageURL": null,
+      "sources": [
+        "El Diario de Ana Frank",
+        "Casa Ana Frank, Ámsterdam",
+        "Memoriales del Holocausto"
+      ]
+    },
+    {
+      "id": "oskar_schindler",
+      "name": "Oskar Schindler",
+      "profileType": "Rescatador",
+      "birthDate": "28 de abril de 1908",
+      "deathDate": "9 de octubre de 1974",
+      "birthPlace": "Svitavy, Checoslovaquia",
+      "biography": "Empresario alemán que utilizó su fábrica como refugio para aproximadamente 1,200 judíos polacos durante el Holocausto. Sobornó a funcionarios nazis, proporcionó manutención y protección, permitiendo que sus trabajadores 'esenciales' evitaran la deportación a campos de exterminio. Fue reconocido como Justo entre las Naciones.",
+      "significance": "Demostró que los individuos ordinarios podían salvar vidas bajo el régimen nazi. Su historia inspira esperanza sobre la capacidad humana para hacer bien incluso en circunstancias extremas. La película 'La Lista de Schindler' popularizó su legado.",
+      "imageURL": null,
+      "sources": [
+        "La Lista de Schindler",
+        "Yad Vashem",
+        "Testimonios de sobrevivientes"
+      ]
+    },
+    {
+      "id": "fredy_hirsch",
+      "name": "Fredy Hirsch",
+      "profileType": "Sobreviviente",
+      "birthDate": "11 de abril de 1916",
+      "deathDate": "Diciembre de 1944",
+      "birthPlace": "Arendal, Noruega",
+      "biography": "Educador y líder deportivo judío que sobrevivió internamiento en campos nazis. En Auschwitz-Birkenau, organizó clandestinamente educación y actividades deportivas para niños judíos a pesar del terror y el hambre. Sus esfuerzos les dieron dignidad y esperanza en circunstancias desgarradoras.",
+      "significance": "Su resistencia espiritual y compromiso con la preservación de la humanidad en los campos demuestran que la resistencia toma muchas formas. Fue un símbolo de la capacidad para mantener la moralidad y la dignidad bajo opresión total.",
+      "imageURL": null,
+      "sources": [
+        "Testimonios de sobrevivientes",
+        "Archivos de Auschwitz",
+        "Yad Vashem"
+      ]
+    },
+    {
+      "id": "raoul_wallenberg",
+      "name": "Raoul Wallenberg",
+      "profileType": "Rescatador",
+      "birthDate": "4 de agosto de 1912",
+      "deathDate": "Desaparecido, presumiblemente 1947",
+      "birthPlace": "Estocolmo, Suecia",
+      "biography": "Diplomático sueco que salvó la vida de aproximadamente 100,000 judíos húngaros durante el Holocausto. Utilizó su posición como diplomático para emitir pasaportes de protección sueca, compró casas de seguridad, y directamente intervino para detener deportaciones. Fue capturado por las tropas soviéticas y desapareció.",
+      "significance": "Su acción rápida y decisiva durante los últimos meses del Holocausto salvó decenas de miles de vidas. Su desaparición en manos soviéticas añade tragedia a su legado heroico.",
+      "imageURL": null,
+      "sources": [
+        "Yad Vashem",
+        "Instituto Wallenberg",
+        "Memoriales del Holocausto"
+      ]
+    },
+    {
+      "id": "primo_levi",
+      "name": "Primo Levi",
+      "profileType": "Sobreviviente",
+      "birthDate": "31 de julio de 1919",
+      "deathDate": "11 de abril de 1987",
+      "birthPlace": "Turín, Italia",
+      "biography": "Químico italiano y sobreviviente de Auschwitz. Después de la guerra, escribió 'Si esto es un hombre', considerado uno de los testimonios más profundos del Holocausto. Sus escritos combinan precisión científica con reflexión ética profunda sobre la deshumanización en los campos.",
+      "significance": "Su obra es fundamental para entender la experiencia del Holocausto desde la perspectiva de un hombre educado que analizaba racionalmente su propia degradación. Fue una voz moral en la posguerra.",
+      "imageURL": null,
+      "sources": [
+        "Si esto es un hombre - Primo Levi",
+        "Testimonios en video",
+        "Archivos de Auschwitz"
+      ]
+    },
+    {
+      "id": "rudolf_hoss",
+      "name": "Rudolf Höss",
+      "profileType": "Perpetrador",
+      "birthDate": "25 de noviembre de 1900",
+      "deathDate": "16 de abril de 1947",
+      "birthPlace": "Baden-Baden, Alemania",
+      "biography": "Comandante de Auschwitz-Birkenau bajo el régimen nazi. Fue responsable de la operación del campo más grande de exterminio, donde aproximadamente 1.1 millones de personas fueron asesinadas. Supervisó directamente la construcción de cámaras de gas y la operación de crematorios.",
+      "significance": "Su testimonio en los Juicios de Núremberg proporciona una visión de la mentalidad de los perpetradores de alto nivel. Su caso demuestra la responsabilidad individual incluso en un sistema criminal totalitario.",
+      "imageURL": null,
+      "sources": [
+        "Testimonios de Núremberg",
+        "Memorias de Rudolf Höss",
+        "Archivos de Auschwitz"
+      ]
+    },
+    {
+      "id": "elie_wiesel",
+      "name": "Elie Wiesel",
+      "profileType": "Sobreviviente",
+      "birthDate": "30 de septiembre de 1928",
+      "deathDate": "2 de julio de 2016",
+      "birthPlace": "Sighet, Rumania",
+      "biography": "Sobreviviente de Auschwitz y Buchenwald quien se convirtió en autor, profesor y activista de derechos humanos. Escribió 'La Noche', un testamento poderoso sobre sus experiencias en los campos. Fue premio Nobel de la Paz en 1986.",
+      "significance": "Wiesel fue una voz moral global en la posguerra, advirtiendo sobre el antisemitismo y la indiferencia. Su legado demuestra cómo los sobrevivientes pueden convertir su trauma en advocacy para justicia y paz.",
+      "imageURL": null,
+      "sources": [
+        "La Noche - Elie Wiesel",
+        "Premio Nobel de la Paz 1986",
+        "Fundación Elie Wiesel"
+      ]
+    }
+  ],
+  "camps": [
+    {
+      "id": "auschwitz_birkenau",
+      "name": "Auschwitz-Birkenau",
+      "type": "Campo de Exterminio",
+      "territory": "Polonia",
+      "location": "Cerca de Oświęcim, Silesia",
+      "established": "Mayo de 1940",
+      "liberated": "27 de enero de 1945",
+      "totalDeaths": 1100000,
+      "estimatedCasualties": "Aproximadamente 1.1 millones",
+      "operators": ["Rudolf Höss", "Josef Mengele", "Fritzsche"],
+      "description": "El complejo de Auschwitz comprendía Auschwitz I (campo de concentración principal), Auschwitz II-Birkenau (campo de exterminio) y Auschwitz III-Monowitz (campo de trabajo forzado). Fue el campo más grande del sistema de concentración nazi y el principal sitio de ejecución del Holocausto.",
+      "historicalSignificance": "Auschwitz-Birkenau representa la industrialización del asesinato masivo. La creación de cámaras de gas y crematorios demostró la determinación nazi de llevar a cabo la 'Solución Final' de manera sistemática. Su liberación reveló al mundo la magnitud del Holocausto.",
+      "sources": ["Archivos de Auschwitz", "Testimonios de sobrevivientes", "Documentos de Núremberg", "Yad Vashem"]
+    },
+    {
+      "id": "treblinka",
+      "name": "Treblinka",
+      "type": "Campo de Exterminio",
+      "territory": "Polonia",
+      "location": "Cerca de Varsovia",
+      "established": "23 de julio de 1942",
+      "liberated": "2 de agosto de 1944",
+      "totalDeaths": 900000,
+      "estimatedCasualties": "Aproximadamente 900,000 principalmente judíos de Varsovia",
+      "operators": ["Ivan Marchenko", "Stangl Franz"],
+      "description": "Campo de exterminio puro que operó por menos de 2 años pero fue responsable de la muerte de casi 900,000 personas. A diferencia de Auschwitz, Treblinka fue construido únicamente para el asesinato masivo, sin instalaciones de trabajo forzado sustanciales.",
+      "historicalSignificance": "Treblinka fue el segundo campo de exterminio en volumen de muertes. Su existencia y operación demuestran la capacidad del régimen nazi para crear máquinas de muerte autosuficientes. Los sobrevivientes de Treblinka son extremadamente raros, lo que subraya su eficiencia letal.",
+      "sources": ["Testimonios de sobrevivientes de Treblinka", "Análisis histórico de Jan Gross", "Documentos alemanes desclasificados"]
+    },
+    {
+      "id": "sobibor",
+      "name": "Sobibor",
+      "type": "Campo de Exterminio",
+      "territory": "Polonia",
+      "location": "Sureste de Lublin",
+      "established": "May de 1942",
+      "liberated": "Octubre de 1943",
+      "totalDeaths": 250000,
+      "estimatedCasualties": "Aproximadamente 250,000",
+      "operators": ["Franz Stangl", "Otto Stadie"],
+      "description": "Segundo mayor campo de exterminio en Polonia, con una capacidad de asesinato de 1,500 a 2,000 personas por día. Operó durante 16 meses hasta que fue cerrado después de un levantamiento de prisioneros.",
+      "historicalSignificance": "Sobibor fue el sitio de un levantamiento significativo el 14 de octubre de 1943, donde prisioneros liderados por Alexander Pechersky asesinaron guardias nazis y huyeron. Aproximadamente 300 prisioneros escaparon, aunque muchos fueron recapturados y ejecutados.",
+      "sources": ["Testimonios de Thomas Blatt", "Documentos de Lublin", "Historiadores del Holocausto polaco"]
+    },
+    {
+      "id": "belzec",
+      "name": "Belzec",
+      "type": "Campo de Exterminio",
+      "territory": "Polonia",
+      "location": "Sureste de Lublin",
+      "established": "Noviembre de 1941",
+      "liberated": "Julio de 1944",
+      "totalDeaths": 600000,
+      "estimatedCasualties": "Aproximadamente 600,000 principalmente judíos polacos",
+      "operators": ["Christian Wirth", "Gottlieb Hering"],
+      "description": "Primer campo dedicado exclusivamente a la exterminio usando gas de monóxido de carbono. Operó durante poco más de un año, asesinando principalmente a judíos de Galicia, Lublin y otras regiones ocupadas.",
+      "historicalSignificance": "Belzec fue crucial en el desarrollo de los métodos de exterminio en masa. Las técnicas utilizadas aquí fueron refinadas y aplicadas en otros campos. Fue completamente desmantelado en 1943 para ocultar pruebas.",
+      "sources": ["Testimonios de Rudolf Höfle", "Historiadores polacos", "Archivos del Holocausto"]
+    },
+    {
+      "id": "chelmno",
+      "name": "Chelmno",
+      "type": "Campo de Exterminio",
+      "territory": "Polonia",
+      "location": "Departamento de Poznan",
+      "established": "Diciembre de 1941",
+      "liberated": "17 de enero de 1945",
+      "totalDeaths": 320000,
+      "estimatedCasualties": "Aproximadamente 320,000",
+      "operators": ["Herbert Lange", "Hans Bothmann"],
+      "description": "Primer sitio de exterminio masiva usando camiones de gas móviles ('gas vans'). Operó durante más de 3 años en ciclos distintos, asesinando principalmente a judíos del ghetto de Lodz.",
+      "historicalSignificance": "Chelmno fue el primer centro de muerte del Holocausto que usó camiones de gas móviles como método de ejecución masiva. Sus técnicas fueron precursoras de los métodos de gaseamiento que se utilizarían más tarde en otros campos.",
+      "sources": ["Testimonios de Szymon Srebrnik", "Archivos del gueto de Lodz", "Investigaciones de historiadores"]
+    },
+    {
+      "id": "majdanek",
+      "name": "Majdanek",
+      "type": "Campo de Exterminio",
+      "territory": "Polonia",
+      "location": "Afueras de Lublin",
+      "established": "Octubre de 1941",
+      "liberated": "23 de julio de 1944",
+      "totalDeaths": 360000,
+      "estimatedCasualties": "Aproximadamente 360,000",
+      "operators": ["Martin Weiss", "Thilo Heck"],
+      "description": "Campo de concentración y exterminio combinado cerca de Lublin. Constaba de 22 subcampos de trabajo forzado conectados a un sitio de exterminio. Fue el primer campo liberado por los soviéticos, revelando pruebas tangibles del asesinato masivo.",
+      "historicalSignificance": "La liberación de Majdanek por el Ejército Rojo el 23 de julio de 1944 proporcionó evidencia irrefutable de las atrocidades nazis. Las ruinas del campo con cámaras de gas, crematorios y miles de cadáveres impactaron profundamente a la comunidad internacional.",
+      "sources": ["Investigaciones soviéticas inmediatas", "Testimonios de sobrevivientes", "Archivos de Majdanek"]
+    },
+    {
+      "id": "dachau",
+      "name": "Dachau",
+      "type": "Campo de Concentración",
+      "territory": "Alemania",
+      "location": "Baviera, cerca de Múnich",
+      "established": "22 de marzo de 1933",
+      "liberated": "30 de abril de 1945",
+      "totalDeaths": 43000,
+      "estimatedCasualties": "Aproximadamente 43,000",
+      "operators": ["Heinrich Deubel", "Theodor Eicke"],
+      "description": "Primer campo de concentración del Tercer Reich y modelo para los futuros campos nazis. Combinaba concentración de prisioneros políticos, criminales comunes y judíos con trabajo forzado industrial. También fue sitio de experimentación médica.",
+      "historicalSignificance": "Dachau estableció el prototipo para el sistema de campos de concentración nazis. Su desarrollo de 12 años bajo el mando de Theodor Eicke creó la estructura administrativa que se aplicaría en otros campos. Su liberación fue una de las primeras evidencias de las condiciones de los campos.",
+      "sources": ["Archivos de Dachau", "Testimonios de liberadores estadounidenses", "Memoriales de Dachau"]
+    },
+    {
+      "id": "buchenwald",
+      "name": "Buchenwald",
+      "type": "Campo de Concentración",
+      "territory": "Alemania",
+      "location": "Turingia, cerca de Weimar",
+      "established": "Julio de 1937",
+      "liberated": "11 de abril de 1945",
+      "totalDeaths": 56000,
+      "estimatedCasualties": "Aproximadamente 56,000",
+      "operators": ["Karl Otto Koch", "Richard Baer"],
+      "description": "Uno de los campos de concentración más grandes de Alemania, alojando a prisioneros políticos, criminales, homosexuales, testigos de Jehová y judíos. Fue centro de brutal trabajo forzado en canteras y fábricas de armamento. También realizó experimentación médica.",
+      "historicalSignificance": "Buchenwald fue testigo de resistencia organizada entre prisioneros y sufrimiento extremo. El campo fue liberado por tropas estadounidenses, proporcionando pruebas documentadas de las atrocidades. La transmisión de soldados estadounidenses de lo que vieron impactó profundamente la opinión pública.",
+      "sources": ["Archivos de Buchenwald", "Testimonios de Elie Wiesel", "Liberación estadounidense documentada"]
+    },
+    {
+      "id": "ravensbruck",
+      "name": "Ravensbrück",
+      "type": "Campo de Concentración",
+      "territory": "Alemania",
+      "location": "Suecia, al norte de Berlín",
+      "established": "Mayo de 1939",
+      "liberated": "Abril de 1945",
+      "totalDeaths": 92000,
+      "estimatedCasualties": "Aproximadamente 92,000 principalmente mujeres",
+      "operators": ["Max Koegel", "Fritz Suhren"],
+      "description": "Único gran campo de concentración dedicado principalmente a mujeres en el Tercer Reich. Alojaba a prisioneras políticas, criminales, homosexuales y judías. Fue centro de experimentos médicos brutales en reproducción y esterilización forzada.",
+      "historicalSignificance": "Ravensbrück demuestra la sistemática persecución sexual de mujeres bajo el nazismo. Las sobrevivientes testimonian haber sufrido esterilizaciones forzadas, abuso sexual y experimentos médicos. El campo revela cómo el sexismo intersectaba con el racismo nazi.",
+      "sources": ["Testimonios de mujeres sobrevivientes", "Archivos médicos del campo", "Investigaciones sobre violencia sexual nazi"]
+    },
+    {
+      "id": "mauthausen",
+      "name": "Mauthausen",
+      "type": "Campo de Concentración",
+      "territory": "Austria",
+      "location": "Alta Austria",
+      "established": "Agosto de 1938",
+      "liberated": "5 de mayo de 1945",
+      "totalDeaths": 200000,
+      "estimatedCasualties": "Aproximadamente 200,000",
+      "operators": ["Albert Kaiter", "Franz Ziereis"],
+      "description": "Gran campo de concentración en Austria que operó durante 7 años. Combinaba trabajo esclavo brutal en canteras de piedra con confinamiento. Tuvo una tasa de mortalidad particularmente alta debido a las condiciones de trabajo extremas.",
+      "historicalSignificance": "Mauthausen fue notorio por sus condiciones brutales. La famosa 'Escala de la Muerte' - 186 escalones de piedra que los prisioneros debían subir mientras portaban piedra pesada - resultó en miles de muertes por agotamiento y caídas intencionales.",
+      "sources": ["Archivos de Mauthausen", "Testimonios de sobrevivientes austriacos", "Investigaciones internacionales"]
+    },
+    {
+      "id": "bergen_belsen",
+      "name": "Bergen-Belsen",
+      "type": "Campo de Concentración",
+      "territory": "Alemania",
+      "location": "Baja Sajonia",
+      "established": "Abril de 1943",
+      "liberated": "15 de abril de 1945",
+      "totalDeaths": 70000,
+      "estimatedCasualties": "Aproximadamente 70,000 en los últimos meses",
+      "operators": ["Josef Kramer", "Irene Haschke"],
+      "description": "Originalmente campo de prisioneros de guerra, luego convertido en campo de concentración que alojaba a prisioneros transferidos de otros campos durante la evacuación de 1945. Fue sitio de condiciones apocalípticas durante el colapso del Tercer Reich.",
+      "historicalSignificance": "Bergen-Belsen fue liberado por tropas británicas que encontraron una escena de horror indescriptible - miles de cuerpos sin enterrar, enfermedad generalizada y hambruna extrema. Las imágenes de la liberación de Bergen-Belsen impactaron profundamente al mundo.",
+      "sources": ["Documentación de liberación británica", "Testimonios de soldados liberadores", "Archivos médicos de epidemia"]
+    },
+    {
+      "id": "sachsenhausen",
+      "name": "Sachsenhausen",
+      "type": "Campo de Concentración",
+      "territory": "Alemania",
+      "location": "Brandeburgo, cerca de Oranienburg",
+      "established": "Julio de 1936",
+      "liberated": "22 de abril de 1945",
+      "totalDeaths": 30000,
+      "estimatedCasualties": "Aproximadamente 30,000",
+      "operators": ["Heinrich Deubel", "Anton Kaindl"],
+      "description": "Campo de concentración importante cerca de Berlín que sirvió como modelo administrativo para otros campos. Alojaba a prisioneros políticos, criminales y judíos. Fue centro de investigación sobre falsificación de divisas.",
+      "historicalSignificance": "Sachsenhausen fue importante como campo de prototipo administrativo. Su liberación por el Ejército Rojo reveló documentos cruciales sobre la organización del sistema de campos. Fue uno de los primeros campos liberados en la Ofensiva de Prusia Oriental.",
+      "sources": ["Archivos de Sachsenhausen", "Investigaciones soviéticas", "Documentos administrativos nazis"]
+    },
+    {
+      "id": "theresienstadt",
+      "name": "Theresienstadt",
+      "type": "Campo de Tránsito",
+      "territory": "Checoslovaquia",
+      "location": "Bohemia",
+      "established": "Noviembre de 1941",
+      "liberated": "8 de mayo de 1945",
+      "totalDeaths": 33000,
+      "estimatedCasualties": "Aproximadamente 33,000 en el campo; 88,000 más transportados a Auschwitz",
+      "operators": ["Jakob Edelstein", "Ghetto administration"],
+      "description": "Único gueto-campo oficial bajo control judío supervisado por los nazis. Funcionaba como campo de tránsito principal y fue utilizado como herramienta de propaganda nazi para demostrar el 'trato justo' a los judíos. La mayoría de sus habitantes fueron deportados a Auschwitz.",
+      "historicalSignificance": "Theresienstadt fue escenario de la película de propaganda 'Der Führer schenkt den Juden eine Stadt' (El Führer le regala una ciudad a los judíos). A pesar de su apariencia de vida comunitaria, fue un centro de hambre, enfermedad y deportación masiva a campos de muerte.",
+      "sources": ["Testimonios de sobrevivientes de Theresienstadt", "Documentos de la Solución Final", "Análisis de propaganda nazi"]
+    },
+    {
+      "id": "jasenovac",
+      "name": "Jasenovac",
+      "type": "Campo de Exterminio",
+      "territory": "Croacia (Yugoslavia)",
+      "location": "Bosnia",
+      "established": "Agosto de 1941",
+      "liberated": "Abril de 1945",
+      "totalDeaths": 100000,
+      "estimatedCasualties": "Aproximadamente 100,000",
+      "operators": ["Dinko Sakic", "Vjekoslav Luburić"],
+      "description": "Campo de concentración y exterminio operado por los Ustasha croatas bajo ocupación nazi. A diferencia de otros campos, fue dirigido por fascistas locales. Fue sitio de torturas extraordinarias, ejecuciones de judíos, gitanos y serbios.",
+      "historicalSignificance": "Jasenovac demuestra cómo el régimen nazi aprovechó a regímenes fascistas locales para llevar a cabo el Holocausto. Su historia complicada como sitio de matanza de múltiples grupos de víctimas revela la complejidad del Holocausto más allá de Alemania.",
+      "sources": ["Archivos de Jasenovac", "Testimonios de sobrevivientes de Balkanes", "Investigaciones de crímenes de guerra yugoslavos"]
+    },
+    {
+      "id": "flossenburg",
+      "name": "Flössenburg",
+      "type": "Campo de Concentración",
+      "territory": "Alemania",
+      "location": "Baviera, Oberpfalz",
+      "established": "Mayo de 1938",
+      "liberated": "23 de abril de 1945",
+      "totalDeaths": 30000,
+      "estimatedCasualties": "Aproximadamente 30,000",
+      "operators": ["Karl Künstler", "Max Lübbe"],
+      "description": "Campo de concentración junto a una mina de piedra. Prisioneros fueron trabajados hasta la muerte en condiciones brutales de explotación laboral. Fue centro de ejecuciones, experimentación médica y corrupción administrativa.",
+      "historicalSignificance": "Flössenburg representa el sistema de trabajo forzado letal del Tercer Reich. Sus estructuras de piedra y cementerios improvisados cuentan la historia de miles de muertes por agotamiento y brutalidad.",
+      "sources": ["Archivos de Flössenburg", "Testimonios de sobrevivientes", "Documentación de trabajo forzado"]
+    },
+    {
+      "id": "stutthof",
+      "name": "Stutthof",
+      "type": "Campo de Concentración",
+      "territory": "Polonia",
+      "location": "Danzig, en el Báltico",
+      "established": "Septiembre de 1939",
+      "liberated": "Enero de 1945",
+      "totalDeaths": 65000,
+      "estimatedCasualties": "Aproximadamente 65,000",
+      "operators": ["Richard Wirth", "Paul Stawitzky"],
+      "description": "Campo de concentración costero que operó durante casi 6 años. Fue centro de experimentación médica, trabajo forzado brutal y asesinato masivo durante las evacuaciones de 1945. Las víctimas fueron principalmente judíos, prisioneros políticos y prisioneros de guerra.",
+      "historicalSignificance": "Stutthof fue uno de los últimos campos en ser evacuados. La evacuación de 1945 resultó en miles de muertes en el Báltico congelado cuando prisioneros fueron embarcados en barcos que fueron hundidos. Su liberación ocurrió solo meses antes del final de la guerra.",
+      "sources": ["Archivos de Stutthof", "Testimonios de Zofia Posmysz", "Investigaciones de hundimientos de barcos"]
+    },
+    {
+      "id": "gross_rosen",
+      "name": "Groß-Rosen",
+      "type": "Campo de Concentración",
+      "territory": "Alemania/Polonia",
+      "location": "Silesia",
+      "established": "Agosto de 1940",
+      "liberated": "Marzo de 1945",
+      "totalDeaths": 40000,
+      "estimatedCasualties": "Aproximadamente 40,000",
+      "operators": ["Friedrich Linderot", "Tilo Heck"],
+      "description": "Campo de concentración con cantera de granito asociada. Prisioneros fueron explotados para trabajo forzado en la explotación de piedra. Tuvo red de subcampos. Fue evacuado caóticamente con miles muriendo en los viajes de evacuación.",
+      "historicalSignificance": "Groß-Rosen representa los esfuerzos nazis de expandir el trabajo esclavo durante la guerra. Su evacuación fue particularmente caótica, con miles de muertos en lo que se conocen como 'marchas de la muerte' hacia el oeste.",
+      "sources": ["Archivos de Groß-Rosen", "Testimonios de 'marchas de la muerte'", "Investigaciones de Silesia"]
+    },
+    {
+      "id": "neuengamme",
+      "name": "Neuengamme",
+      "type": "Campo de Concentración",
+      "territory": "Alemania",
+      "location": "Hamburgo",
+      "established": "Septiembre de 1938",
+      "liberated": "Mayo de 1945",
+      "totalDeaths": 55000,
+      "estimatedCasualties": "Aproximadamente 55,000",
+      "operators": ["Albert Konrad Thumann", "Walter Obermayer"],
+      "description": "Gran campo de concentración con trabajo forzado en ladrillerías. Fue centro de experimentación médica y tormento. Fue evacua caóticamente con miles muriendo en evacuación por mar.",
+      "historicalSignificance": "Neuengamme fue sitio de notoria experimentación médica en tuberculosis. Su evacuación en abril de 1945 resultó en el hundimiento del barco Cap Arcona con miles de prisioneros a bordo.",
+      "sources": ["Archivos de Neuengamme", "Testimonios de Cap Arcona", "Documentación médica"]
+    },
+    {
+      "id": "mittelbau_dora",
+      "name": "Mittelbau-Dora",
+      "type": "Campo de Trabajo Forzado",
+      "territory": "Alemania",
+      "location": "Turingia",
+      "established": "Octubre de 1943",
+      "liberated": "Abril de 1945",
+      "totalDeaths": 20000,
+      "estimatedCasualties": "Aproximadamente 20,000",
+      "operators": ["Georg Rickhey", "Otto Förschner"],
+      "description": "Campo subterráneo dedicado a fabricación de cohetes V-2. Prisioneros trabajaron en condiciones lethales en túneles. Fue principalmente poblado por prisioneros políticos y soviéticos.",
+      "historicalSignificance": "Mittelbau-Dora representa el trabajo forzado nazi para la industria de armamento. Su conexión a tecnología avanzada (cohetes V-2) demuestra cómo el trabajo esclavo fue integrado en el complejo militar-industrial nazi.",
+      "sources": ["Archivos de Mittelbau", "Testimonios soviéticos", "Documentación de cohetes"]
+    },
+    {
+      "id": "vught",
+      "name": "Vught",
+      "type": "Campo de Concentración",
+      "territory": "Países Bajos",
+      "location": "Brabante",
+      "established": "Enero de 1943",
+      "liberated": "Octubre de 1944",
+      "totalDeaths": 750,
+      "estimatedCasualties": "Aproximadamente 750 en el campo; muchos más deportados a Auschwitz",
+      "operators": ["Albert Konrad Thumann", "Commissar Sloot"],
+      "description": "Campo holandés que sirvió como centro de concentración para judíos holandeses. Fue principalmente campo de tránsito con deportaciones a Auschwitz. Fue liberado por tropas estadounidenses y canadienses.",
+      "historicalSignificance": "Vught demuestra la extensión del sistema de campos nazis fuera de territorio alemán. Su liberación fue entre las primeras en Occidente que revelaron estructuras de campos intactas.",
+      "sources": ["Archivos de Vught", "Testimonios holandeses", "Documentación de liberación"]
+    },
+    {
+      "id": "drancy",
+      "name": "Drancy",
+      "type": "Campo de Tránsito",
+      "territory": "Francia",
+      "location": "París",
+      "established": "Agosto de 1941",
+      "liberated": "Agosto de 1944",
+      "totalDeaths": 1000,
+      "estimatedCasualties": "Aproximadamente 1,000 en el campo; 75,000 deportados de Drancy",
+      "operators": ["Alain Laffont", "Jacques Schweblin"],
+      "description": "Centro de detención temporal para judíos franceses antes de deportación. Operado inicialmente por colaboracionistas franceses. Fue sitio de hambre, enfermedad y hacinamiento brutal.",
+      "historicalSignificance": "Drancy fue principal punto de tránsito para la deportación de 75,000 judíos franceses. Su existencia demuestra la colaboración francesa en el Holocausto. La mayoría de sus residentes fueron asesinados en Auschwitz.",
+      "sources": ["Archivos de Drancy", "Testimonios de deportados", "Investigaciones de Vichy"]
+    },
+    {
+      "id": "gurs",
+      "name": "Gurs",
+      "type": "Campo de Concentración",
+      "territory": "Francia",
+      "location": "Pirineos franceses",
+      "established": "Marzo de 1939",
+      "liberated": "Octubre de 1944",
+      "totalDeaths": 1000,
+      "estimatedCasualties": "Aproximadamente 1,000",
+      "operators": ["Vichy Administration", "French Guards"],
+      "description": "Campo francés para extranjeros que luego se utilizó para internar judíos. Fue sitio de enfermedad, hambruna y sufrimiento. Muchos de sus residentes fueron deportados a Auschwitz.",
+      "historicalSignificance": "Gurs representa la complicidad francesa en la persecución de judíos. Aunque fue campo francés, fue plataforma para deportaciones a campos de muerte nazis.",
+      "sources": ["Archivos de Gurs", "Testimonio de Sobrevivientes", "Investigaciones de Vichy"]
+    }
+  ]
+}
