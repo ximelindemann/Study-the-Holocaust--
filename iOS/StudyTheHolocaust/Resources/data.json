@@ -387,5 +387,87 @@
       "relatedPerpetrators": [],
       "sources": ["Actas de Núremberg"]
     }
+  ],
+  "articles": [
+    {
+      "id": "understanding_holocaust_basics",
+      "title": "Fundamentos del Holocausto",
+      "category": "Entender el Holocausto",
+      "date": "2024-01-15",
+      "author": "Equipo Editorial",
+      "summary": "Introducción a los conceptos clave del Holocausto: qué fue, cómo sucedió y por qué es importante recordarlo.",
+      "content": "El Holocausto fue el exterminio sistemático de aproximadamente 6 millones de judíos europeos por el régimen nazi de Adolf Hitler entre 1933 y 1945. Fue el genocidio más industrializado de la historia, caracterizado por la burocratización del asesinato y la participación de múltiples niveles de la sociedad alemana.\n\nEl término 'Holocausto' proviene del griego 'holos' (todo) y 'kaustos' (quemado). Los nazis lo llamaban la 'Solución Final a la Cuestión Judía', un eufemismo para el plan de exterminio total.\n\nNo fue un acto espontáneo de violencia, sino un proceso planeado que evolucionó desde la persecución legal (1933-1939) a través de la segregación en guetos (1939-1941) hasta el exterminio industrial en campos especializados (1941-1945).\n\nEs crucial entender que el Holocausto fue posible porque muchas personas comunes permitieron, participaron o facilitaron su ejecución. Desde funcionarios burocráticos que clasificaban a las víctimas hasta guardias de campos y colaboradores locales, millones fueron cómplices.",
+      "imageURL": null,
+      "sources": [
+        "Yad Vashem - Autoridad Conmemorativa del Holocausto",
+        "Memorial del Holocausto de Estados Unidos",
+        "Archivos de Auschwitz"
+      ],
+      "relatedTopics": ["perpetradores", "solución final", "guetos", "campos de concentración"]
+    },
+    {
+      "id": "nazi_ideology_propaganda",
+      "title": "Ideología Nazi y Propaganda",
+      "category": "Los Perpetradores",
+      "date": "2024-01-20",
+      "author": "Equipo Editorial",
+      "summary": "Cómo el nazismo utilizó la propaganda y la pseudociencia para justificar el genocidio.",
+      "content": "La ideología nazi se basaba en conceptos pseudocientíficos de 'pureza racial' y una jerarquía racial que colocaba a los 'arios' en la cúspide y a los judíos como enemigos existenciales de la raza alemana.\n\nLa propaganda nazi, bajo la dirección de Joseph Goebbels, fue extraordinariamente efectiva. Utilizó medios modernos como el cine, la radio y carteles para:\n- Deshumanizar a los judíos con caricaturas y estereotipos\n- Presentar el antisemitismo como una posición científica racional\n- Crear un sentido de urgencia sobre la 'amenaza judía'\n- Normalizar la discriminación y la violencia\n\nUna técnica clave fue repetir constantemente los mismos mensajes hasta que se convirtieron en verdad aceptada. Los nazis también utilizaron el terror para silenciar a los críticos.\n\nEs importante reconocer que la propaganda nazi no fue simplemente 'lavado de cerebro'. Funcionó porque aprovechó prejuicios existentes, especialmente el antisemitismo histórico profundamente arraigado en la cultura europea.",
+      "imageURL": null,
+      "sources": [
+        "Registros del Ministerio de Propaganda Nazi",
+        "Análisis de David Welch sobre propaganda nazi",
+        "Archivos del Instituto de Historia Contemporánea"
+      ],
+      "relatedTopics": ["antisemitismo", "Joseph Goebbels", "deshumanización", "control de medios"]
+    },
+    {
+      "id": "resistance_heroism",
+      "title": "Resistencia y Heroísmo",
+      "category": "Resistencia y Heroísmo",
+      "date": "2024-02-01",
+      "author": "Equipo Editorial",
+      "summary": "Historias de aquellos que resistieron al Holocausto, desde revueltas armadas hasta rescates clandestinos.",
+      "content": "Aunque el Holocausto fue un evento de opresión casi total, hubo actos notables de resistencia y heroísmo.\n\nLA RESISTENCIA JUDÍA:\n- El Levantamiento del Gueto de Varsovia (abril-mayo 1943) fue la primera revuelta urbana contra los nazis\n- Levantamientos en campos como Treblinka (agosto 1943) y Sobibor (octubre 1943)\n- Guerrilleros judíos que lucharon en los bosques de Europa Oriental\n- Organizaciones clandestinas que forjaban documentos y ayudaban a escapar\n\nLOS JUSTOS ENTRE LAS NACIONES:\n- Aproximadamente 100,000 no judíos arriesgaron sus vidas para rescatar judíos\n- Ejemplos notables incluyen a Oskar Schindler, Raoul Wallenberg y la familia Chambon\n- Personas ordinarias que escondieron a judíos, les proporcionaron alimento y refugio\n\nRESISTENCIA ESPIRITUAL:\n- Mantener la dignidad humana en los campos más inhumanos\n- Grupos clandestinos que educaban a los niños y enseñaban religión\n- Actos de compasión y solidaridad entre prisioneros\n\nEsta resistencia demuestra que incluso en las circunstancias más oscuras, la resistencia humana es posible.",
+      "imageURL": null,
+      "sources": [
+        "Yad Vashem - Base de datos de Justos",
+        "Testimonios de sobrevivientes",
+        "Archivos del Museo del Holocausto de EE.UU."
+      ],
+      "relatedTopics": ["levantamientos", "Justos entre las Naciones", "rescates", "guerrilleros"]
+    },
+    {
+      "id": "wannsee_conference_final_solution",
+      "title": "La Conferencia de Wannsee y la Solución Final",
+      "category": "Los Perpetradores",
+      "date": "2024-02-10",
+      "author": "Equipo Editorial",
+      "summary": "El evento clave donde los nazis decidieron implementar el genocidio sistemático.",
+      "content": "El 20 de enero de 1941, quince altos funcionarios nazis se reunieron en una casa de lujo en el suburbio de Wannsee en Berlín para coordinar los detalles de la 'Solución Final a la Cuestión Judía'.\n\nASISTENTES CLAVE:\nLa conferencia fue dirigida por Reinhard Heydrich, lugarteniente de Himmler en el Reich Security Main Office. Adolf Eichmann, jefe de la Sección de Asuntos Judíos, fue el principal planificador ejecutivo.\n\nLO QUE SUCEDIÓ:\nAntes de Wannsee, la política nazi hacia los judíos había incluido expulsión y relocación forzada. En Wannsee, la decisión fue clara: exterminio total.\n\nPLANES ESPECÍFICOS:\n- Deportación de judíos desde toda Europa a campos en el Este (principalmente en Polonia)\n- Construcción de centros especializados de exterminio con cámaras de gas\n- Implementación de métodos industriales de asesinato\n- Destrucción de evidencia\n\nLEGACY DEL PROTOCOLO:\nLa única documentación sobreviviente es el 'Protocolo de Wannsee', que proporciona evidencia clara de la planificación burocrática del genocidio. Este documento es crucial para entender que el Holocausto no fue una serie de actos aislados de violencia, sino un programa coordinado a nivel de Estado.",
+      "imageURL": null,
+      "sources": [
+        "Protocolo de Wannsee (documento original)",
+        "Testimonios de Adolf Eichmann",
+        "Análisis del Museo Conmemorativo del Holocausto de EE.UU."
+      ],
+      "relatedTopics": ["Solución Final", "exterminio", "campos de gas", "Reinhard Heydrich"]
+    },
+    {
+      "id": "justice_nuremberg_trials",
+      "title": "Justicia: Los Juicios de Núremberg",
+      "category": "Justicia y Juicios",
+      "date": "2024-02-15",
+      "author": "Equipo Editorial",
+      "summary": "El primer tribunal internacional para juzgar crímenes de guerra y crímenes contra la humanidad.",
+      "content": "Después de la rendición de Alemania en 1945, la pregunta era: ¿cómo se podría juzgar a los criminales de guerra nazis?\n\nLOS JUICIOS DE NÚREMBERG (1945-1946):\nLa solución fue crear un tribunal internacional sin precedentes. Por primera vez en la historia, los líderes de una nación fueron juzgados por sus acciones contra sus propios ciudadanos y otros.\n\nFIGURAS PRINCIPALES JUZGADAS:\n- Hermann Göring - Comandante supremo de la Luftwaffe\n- Rudolf Hess - Viceführer\n- Joachim von Ribbentrop - Ministro de Relaciones Exteriores\n- Wilhelm Keitel - Jefe de personal militar\n- Otros 20 líderes nazis de alto rango\n\nCARGOS:\n- Crímenes contra la paz\n- Crímenes de guerra\n- Crímenes contra la humanidad\n\nSENTENCIAS:\n- 12 fueron condenados a muerte\n- 7 recibieron sentencias de prisión\n- 3 fueron absueltos\n\nIMPACTO LEGADO:\nLos Juicios de Núremberg establecieron precedentes legales internacionales que siguen siendo aplicados hoy:\n- El concepto de 'crímenes contra la humanidad'\n- La responsabilidad individual por actos de Estado\n- El principio de que 'solo cumplía órdenes' no es una defensa válida\n\nEste tribunal demostró que incluso los más poderosos pueden ser responsables ante la ley.",
+      "imageURL": null,
+      "sources": [
+        "Actas oficiales de los Juicios de Núremberg",
+        "Documentos del Tribunal Militar Internacional",
+        "Análisis del Centro del Holocausto de Yad Vashem"
+      ],
+      "relatedTopics": ["crímenes de guerra", "responsabilidad individual", "precedente legal"]
+    }
   ]
 }
